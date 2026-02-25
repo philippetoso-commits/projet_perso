@@ -1,0 +1,12 @@
+{
+    "mot": "Sur le vélo",
+    "syllabes": [
+        "Sur",
+        "le",
+        "vélo"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/transport/velo.jpg",
+    "level": 4,
+    "success_count": 0
+}

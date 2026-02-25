@@ -1,0 +1,15 @@
+{
+    "mot": "journal",
+    "theme": "maison_objets",
+    "pixabay_id": 1172463,
+    "author": "652234",
+    "tags": "nouvelles, quotidien, presse, journaux, information, lis, journal, papier journal",
+    "syllabes": [
+        "jour",
+        "nal"
+    ],
+    "syllabes_texte": "jour - nal",
+    "image_path": "assets/images/maison_objets/journal.jpg",
+    "level": 1,
+    "success_count": 0
+}

@@ -1,0 +1,11 @@
+{
+    "mot": "Les frites",
+    "syllabes": [
+        "Les",
+        "frites"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/aliments/frites.jpg",
+    "level": 4,
+    "success_count": 0
+}

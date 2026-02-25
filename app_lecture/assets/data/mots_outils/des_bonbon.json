@@ -1,0 +1,11 @@
+{
+    "mot": "Des bonbons",
+    "syllabes": [
+        "Des",
+        "bonbons"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/aliments/bonbon.jpg",
+    "level": 4,
+    "success_count": 0
+}

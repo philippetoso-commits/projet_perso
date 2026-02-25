@@ -1,0 +1,15 @@
+{
+    "mot": "bonnet",
+    "theme": "vetements",
+    "pixabay_id": 8437670,
+    "author": "jhenning",
+    "tags": "champignon, tronc, journal, pourri, bonnet, mycènes, bois",
+    "syllabes": [
+        "bon",
+        "net"
+    ],
+    "syllabes_texte": "bon - net",
+    "image_path": "assets/images/vetements/bonnet.jpg",
+    "level": 1,
+    "success_count": 0
+}

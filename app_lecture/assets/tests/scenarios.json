@@ -1,0 +1,3906 @@
+[
+    {
+        "id": "audit_000_abricot",
+        "word": "abricot",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/abricot.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_001_ail",
+        "word": "ail",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ail.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_002_amande",
+        "word": "amande",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/amande.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_003_ananas",
+        "word": "ananas",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ananas.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_004_aubergine",
+        "word": "aubergine",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/aubergine.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_005_avocat",
+        "word": "avocat",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/avocat.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_006_banane",
+        "word": "banane",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/banane.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_007_beurre",
+        "word": "beurre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/beurre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_008_biscuit",
+        "word": "biscuit",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/biscuit.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_009_bonbon",
+        "word": "bonbon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bonbon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_010_brocoli",
+        "word": "brocoli",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/brocoli.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_011_allo",
+        "word": "all\u00f4",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/allo.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_012_carotte",
+        "word": "carotte",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/carotte.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_013_cerise",
+        "word": "cerise",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cerise.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_014_champignon",
+        "word": "champignon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/champignon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_015_chocolat",
+        "word": "chocolat",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chocolat.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_016_citron",
+        "word": "citron",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/citron.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_017_citrouille",
+        "word": "citrouille",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/citrouille.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_018_confiture",
+        "word": "confiture",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/confiture.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_019_crepe",
+        "word": "cr\u00eape",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/crepe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_020_croissant",
+        "word": "croissant",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/croissant.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_021_eau",
+        "word": "eau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/eau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_022_farine",
+        "word": "farine",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/farine.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_023_fraise",
+        "word": "fraise",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fraise.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_024_frites",
+        "word": "frites",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/frites.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_025_fromage",
+        "word": "fromage",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fromage.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_026_gateau",
+        "word": "g\u00e2teau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gateau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_027_gaufre",
+        "word": "gaufre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gaufre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_028_glace",
+        "word": "glace",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/glace.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_029_haricot",
+        "word": "haricot",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/haricot.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_030_huile",
+        "word": "huile",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/huile.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_031_jambon",
+        "word": "jambon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/jambon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_032_jus_d_orange",
+        "word": "jus d'orange",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/jus_d_orange.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_033_kiwi",
+        "word": "kiwi",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/kiwi.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_034_lait",
+        "word": "lait",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lait.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_035_melon",
+        "word": "melon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/melon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_036_miel",
+        "word": "miel",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/miel.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_037_noisette",
+        "word": "noisette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/noisette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_038_noix",
+        "word": "noix",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/noix.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_039_oeuf",
+        "word": "oeuf",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/oeuf.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_040_oignon",
+        "word": "oignon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/oignon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_041_olive",
+        "word": "olive",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/olive.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_042_orange",
+        "word": "orange",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/orange.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_043_ble",
+        "word": "bl\u00e9",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ble.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_044_pates",
+        "word": "pates",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pates.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_045_peche",
+        "word": "p\u00eache",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/peche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_046_petit_pois",
+        "word": "petit pois",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/petit_pois.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_047_pizza",
+        "word": "pizza",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pizza.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_048_poire",
+        "word": "poire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_049_poisson",
+        "word": "poisson",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poisson.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_050_poivron",
+        "word": "poivron",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poivron.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_051_pomme",
+        "word": "pomme",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pomme.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_052_pomme_de_terre",
+        "word": "pomme de terre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pomme_de_terre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_053_poulet",
+        "word": "poulet",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poulet.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_054_puree",
+        "word": "pur\u00e9e",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/puree.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_055_quiche",
+        "word": "quiche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/quiche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_056_radis",
+        "word": "radis",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/radis.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_057_raisin",
+        "word": "raisin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/raisin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_058_riz",
+        "word": "riz",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/riz.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_059_salade",
+        "word": "salade",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/salade.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_060_sandwich",
+        "word": "sandwich",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sandwich.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_061_saucisson",
+        "word": "saucisson",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/saucisson.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_062_sel",
+        "word": "sel",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sel.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_063_soupe",
+        "word": "soupe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/soupe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_064_sucre",
+        "word": "sucre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sucre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_065_tarte",
+        "word": "tarte",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tarte.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_066_tomate",
+        "word": "tomate",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tomate.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_067_viande",
+        "word": "viande",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/viande.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_068_vinaigre",
+        "word": "vinaigre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/vinaigre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_069_yaourt",
+        "word": "yaourt",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/yaourt.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_070_abeille",
+        "word": "abeille",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/abeille.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_071_aigle",
+        "word": "aigle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/aigle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_072_ane",
+        "word": "\u00e2ne",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ane.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_073_araignee",
+        "word": "araign\u00e9e",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/araignee.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_074_autruche",
+        "word": "autruche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/autruche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_075_baleine",
+        "word": "baleine",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/baleine.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_076_biche",
+        "word": "biche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/biche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_077_canard",
+        "word": "canard",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/canard.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_078_castor",
+        "word": "castor",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/castor.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_079_chameau",
+        "word": "chameau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chameau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_080_chat",
+        "word": "chat",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chat.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_081_chauve_souris",
+        "word": "chauve-souris",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chauve_souris.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_082_cheval",
+        "word": "cheval",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cheval.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_083_chevre",
+        "word": "ch\u00e8vre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chevre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_084_chien",
+        "word": "chien",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chien.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_085_coccinelle",
+        "word": "coccinelle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/coccinelle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_086_cochon",
+        "word": "cochon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cochon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_087_crabe",
+        "word": "crabe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/crabe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_088_crevette",
+        "word": "crevette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/crevette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_089_crocodile",
+        "word": "crocodile",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/crocodile.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_090_cygne",
+        "word": "cygne",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cygne.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_091_dauphin",
+        "word": "dauphin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dauphin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_092_dindon",
+        "word": "dindon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dindon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_093_ecureuil",
+        "word": "\u00e9cureuil",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ecureuil.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_094_elephant",
+        "word": "\u00e9l\u00e9phant",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/elephant.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_095_escargot",
+        "word": "escargot",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/escargot.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_096_flamant_rose",
+        "word": "flamant rose",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/flamant_rose.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_097_fourmi",
+        "word": "fourmi",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fourmi.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_098_girafe",
+        "word": "girafe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/girafe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_099_gorille",
+        "word": "gorille",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gorille.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_100_grenouille",
+        "word": "grenouille",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/grenouille.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_101_herisson",
+        "word": "h\u00e9risson",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/herisson.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_102_hibou",
+        "word": "hibou",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/hibou.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_103_hippopotame",
+        "word": "hippopotame",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/hippopotame.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_104_kangourou",
+        "word": "kangourou",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/kangourou.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_105_koala",
+        "word": "koala",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/koala.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_106_lapin",
+        "word": "lapin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lapin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_107_libellule",
+        "word": "libellule",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/libellule.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_108_lion",
+        "word": "lion",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lion.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_109_loup",
+        "word": "loup",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/loup.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_110_marmotte",
+        "word": "marmotte",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/marmotte.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_111_meduse",
+        "word": "m\u00e9duse",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/meduse.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_112_mouche",
+        "word": "mouche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/mouche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_113_moustique",
+        "word": "moustique",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/moustique.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_114_mouton",
+        "word": "mouton",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/mouton.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_115_oiseau",
+        "word": "oiseau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/oiseau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_116_ours",
+        "word": "ours",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ours.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_117_panda",
+        "word": "panda",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/panda.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_118_papillon",
+        "word": "papillon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/papillon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_119_perroquet",
+        "word": "perroquet",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/perroquet.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_120_pieuvre",
+        "word": "pieuvre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pieuvre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_121_pigeon",
+        "word": "pigeon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pigeon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_122_pingouin",
+        "word": "pingouin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pingouin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_123_poisson",
+        "word": "poisson",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poisson.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_124_poule",
+        "word": "poule",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poule.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_125_poussin",
+        "word": "poussin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poussin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_126_renard",
+        "word": "renard",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/renard.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_127_requin",
+        "word": "requin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/requin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_128_rhinoceros",
+        "word": "rhinoc\u00e9ros",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/rhinoceros.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_129_serpent",
+        "word": "serpent",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/serpent.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_130_singe",
+        "word": "singe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/singe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_131_souris",
+        "word": "souris",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/souris.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_132_taureau",
+        "word": "taureau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/taureau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_133_tigre",
+        "word": "tigre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tigre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_134_tortue",
+        "word": "tortue",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tortue.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_135_vache",
+        "word": "vache",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/vache.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_136_veau",
+        "word": "veau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/veau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_137_zebre",
+        "word": "z\u00e8bre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/zebre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_138_bouche",
+        "word": "bouche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bouche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_139_bras",
+        "word": "bras",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bras.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_140_cheveux",
+        "word": "cheveux",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cheveux.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_141_cheville",
+        "word": "cheville",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cheville.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_142_coeur",
+        "word": "coeur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/coeur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_143_cou",
+        "word": "cou",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cou.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_144_coude",
+        "word": "coude",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/coude.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_145_dent",
+        "word": "dent",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dent.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_146_doigt",
+        "word": "doigt",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/doigt.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_147_dos",
+        "word": "dos",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dos.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_148_epaule",
+        "word": "epaule",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/epaule.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_149_fesse",
+        "word": "fesse",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fesse.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_150_genou",
+        "word": "genou",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/genou.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_151_jambe",
+        "word": "jambe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/jambe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_152_langue",
+        "word": "langue",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/langue.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_153_main",
+        "word": "main",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/main.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_154_nez",
+        "word": "nez",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/nez.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_155_oeil",
+        "word": "oeil",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/oeil.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_156_ongle",
+        "word": "ongle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ongle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_157_oreille",
+        "word": "oreille",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/oreille.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_158_orteil",
+        "word": "orteil",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/orteil.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_159_pied",
+        "word": "pied",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pied.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_160_poignet",
+        "word": "poignet",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poignet.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_161_poitrine",
+        "word": "poitrine",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poitrine.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_162_pouce",
+        "word": "pouce",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pouce.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_163_squelette",
+        "word": "squelette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/squelette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_164_talon",
+        "word": "talon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/talon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_165_tete",
+        "word": "tete",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tete.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_166_ventre",
+        "word": "ventre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ventre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_167_visage",
+        "word": "visage",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/visage.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_168_ardoise",
+        "word": "ardoise",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ardoise.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_169_bibliotheque",
+        "word": "bibliotheque",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bibliotheque.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_170_bureau",
+        "word": "bureau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bureau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_171_cahier",
+        "word": "cahier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cahier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_172_calculatrice",
+        "word": "calculatrice",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/calculatrice.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_173_cantine",
+        "word": "cantine",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cantine.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_174_cartable",
+        "word": "cartable",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cartable.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_175_chaise",
+        "word": "chaise",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chaise.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_176_ciseaux",
+        "word": "ciseaux",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ciseaux.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_177_classe",
+        "word": "classe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/classe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_178_classeur",
+        "word": "classeur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/classeur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_179_colle",
+        "word": "colle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/colle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_180_craie",
+        "word": "craie",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/craie.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_181_crayon",
+        "word": "crayon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/crayon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_182_dictionnaire",
+        "word": "dictionnaire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dictionnaire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_183_ecole",
+        "word": "ecole",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ecole.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_184_feuille",
+        "word": "feuille",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/feuille.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_185_feutre",
+        "word": "feutre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/feutre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_186_gomme",
+        "word": "gomme",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gomme.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_187_gymnase",
+        "word": "gymnase",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gymnase.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_188_livre",
+        "word": "livre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/livre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_189_papier",
+        "word": "papier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/papier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_190_peinture",
+        "word": "peinture",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/peinture.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_191_pinceau",
+        "word": "pinceau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pinceau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_192_recreation",
+        "word": "recreation",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/recreation.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_193_regle",
+        "word": "regle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/regle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_194_stylo",
+        "word": "stylo",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/stylo.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_195_tableau",
+        "word": "tableau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tableau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_196_taille_crayon",
+        "word": "taille-crayon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/taille_crayon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_197_trousse",
+        "word": "trousse",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/trousse.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_198_armoire",
+        "word": "armoire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/armoire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_199_arrosoir",
+        "word": "arrosoir",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/arrosoir.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_200_aspirateur",
+        "word": "aspirateur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/aspirateur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_201_assiette",
+        "word": "assiette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/assiette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_202_baignoire",
+        "word": "baignoire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/baignoire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_203_balai",
+        "word": "balai",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/balai.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_204_balcon",
+        "word": "balcon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/balcon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_205_boite",
+        "word": "boite",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/boite.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_206_bol",
+        "word": "bol",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bol.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_207_brosse",
+        "word": "brosse",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/brosse.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_208_brosse_a_dents",
+        "word": "brosse a dents",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/brosse_a_dents.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_209_bureau",
+        "word": "bureau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bureau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_210_cadre",
+        "word": "cadre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cadre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_211_canape",
+        "word": "canape",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/canape.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_212_casserole",
+        "word": "casserole",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/casserole.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_213_chaise",
+        "word": "chaise",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chaise.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_214_cheminee",
+        "word": "cheminee",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cheminee.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_215_ciseaux",
+        "word": "ciseaux",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ciseaux.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_216_cle",
+        "word": "cle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_217_cloture",
+        "word": "cloture",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cloture.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_218_colle",
+        "word": "colle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/colle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_219_coussin",
+        "word": "coussin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/coussin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_220_couteau",
+        "word": "couteau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/couteau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_221_couverture",
+        "word": "couverture",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/couverture.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_222_cuillere",
+        "word": "cuillere",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cuillere.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_223_dentifrice",
+        "word": "dentifrice",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dentifrice.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_224_douche",
+        "word": "douche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/douche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_225_drap",
+        "word": "drap",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/drap.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_226_echelle",
+        "word": "echelle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/echelle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_227_escalier",
+        "word": "escalier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/escalier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_228_etagere",
+        "word": "etagere",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/etagere.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_229_fauteuil",
+        "word": "fauteuil",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fauteuil.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_230_fenetre",
+        "word": "fenetre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fenetre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_231_fer_a_repasser",
+        "word": "fer a repasser",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fer_a_repasser.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_232_four",
+        "word": "four",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/four.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_233_fourchette",
+        "word": "fourchette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fourchette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_234_frigo",
+        "word": "frigo",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/frigo.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_235_garage",
+        "word": "garage",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/garage.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_236_horloge",
+        "word": "horloge",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/horloge.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_237_jardin",
+        "word": "jardin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/jardin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_238_journal",
+        "word": "journal",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/journal.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_239_lampe",
+        "word": "lampe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lampe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_240_lavabo",
+        "word": "lavabo",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lavabo.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_241_lit",
+        "word": "lit",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lit.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_242_lunettes",
+        "word": "lunettes",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lunettes.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_243_machine_a_laver",
+        "word": "machine a laver",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/machine_a_laver.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_244_marteau",
+        "word": "marteau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/marteau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_245_meuble",
+        "word": "meuble",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/meuble.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_246_miroir",
+        "word": "miroir",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/miroir.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_247_montre",
+        "word": "montre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/montre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_248_mur",
+        "word": "mur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/mur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_249_ordinateur",
+        "word": "ordinateur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ordinateur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_250_oreiller",
+        "word": "oreiller",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/oreiller.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_251_outil",
+        "word": "outil",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/outil.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_252_parapluie",
+        "word": "parapluie",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/parapluie.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_253_peigne",
+        "word": "peigne",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/peigne.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_254_pinceau",
+        "word": "pinceau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pinceau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_255_poele",
+        "word": "poele",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poele.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_256_porte",
+        "word": "porte",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/porte.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_257_portefeuille",
+        "word": "portefeuille",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/portefeuille.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_258_poubelle",
+        "word": "poubelle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poubelle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_259_radio",
+        "word": "radio",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/radio.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_260_reveil",
+        "word": "reveil",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/reveil.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_261_rideau",
+        "word": "rideau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/rideau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_262_sac_a_dos",
+        "word": "sac a dos",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sac_a_dos.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_263_savon",
+        "word": "savon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/savon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_264_serrure",
+        "word": "serrure",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/serrure.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_265_serviette",
+        "word": "serviette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/serviette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_266_shampoing",
+        "word": "shampoing",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/shampoing.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_267_table",
+        "word": "table",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/table.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_268_tapis",
+        "word": "tapis",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tapis.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_269_tasse",
+        "word": "tasse",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tasse.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_270_telephone",
+        "word": "telephone",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/telephone.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_271_television",
+        "word": "television",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/television.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_272_toit",
+        "word": "toit",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/toit.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_273_tondeuse",
+        "word": "tondeuse",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tondeuse.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_274_tournevis",
+        "word": "tournevis",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tournevis.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_275_valise",
+        "word": "valise",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/valise.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_276_vase",
+        "word": "vase",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/vase.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_277_verre",
+        "word": "verre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/verre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_278_banque",
+        "word": "banque",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/banque.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_279_boucher",
+        "word": "boucher",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/boucher.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_280_boulanger",
+        "word": "boulanger",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/boulanger.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_281_boulangerie",
+        "word": "boulangerie",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/boulangerie.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_282_chanteur",
+        "word": "chanteur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chanteur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_283_cinema",
+        "word": "cinema",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cinema.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_284_cuisinier",
+        "word": "cuisinier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cuisinier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_285_danseur",
+        "word": "danseur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/danseur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_286_dentiste",
+        "word": "dentiste",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dentiste.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_287_docteur",
+        "word": "docteur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/docteur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_288_facteur",
+        "word": "facteur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/facteur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_289_fermier",
+        "word": "fermier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fermier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_290_hopital",
+        "word": "hopital",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/hopital.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_291_infirmier",
+        "word": "infirmier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/infirmier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_292_jardinier",
+        "word": "jardinier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/jardinier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_293_magasin",
+        "word": "magasin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/magasin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_294_mairie",
+        "word": "mairie",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/mairie.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_295_maitre",
+        "word": "maitre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/maitre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_296_maitresse",
+        "word": "maitresse",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/maitresse.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_297_marche",
+        "word": "marche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/marche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_298_marin",
+        "word": "marin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/marin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_299_peintre",
+        "word": "peintre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/peintre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_300_pharmacie",
+        "word": "pharmacie",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pharmacie.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_301_pilote",
+        "word": "pilote",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pilote.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_302_policier",
+        "word": "policier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/policier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_303_pompier",
+        "word": "pompier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pompier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_304_poste",
+        "word": "poste",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poste.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_305_serveur",
+        "word": "serveur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/serveur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_306_theatre",
+        "word": "theatre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/theatre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_307_veterinaire",
+        "word": "veterinaire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/veterinaire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_308_arbre",
+        "word": "arbre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/arbre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_309_arc_en_ciel",
+        "word": "arc-en-ciel",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/arc_en_ciel.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_310_ble",
+        "word": "bl\u00e9",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ble.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_311_boue",
+        "word": "boue",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/boue.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_312_branche",
+        "word": "branche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/branche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_313_buisson",
+        "word": "buisson",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/buisson.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_314_cactus",
+        "word": "cactus",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cactus.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_315_campagne",
+        "word": "campagne",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/campagne.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_316_cascade",
+        "word": "cascade",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cascade.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_317_champ",
+        "word": "champ",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/champ.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_318_chemin",
+        "word": "chemin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chemin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_319_chene",
+        "word": "ch\u00eane",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chene.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_320_ciel",
+        "word": "ciel",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ciel.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_321_colline",
+        "word": "colline",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/colline.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_322_desert",
+        "word": "d\u00e9sert",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/desert.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_323_etoile",
+        "word": "\u00e9toile",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/etoile.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_324_feu",
+        "word": "feu",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/feu.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_325_feuille",
+        "word": "feuille",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/feuille.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_326_fleur",
+        "word": "fleur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fleur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_327_foret",
+        "word": "for\u00eat",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/foret.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_328_grotte",
+        "word": "grotte",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/grotte.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_329_herbe",
+        "word": "herbe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/herbe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_330_horizon",
+        "word": "horizon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/horizon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_331_ile",
+        "word": "\u00eele",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ile.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_332_jardin",
+        "word": "jardin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/jardin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_333_lac",
+        "word": "lac",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lac.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_334_lavande",
+        "word": "lavande",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lavande.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_335_lune",
+        "word": "lune",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lune.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_336_marais",
+        "word": "marais",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/marais.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_337_marguerite",
+        "word": "marguerite",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/marguerite.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_338_mer",
+        "word": "mer",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/mer.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_339_montagne",
+        "word": "montagne",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/montagne.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_340_mousse",
+        "word": "mousse",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/mousse.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_341_neige",
+        "word": "neige",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/neige.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_342_nuage",
+        "word": "nuage",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/nuage.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_343_ocean",
+        "word": "oc\u00e9an",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ocean.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_344_orage",
+        "word": "orage",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/orage.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_345_parc",
+        "word": "parc",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/parc.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_346_pierre",
+        "word": "pierre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pierre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_347_plage",
+        "word": "plage",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/plage.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_348_planete",
+        "word": "plan\u00e8te",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/planete.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_349_pluie",
+        "word": "pluie",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pluie.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_350_prairie",
+        "word": "prairie",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/prairie.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_351_racine",
+        "word": "racine",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/racine.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_352_riviere",
+        "word": "rivi\u00e8re",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/riviere.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_353_rocher",
+        "word": "rocher",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/rocher.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_354_rose",
+        "word": "rose",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/rose.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_355_roseau",
+        "word": "roseau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/roseau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_356_route",
+        "word": "route",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/route.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_357_sable",
+        "word": "sable",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sable.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_358_sapin",
+        "word": "sapin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sapin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_359_soleil",
+        "word": "soleil",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/soleil.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_360_terre",
+        "word": "terre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/terre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_361_tournesol",
+        "word": "tournesol",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tournesol.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_362_tulipe",
+        "word": "tulipe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tulipe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_363_univers",
+        "word": "univers",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/univers.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_364_vague",
+        "word": "vague",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/vague.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_365_vent",
+        "word": "vent",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/vent.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_366_vigne",
+        "word": "vigne",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/vigne.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_367_volcan",
+        "word": "volcan",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/volcan.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_368_aeroport",
+        "word": "a\u00e9roport",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/aeroport.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_369_ambulance",
+        "word": "ambulance",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ambulance.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_370_avion",
+        "word": "avion",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/avion.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_371_bateau",
+        "word": "bateau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bateau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_372_bus",
+        "word": "bus",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bus.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_373_camion",
+        "word": "camion",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/camion.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_374_car",
+        "word": "car",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/car.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_375_fusee",
+        "word": "fus\u00e9e",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fusee.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_376_gare",
+        "word": "gare",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gare.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_377_helicoptere",
+        "word": "h\u00e9licopt\u00e8re",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/helicoptere.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_378_metro",
+        "word": "m\u00e9tro",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/metro.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_379_moteur",
+        "word": "moteur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/moteur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_380_moto",
+        "word": "moto",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/moto.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_381_peniche",
+        "word": "p\u00e9niche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/peniche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_382_police",
+        "word": "police",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/police.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_383_pompier",
+        "word": "pompier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pompier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_384_port",
+        "word": "port",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/port.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_385_quai",
+        "word": "quai",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/quai.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_386_rail",
+        "word": "rail",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/rail.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_387_roue",
+        "word": "roue",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/roue.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_388_sous_marin",
+        "word": "sous-marin",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sous_marin.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_389_taxi",
+        "word": "taxi",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/taxi.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_390_tracteur",
+        "word": "tracteur",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tracteur.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_391_train",
+        "word": "train",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/train.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_392_tramway",
+        "word": "tramway",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tramway.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_393_trottinette",
+        "word": "trottinette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/trottinette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_394_velo",
+        "word": "velo",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/velo.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_395_voilier",
+        "word": "voilier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/voilier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_396_voiture",
+        "word": "voiture",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/voiture.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_397_volant",
+        "word": "volant",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/volant.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_398_attraper",
+        "word": "attraper",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/attraper.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_399_balayer",
+        "word": "balayer",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/balayer.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_400_boire",
+        "word": "boire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/boire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_401_brosser",
+        "word": "brosser",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/brosser.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_402_chanter",
+        "word": "chanter",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chanter.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_403_chercher",
+        "word": "chercher",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chercher.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_404_coller",
+        "word": "coller",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/coller.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_405_colorier",
+        "word": "colorier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/colorier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_406_conduire",
+        "word": "conduire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/conduire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_407_courir",
+        "word": "courir",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/courir.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_408_crier",
+        "word": "crier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/crier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_409_cuisiner",
+        "word": "cuisiner",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cuisiner.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_410_danser",
+        "word": "danser",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/danser.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_411_decouper",
+        "word": "d\u00e9couper",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/decouper.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_412_descendre",
+        "word": "descendre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/descendre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_413_dessiner",
+        "word": "dessiner",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dessiner.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_414_donner",
+        "word": "donner",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/donner.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_415_dormir",
+        "word": "dormir",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/dormir.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_416_ecouter",
+        "word": "ecouter",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ecouter.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_417_ecrire",
+        "word": "ecrire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ecrire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_418_entendre",
+        "word": "entendre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/entendre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_419_fermer",
+        "word": "fermer",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fermer.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_420_glisser",
+        "word": "glisser",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/glisser.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_421_gouter",
+        "word": "gouter",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gouter.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_422_grimper",
+        "word": "grimper",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/grimper.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_423_habiller",
+        "word": "habiller",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/habiller.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_424_jouer",
+        "word": "jouer",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/jouer.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_425_lancer",
+        "word": "lancer",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lancer.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_426_laver",
+        "word": "laver",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/laver.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_427_lire",
+        "word": "lire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/lire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_428_manger",
+        "word": "manger",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/manger.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_429_marcher",
+        "word": "marcher",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/marcher.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_430_monter",
+        "word": "monter",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/monter.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_431_nager",
+        "word": "nager",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/nager.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_432_ouvrir",
+        "word": "ouvrir",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ouvrir.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_433_parler",
+        "word": "parler",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/parler.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_434_patiner",
+        "word": "patiner",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/patiner.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_435_pedaler",
+        "word": "p\u00e9daler",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pedaler.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_436_peigner",
+        "word": "peigner",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/peigner.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_437_peindre",
+        "word": "peindre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/peindre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_438_pleurer",
+        "word": "pleurer",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pleurer.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_439_plier",
+        "word": "plier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/plier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_440_plonger",
+        "word": "plonger",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/plonger.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_441_porter",
+        "word": "porter",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/porter.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_442_pousser",
+        "word": "pousser",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pousser.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_443_prendre",
+        "word": "prendre",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/prendre.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_444_regarder",
+        "word": "regarder",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/regarder.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_445_rire",
+        "word": "rire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/rire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_446_rouler",
+        "word": "rouler",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/rouler.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_447_sauter",
+        "word": "sauter",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sauter.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_448_sentir",
+        "word": "sentir",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sentir.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_449_skier",
+        "word": "skier",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/skier.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_450_sourire",
+        "word": "sourire",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sourire.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_451_tenir",
+        "word": "tenir",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tenir.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_452_tirer",
+        "word": "tirer",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tirer.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_453_tomber",
+        "word": "tomber",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/tomber.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_454_toucher",
+        "word": "toucher",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/toucher.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_455_trouver",
+        "word": "trouver",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/trouver.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_456_voir",
+        "word": "voir",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/voir.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_457_voler",
+        "word": "voler",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/voler.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_458_basket",
+        "word": "basket",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/basket.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_459_bonnet",
+        "word": "bonnet",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bonnet.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_460_botte",
+        "word": "botte",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/botte.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_461_bouton",
+        "word": "bouton",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/bouton.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_462_casquette",
+        "word": "casquette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/casquette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_463_ceinture",
+        "word": "ceinture",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/ceinture.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_464_chapeau",
+        "word": "chapeau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chapeau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_465_chaussette",
+        "word": "chaussette",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chaussette.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_466_chaussure",
+        "word": "chaussure",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chaussure.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_467_chemise",
+        "word": "chemise",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/chemise.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_468_cravate",
+        "word": "cravate",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/cravate.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_469_culotte",
+        "word": "culotte",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/culotte.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_470_echarpe",
+        "word": "echarpe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/echarpe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_471_fermeture",
+        "word": "fermeture",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/fermeture.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_472_gant",
+        "word": "gant",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gant.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_473_gilet",
+        "word": "gilet",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/gilet.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_474_jupe",
+        "word": "jupe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/jupe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_475_maillot_de_bain",
+        "word": "maillot de bain",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/maillot_de_bain.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_476_manteau",
+        "word": "manteau",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/manteau.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_477_pantalon",
+        "word": "pantalon",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pantalon.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_478_pantoufle",
+        "word": "pantoufle",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pantoufle.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_479_poche",
+        "word": "poche",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/poche.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_480_pull",
+        "word": "pull",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pull.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_481_pyjama",
+        "word": "pyjama",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/pyjama.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_482_robe",
+        "word": "robe",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/robe.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_483_sandale",
+        "word": "sandale",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/sandale.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_484_short",
+        "word": "short",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/short.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_485_slip",
+        "word": "slip",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/slip.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_486_t_shirt",
+        "word": "t-shirt",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/t_shirt.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    },
+    {
+        "id": "audit_487_veste",
+        "word": "veste",
+        "level": "gs",
+        "audio_file": "assets/tests/audio/veste.wav",
+        "expected_result": "success",
+        "notes": "Audit complet du catalogue."
+    }
+]

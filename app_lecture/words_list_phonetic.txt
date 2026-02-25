@@ -1,0 +1,704 @@
+Avec maman : Avec  / ma / man
+C'est un chat : C'est un  / chat
+Dans le bus : Dans  / le  / bus
+Des bonbons : Des  / bon / bons
+Du pain : Du  / pain
+Elle chante : El / le  / chante
+Il dort : Il  / dort
+Je mange : Je  / mange
+La vache : La  / vache
+Le chat : Le  / chat
+Les frites : Les  / frites
+Nous courons : Nous  / cou / rons
+Pomme de terre : Pom / me  / de  / terre
+Pour toi : Pour  / toi
+Sur le vélo : Sur  / le  / vé / lo
+Tu bois : Tu  / bois
+Un loup : Un  / loup
+Une pomme : Une  / pomme
+abeille : abeille
+abricot : abri / cot
+aeroport : ae / ro / port
+aigle : aigle
+ail : ail
+amande : amande
+ambulance : am / bu / lance
+amis : amis
+ananas : ana / nas
+ananas : ana / nas
+ane : ane
+ara : ara
+araignee : arai / gnee
+arbre : arbre
+arc-en-ciel : arc / en / ciel
+ardoise : ar / doise
+armoire : ar / moire
+arrosoir : ar / ro / soir
+aspirateur : as / pi / ra / teur
+assiette : as / siette
+attraper : at / tra / per
+aubergine : au / ber / gine
+autruche : au / truche
+avion : avion
+avis : avis
+avocat : avo / cat
+baignoire : bai / gnoire
+balai : ba / lai
+balayer : ba / layer
+balcon : bal / con
+baleine : ba / leine
+balle : balle
+banane : ba / nane
+banane : ba / nane
+banque : banque
+basket : bas / ket
+bateau : ba / teau
+bavoir : ba / voir
+bebe : bebe
+bec : bec
+beurre : beurre
+bibliotheque : bi / blio / theque
+biche : biche
+biche : biche
+bidet : bi / det
+biscuit : bis / cuit
+ble : ble
+ble : ble
+boa : boa
+bocal : bo / cal
+boeuf : boeuf
+boire : boire
+boite : boite
+bol : bol
+bol : bol
+bonbon : bon / bon
+bonnet : bon / net
+bosse : bosse
+botte : botte
+botte : botte
+bouche : bouche
+boucher : bou / cher
+boue : boue
+boulanger : bou / lan / ger
+boulangerie : bou / lan / ge / rie
+bout : bout
+bouton : bou / ton
+branche : branche
+bras : bras
+bras : bras
+broccoli : broc / co / li
+brosse : brosse
+brosse : brosse
+brosse a dents : bros / se a  / dents
+brosser : bros / ser
+bu : bu
+buisson : buis / son
+bulle : bulle
+bureau : bu / reau
+bureau : bu / reau
+burger : bur / ger
+bus : bus
+bus : bus
+cabane : ca / bane
+cacao : ca / cao
+cache : cache
+cactus : cac / tus
+cadre : cadre
+cafe : cafe
+cahier : ca / hier
+caisse : caisse
+calculatrice : cal / cu / la / trice
+camera : ca / me / ra
+camion : ca / mion
+campagne : cam / pagne
+canape : ca / nape
+canape : ca / nape
+canard : ca / nard
+canard : ca / nard
+caniche : ca / niche
+cantine : can / tine
+car : car
+carotte : ca / rotte
+carotte : ca / rotte
+cartable : car / table
+cascade : cas / cade
+casquette : cas / quette
+casserole : cas / se / role
+castor : cas / tor
+ceinture : cein / ture
+cerf : cerf
+cerise : ce / rise
+chaise : chaise
+chaise : chaise
+chaise : chaise
+chameau : cha / meau
+champ : champ
+champignon : cham / pi / gnon
+chanter : chan / ter
+chanteur : chan / teur
+chapeau : cha / peau
+chasse : chasse
+chat : chat
+chat : chat
+chaussette : chaus / sette
+chaussure : chaus / sure
+chauve-souris : chauve / sou / ris
+chef : chef
+chemin : che / min
+cheminee : che / mi / nee
+chemise : che / mise
+chene : chene
+chercher : cher / cher
+cheval : che / val
+cheveux : che / veux
+cheville : che / ville
+chevre : chevre
+chien : chien
+chocolat : cho / co / lat
+chou : chou
+ciel : ciel
+cinema : ci / ne / ma
+ciseaux : ci / seaux
+ciseaux : ci / seaux
+citron : ci / tron
+citrouille : ci / trouille
+classe : classe
+classe : classe
+classeur : clas / seur
+cle : cle
+cle : cle
+cloture : clo / ture
+clou : clou
+coccinelle : coc / ci / nelle
+cochon : co / chon
+coeur : coeur
+col : col
+colle : colle
+colle : colle
+coller : col / ler
+colline : col / line
+colorier : co / lo / rier
+conduire : conduire
+confiture : confi / ture
+cou : cou
+cou : cou
+coude : coude
+courir : cou / rir
+coussin : cous / sin
+couteau : cou / teau
+couverture : cou / ver / ture
+crabe : crabe
+craie : craie
+crasse : crasse
+cravate : cra / vate
+crayon : crayon
+crepe : crepe
+crevette : cre / vette
+cri : cri
+crier : crier
+croc : croc
+crocodile : cro / co / dile
+croissant : crois / sant
+cru : cru
+cuillere : cuillere
+cuisiner : cui / si / ner
+cuisinier : cui / si / nier
+culotte : cu / lotte
+cygne : cygne
+danser : dan / ser
+danseur : dan / seur
+dauphin : dau / phin
+decouper : de / cou / per
+dent : dent
+dentifrice : den / ti / frice
+dentiste : den / tiste
+descendre : des / cendre
+desert : de / sert
+dessiner : des / si / ner
+dictionnaire : dic / tion / naire
+dinde : dinde
+dindon : din / don
+dit : dit
+docteur : doc / teur
+dodo : do / do
+doigt : doigt
+domino : do / mi / no
+donner : don / ner
+dormir : dor / mir
+dos : dos
+dos : dos
+douche : douche
+drap : drap
+dru : dru
+duc : duc
+dur : dur
+dynamo : dy / na / mo
+eau : eau
+echarpe : echarpe
+echelle : echelle
+ecole : ecole
+ecouter : ecou / ter
+ecrire : ecrire
+ecureuil : ecu / reuil
+elephant : ele / phant
+entendre : en / tendre
+epaule : epaule
+epee : epee
+escalier : es / ca / lier
+escargot : es / car / got
+etagere : eta / gere
+etoile : etoile
+fac : fac
+facteur : fac / teur
+farine : fa / rine
+farine : fa / rine
+fauteuil : fau / teuil
+fee : fee
+fenetre : fe / netre
+fer : fer
+fer a repasser : fer a  / re / pas / ser
+fermer : fer / mer
+fermeture : fer / me / ture
+fermier : fer / mier
+fesse : fesse
+fesse : fesse
+feu : feu
+feuille : feuille
+feuille : feuille
+feutre : feutre
+figue : figue
+fil : fil
+flamant rose : fla / mant  / rose
+fleur : fleur
+flot : flot
+flute : flute
+foret : fo / ret
+fosse : fosse
+fou : fou
+four : four
+fourchette : four / chette
+fourmi : four / mi
+fraise : fraise
+fraise : fraise
+frigo : fri / go
+frites : frites
+fromage : fro / mage
+fusee : fu / see
+fusee : fu / see
+gant : gant
+garage : ga / rage
+gare : gare
+gateau : ga / teau
+gaufre : gaufre
+genou : ge / nou
+gilet : gi / let
+girafe : gi / rafe
+glace : glace
+glisser : glis / ser
+gomme : gomme
+gomme : gomme
+gorille : go / rille
+gouter : gou / ter
+graisse : graisse
+grenouille : gre / nouille
+grimper : grim / per
+gris : gris
+gros : gros
+grotte : grotte
+grue : grue
+gymnase : gym / nase
+habiller : ha / biller
+haricot : ha / ri / cot
+helicoptere : he / li / cop / tere
+herbe : herbe
+herisson : he / ris / son
+hibou : hi / bou
+hippopotame : hip / po / po / tame
+hopital : ho / pi / tal
+horizon : ho / ri / zon
+horloge : hor / loge
+huile : huile
+ile : ile
+infirmier : in / fir / mier
+jambe : jambe
+jambon : jam / bon
+jardin : jar / din
+jardin : jar / din
+jardinier : jar / di / nier
+joue : joue
+jouer : jouer
+journal : jour / nal
+judo : ju / do
+jupe : jupe
+jupe : jupe
+jus : jus
+jus d'orange : jus  / d'orange
+kangourou : kan / gou / rou
+karate : ka / rate
+kiwi : ki / wi
+kiwi : ki / wi
+koala : koa / la
+lac : lac
+lac : lac
+laisse : laisse
+lait : lait
+lama : la / ma
+lampe : lampe
+lancer : lan / cer
+langue : langue
+lapin : la / pin
+lasso : las / so
+lavabo : la / va / bo
+lavabo : la / va / bo
+lavande : la / vande
+laver : la / ver
+liasse : liasse
+libellule : li / bel / lule
+lion : lion
+lire : lire
+lit : lit
+lit : lit
+livre : livre
+livre : livre
+lot : lot
+loto : lo / to
+loup : loup
+loup : loup
+lu : lu
+lune : lune
+lune : lune
+lunettes : lu / nettes
+lute : lute
+macaque : ma / caque
+machine a laver : ma / chi / ne a  / la / ver
+magasin : ma / ga / sin
+maillot de bain : maillot  / de  / bain
+main : main
+main : main
+mairie : mai / rie
+maitre : maitre
+maitresse : mai / tresse
+maki : ma / ki
+manger : man / ger
+manteau : man / teau
+marais : ma / rais
+marche : marche
+marcher : mar / cher
+marguerite : mar / gue / rite
+marin : ma / rin
+marmotte : mar / motte
+marteau : mar / teau
+masse : masse
+matelas : ma / te / las
+meduse : me / duse
+melon : me / lon
+mer : mer
+mer : mer
+metro : me / tro
+meuble : meuble
+miel : miel
+miroir : mi / roir
+montagne : mon / tagne
+monter : mon / ter
+montre : montre
+mot : mot
+moteur : mo / teur
+moto : mo / to
+moto : mo / to
+mou : mou
+mouche : mouche
+mousse : mousse
+moustique : mous / tique
+mouton : mou / ton
+mule : mule
+mur : mur
+mur : mur
+nager : na / ger
+nappe : nappe
+navet : na / vet
+ne : ne
+neige : neige
+neuf : neuf
+nez : nez
+nez : nez
+nid : nid
+noisette : noi / sette
+noix : noix
+nuage : nuage
+nue : nue
+ocean : ocean
+oeil : oeil
+oeuf : oeuf
+oeuf : oeuf
+oignon : oi / gnon
+oiseau : oi / seau
+olive : olive
+olive : olive
+ongle : ongle
+orage : orage
+orange : orange
+ordinateur : or / di / na / teur
+oreille : oreille
+oreiller : oreiller
+orteil : or / teil
+os : os
+ours : ours
+ours : ours
+outil : ou / til
+ouvrir : ou / vrir
+pain : pain
+panda : pan / da
+panda : pan / da
+pantalon : pan / ta / lon
+pantoufle : pan / toufle
+papa : pa / pa
+papier : pa / pier
+papillon : pa / pillon
+parachute : pa / ra / chute
+parapluie : pa / ra / pluie
+parc : parc
+parler : par / ler
+pas : pas
+passe : passe
+patate : pa / tate
+pate : pate
+pates : pates
+patiner : pa / ti / ner
+patte : patte
+peche : peche
+pedaler : pe / da / ler
+peigne : peigne
+peigner : pei / gner
+peindre : peindre
+peintre : peintre
+peinture : pein / ture
+peniche : pe / niche
+perroquet : per / ro / quet
+petit pois : pe / tit  / pois
+pharmacie : phar / ma / cie
+piano : pia / no
+pic : pic
+pied : pied
+pied : pied
+pierre : pierre
+pieuvre : pieuvre
+pigeon : pi / geon
+pilote : pi / lote
+pinceau : pin / ceau
+pinceau : pin / ceau
+pingouin : pin / gouin
+pirate : pi / rate
+pizza : piz / za
+plage : plage
+planete : pla / nete
+plat : plat
+pleurer : pleu / rer
+pli : pli
+plier : plier
+plonger : plon / ger
+pluie : pluie
+plume : plume
+pneu : pneu
+poche : poche
+poele : poele
+poignet : poi / gnet
+poire : poire
+poisson : pois / son
+poisson : pois / son
+poitrine : poi / trine
+poivron : poi / vron
+police : po / lice
+policier : po / li / cier
+polo : po / lo
+pomme : pomme
+pomme : pomme
+pomme de terre : pom / me  / de  / terre
+pompier : pom / pier
+pompier : pom / pier
+port : port
+porte : porte
+portefeuille : por / te / feuille
+porter : por / ter
+poste : poste
+pot : pot
+pou : pou
+poubelle : pou / belle
+poubelle : pou / belle
+pouce : pouce
+poule : poule
+poulet : pou / let
+pousser : pous / ser
+poussin : pous / sin
+prairie : prai / rie
+pre : pre
+prendre : prendre
+presse : presse
+prix : prix
+pu : pu
+pull : pull
+pull : pull
+puma : pu / ma
+pur : pur
+puree : pu / ree
+puree : pu / ree
+pyjama : py / ja / ma
+pyjama : py / ja / ma
+quai : quai
+quiche : quiche
+racine : ra / cine
+radio : ra / dio
+radio : ra / dio
+radis : ra / dis
+radis : ra / dis
+rail : rail
+raisin : rai / sin
+rat : rat
+recreation : re / crea / tion
+regarder : re / gar / der
+regle : regle
+renard : re / nard
+requin : re / quin
+reveil : re / veil
+rhinoceros : rhi / no / ce / ros
+rideau : ri / deau
+rire : rire
+rit : rit
+riviere : ri / viere
+riz : riz
+riz : riz
+robe : robe
+robot : ro / bot
+rocher : ro / cher
+rose : rose
+roseau : ro / seau
+roti : ro / ti
+roue : roue
+rouler : rou / ler
+route : route
+rue : rue
+sable : sable
+sac : sac
+sac a dos : sac a  / dos
+salade : sa / lade
+salade : sa / lade
+sandale : san / dale
+sandwich : sand / wich
+sapin : sa / pin
+saucisson : sau / cis / son
+sauter : sau / ter
+savon : sa / von
+sel : sel
+sel : sel
+sentir : sen / tir
+serpent : ser / pent
+serrure : ser / rure
+serveur : ser / veur
+serviette : ser / viette
+shampoing : sham / poing
+short : short
+singe : singe
+sirene : si / rene
+skier : skier
+slip : slip
+soda : so / da
+sofa : so / fa
+sol : sol
+soleil : so / leil
+sot : sot
+sou : sou
+soupe : soupe
+sourire : sou / rire
+souris : sou / ris
+sous-marin : sous / ma / rin
+squelette : sque / lette
+stylo : sty / lo
+su : su
+sucre : sucre
+sucre : sucre
+sur : sur
+t-shirt : t / shirt
+table : table
+tableau : ta / bleau
+tache : tache
+taille-crayon : taille / crayon
+talon : ta / lon
+tapis : ta / pis
+tapis : ta / pis
+tapis : ta / pis
+tarte : tarte
+tasse : tasse
+tasse : tasse
+tata : ta / ta
+taureau : tau / reau
+taxi : taxi
+tele : tele
+telephone : te / le / phone
+television : te / le / vi / sion
+tenir : te / nir
+terre : terre
+terre : terre
+tete : tete
+tete : tete
+the : the
+theatre : theatre
+tic : tic
+tigre : tigre
+tigre : tigre
+tirer : ti / rer
+toit : toit
+tomate : to / mate
+tomate : to / mate
+tomber : tom / ber
+tondeuse : ton / deuse
+tortue : tor / tue
+tortue : tor / tue
+toucher : tou / cher
+tournesol : tour / ne / sol
+tournevis : tour / ne / vis
+tracteur : trac / teur
+train : train
+tramway : tram / way
+tresse : tresse
+trop : trop
+trottinette : trot / ti / nette
+trou : trou
+trousse : trousse
+trouver : trou / ver
+tu : tu
+tulipe : tu / lipe
+univers : uni / vers
+vache : vache
+vache : vache
+vague : vague
+valise : va / lise
+vase : vase
+veau : veau
+velo : ve / lo
+velo : ve / lo
+vent : vent
+ventre : ventre
+ver : ver
+verre : verre
+verre : verre
+veste : veste
+veterinaire : ve / te / ri / naire
+viande : viande
+video : vi / deo
+vif : vif
+vigne : vigne
+vinaigre : vi / naigre
+vis : vis
+visage : vi / sage
+vit : vit
+voilier : voi / lier
+voir : voir
+voiture : voi / ture
+vol : vol
+volant : vo / lant
+volcan : vol / can
+voler : vo / ler
+vu : vu
+vue : vue
+yaourt : yaourt
+zebre : zebre
+zebu : ze / bu

@@ -1,0 +1,15 @@
+{
+    "mot": "melon",
+    "theme": "aliments",
+    "pixabay_id": 3433835,
+    "author": "Couleur",
+    "tags": "melon, tranché, mûr, juteux, fruit, melon, melon, melon, melon, melon",
+    "syllabes": [
+        "me",
+        "lon"
+    ],
+    "syllabes_texte": "me - lon",
+    "image_path": "assets/images/aliments/melon.jpg",
+    "level": 1,
+    "success_count": 0
+}

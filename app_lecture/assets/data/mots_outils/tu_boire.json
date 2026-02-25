@@ -1,0 +1,11 @@
+{
+    "mot": "Tu bois",
+    "syllabes": [
+        "Tu",
+        "bois"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/verbes_actions/boire.jpg",
+    "level": 4,
+    "success_count": 0
+}

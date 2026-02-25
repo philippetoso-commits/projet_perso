@@ -1,0 +1,16 @@
+{
+    "mot": "ambulance",
+    "theme": "transport",
+    "pixabay_id": 959592,
+    "author": "TBIT",
+    "tags": "alarme, léger, sirène, urgence, sécurité, ambulance, lumière bleue, alarme, alarme, alarme, alarme, alarme",
+    "syllabes": [
+        "am",
+        "bu",
+        "lance"
+    ],
+    "syllabes_texte": "am - bu - lance",
+    "image_path": "assets/images/transport/ambulance.jpg",
+    "level": 1,
+    "success_count": 0
+}

@@ -1,0 +1,14 @@
+{
+    "mot": "taxi",
+    "theme": "transport",
+    "pixabay_id": 7433597,
+    "author": "Rasor",
+    "tags": "taxi, circulation, nuit, ville, soirée, taxi, taxi, taxi, taxi, taxi",
+    "syllabes": [
+        "taxi"
+    ],
+    "syllabes_texte": "taxi",
+    "image_path": "assets/images/transport/taxi.jpg",
+    "level": 1,
+    "success_count": 0
+}

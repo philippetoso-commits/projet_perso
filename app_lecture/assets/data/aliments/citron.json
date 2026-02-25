@@ -1,0 +1,15 @@
+{
+    "mot": "citron",
+    "theme": "aliments",
+    "pixabay_id": 8274419,
+    "author": "TheDesignLady87",
+    "tags": "gâteau au citron, gâteau, le dessert, citron, boulangerie, sucré, aliments, pain, pâtisserie",
+    "syllabes": [
+        "ci",
+        "tron"
+    ],
+    "syllabes_texte": "ci - tron",
+    "image_path": "assets/images/aliments/citron.jpg",
+    "level": 1,
+    "success_count": 0
+}

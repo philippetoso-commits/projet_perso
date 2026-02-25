@@ -1,0 +1,11 @@
+{
+    "mot": "Nous courons",
+    "syllabes": [
+        "Nous",
+        "courons"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/verbes_actions/courir.jpg",
+    "level": 4,
+    "success_count": 0
+}

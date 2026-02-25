@@ -1,0 +1,11 @@
+{
+    "mot": "Une pomme",
+    "syllabes": [
+        "Une",
+        "pomme"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/aliments/pomme.jpg",
+    "level": 4,
+    "success_count": 0
+}

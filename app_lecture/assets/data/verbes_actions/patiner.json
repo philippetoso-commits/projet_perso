@@ -1,0 +1,16 @@
+{
+    "mot": "patiner",
+    "theme": "verbes_actions",
+    "pixabay_id": 6998823,
+    "author": "airtank",
+    "tags": "enfant, apprendre à patiner, patinage, petit garçon",
+    "syllabes": [
+        "pa",
+        "ti",
+        "ner"
+    ],
+    "syllabes_texte": "pa - ti - ner",
+    "image_path": "assets/images/verbes_actions/patiner.jpg",
+    "level": 1,
+    "success_count": 0
+}

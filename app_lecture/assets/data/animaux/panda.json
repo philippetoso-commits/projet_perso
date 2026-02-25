@@ -1,0 +1,15 @@
+{
+    "mot": "panda",
+    "theme": "animaux",
+    "pixabay_id": 1982445,
+    "author": "strichpunkt",
+    "tags": "panda rouge, nature, animal, mammifère, chinois panda, hiver, zoo, arbre, fourrure",
+    "syllabes": [
+        "pan",
+        "da"
+    ],
+    "syllabes_texte": "pan - da",
+    "image_path": "assets/images/animaux/panda.jpg",
+    "level": 1,
+    "success_count": 0
+}

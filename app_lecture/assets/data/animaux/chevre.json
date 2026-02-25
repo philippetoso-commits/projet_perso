@@ -1,0 +1,14 @@
+{
+    "mot": "chevre",
+    "theme": "animaux",
+    "pixabay_id": 3777071,
+    "author": "melvinlevard",
+    "tags": "chevre, animal, nature",
+    "syllabes": [
+        "chevre"
+    ],
+    "syllabes_texte": "chevre",
+    "image_path": "assets/images/animaux/chevre.jpg",
+    "level": 1,
+    "success_count": 0
+}

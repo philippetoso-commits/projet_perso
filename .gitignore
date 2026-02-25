@@ -1,0 +1,16 @@
+# Build / IDE
+**/build/
+**/.dart_tool/
+**/.idea/
+*.iml
+.DS_Store
+
+# Env / secrets
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.pub-cache/
+.pub/

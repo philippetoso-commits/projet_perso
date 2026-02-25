@@ -1,0 +1,38 @@
+[√] Flutter (Channel stable, 3.38.4, on Microsoft Windows [version 10.0.26300.7877], locale fr-FR) [198ms]
+    • Flutter version 3.38.4 on channel stable at C:\Users\phili\develop\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 66dd93f9a2 (3 months ago), 2025-12-03 14:56:10 -0800
+    • Engine revision a5cb96369e
+    • Dart version 3.10.3
+    • DevTools version 2.51.1
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, omit-legacy-version-file, enable-lldb-debugging
+
+[√] Windows Version (11 Famille Insider Preview 64-bit, 25H2, 2009) [808ms]
+
+[√] Android toolchain - develop for Android devices (Android SDK version 36.1.0) [1 587ms]
+    • Android SDK at C:\Users\phili\AppData\Local\Android\Sdk
+    • Emulator version 36.3.10.0 (build_id 14472402) (CL:N/A)
+    • Platform android-36, build-tools 36.1.0
+    • Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    • Java version OpenJDK Runtime Environment (build 21.0.8+-14196175-b1038.72)
+    • All Android licenses accepted.
+
+[√] Chrome - develop for the web [7ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[X] Visual Studio - develop Windows apps [6ms]
+    X Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[√] Connected device (3 available) [150ms]
+    • Windows (desktop) • windows • windows-x64    • Microsoft Windows [version 10.0.26300.7877]
+    • Chrome (web)      • chrome  • web-javascript • Google Chrome 145.0.7632.110
+    • Edge (web)        • edge    • web-javascript • Microsoft Edge 146.0.3856.13
+
+[√] Network resources [273ms]
+    • All expected network resources are available.
+
+! Doctor found issues in 1 category.

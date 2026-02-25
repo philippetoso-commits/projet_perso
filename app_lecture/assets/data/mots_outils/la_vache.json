@@ -1,0 +1,11 @@
+{
+    "mot": "La vache",
+    "syllabes": [
+        "La",
+        "vache"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/animaux/vache.jpg",
+    "level": 4,
+    "success_count": 0
+}

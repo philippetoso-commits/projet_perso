@@ -1,0 +1,15 @@
+{
+    "mot": "cheval",
+    "theme": "animaux",
+    "pixabay_id": 561221,
+    "author": "Sponchia",
+    "tags": "cheval, nature, jument, animal, cheval femelle, cheval blanc, mammifère, équidé, portrait",
+    "syllabes": [
+        "che",
+        "val"
+    ],
+    "syllabes_texte": "che - val",
+    "image_path": "assets/images/animaux/cheval.jpg",
+    "level": 1,
+    "success_count": 0
+}

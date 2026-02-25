@@ -1,0 +1,11 @@
+{
+    "mot": "Pour toi",
+    "syllabes": [
+        "Pour",
+        "toi"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/mascotte.png",
+    "level": 4,
+    "success_count": 0
+}

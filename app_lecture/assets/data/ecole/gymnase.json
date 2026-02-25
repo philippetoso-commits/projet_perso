@@ -1,0 +1,15 @@
+{
+    "mot": "gymnase",
+    "theme": "ecole",
+    "pixabay_id": 6789778,
+    "author": "scholty1970",
+    "tags": "abandonné l'école, gymnase de l'école abandonnée, bâtiment abandonné, graffiti, vandalisme",
+    "syllabes": [
+        "gym",
+        "nase"
+    ],
+    "syllabes_texte": "gym - nase",
+    "image_path": "assets/images/ecole/gymnase.jpg",
+    "level": 1,
+    "success_count": 0
+}

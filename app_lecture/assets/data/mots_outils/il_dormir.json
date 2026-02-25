@@ -1,0 +1,11 @@
+{
+    "mot": "Il dort",
+    "syllabes": [
+        "Il",
+        "dort"
+    ],
+    "theme": "mots_outils",
+    "image_path": "assets/images/verbes_actions/dormir.jpg",
+    "level": 4,
+    "success_count": 0
+}

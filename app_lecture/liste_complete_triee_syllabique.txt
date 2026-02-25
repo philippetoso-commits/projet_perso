@@ -1,0 +1,77 @@
+# PETITE SECTION (PS)
+ail
+beurre
+eau
+lait
+miel
+noix
+œuf
+pain
+riz
+sel
+
+# MOYENNE SECTION (MS)
+abri-cot
+bis-cuit
+bon-bon
+bur-ger
+ci-tron
+crê-pe
+crois-sant
+frai-se
+fri-tes
+gâ-teau
+gau-fre
+gla-ce
+hui-le
+jam-bon
+ki-wi
+me-lon
+oi-gnon
+pâ-tes
+pê-che
+piz-za
+poi-re
+pois-son
+poi-vron
+pom-me
+pou-let
+pu-rée
+qui-che
+ra-dis
+rai-sin
+sand-wich
+sou-pe
+su-cre
+tar-te
+ya-ourt
+
+# GRANDE SECTION (GS)
+a-man-de
+a-na-nas
+a-vo-cat
+ba-na-ne
+bro-co-li
+ca-rot-te
+ce-ri-se
+cham-pi-gnon
+cho-co-lat
+ci-trou-ille
+fa-ri-ne
+fro-ma-ge
+ha-ri-cot
+noi-set-te
+o-li-ve
+o-ran-ge
+pe-tit / pois
+sa-la-de
+sau-cis-son
+to-ma-te
+vi-an-de
+vi-nai-gre
+
+# DEBUT CP
+au-ber-gi-ne
+con-fi-tu-re
+jus / d’o-ran-ge
+pom-me / de / ter-re
