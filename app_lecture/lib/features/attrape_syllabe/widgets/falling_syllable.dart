@@ -133,15 +133,20 @@ class _FallingSyllableWidgetState extends State<FallingSyllableWidget> with Tick
         shape: BoxShape.circle,
         border: Border.all(
           // For blinking target, maybe give it a bright border.
-          color: (widget.isTarget && widget.isSecondChance) ? Colors.amberAccent : Colors.white60,
-          width: 4,
+          color: (widget.isTarget && widget.isSecondChance) ? Colors.amberAccent : Colors.white.withValues(alpha: 0.8),
+          width: 3,
         ),
-        boxShadow: const [
+        boxShadow: [
           BoxShadow(
-            color: Colors.black26,
-            blurRadius: 10,
-            offset: Offset(0, 5),
-          )
+            color: Colors.black.withValues(alpha: 0.3),
+            blurRadius: 12,
+            offset: const Offset(0, 6),
+          ),
+          BoxShadow(
+            color: Colors.white.withValues(alpha: 0.5),
+            blurRadius: 8,
+            offset: const Offset(-2, -2),
+          ),
         ],
       ),
       child: Center(
@@ -150,7 +155,10 @@ class _FallingSyllableWidgetState extends State<FallingSyllableWidget> with Tick
           style: const TextStyle(
             fontSize: 28,
             fontWeight: FontWeight.bold,
-            color: Colors.black87, // High contrast
+            color: Colors.white, // High contrast white
+            shadows: [
+               Shadow(color: Colors.black54, blurRadius: 4, offset: Offset(1,1))
+            ]
           ),
         ),
       ),

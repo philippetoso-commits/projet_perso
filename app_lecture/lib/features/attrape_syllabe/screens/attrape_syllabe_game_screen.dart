@@ -1,4 +1,5 @@
 import 'dart:math';
+import 'dart:ui';
 import 'package:flutter/material.dart';
 import '../../../services/tts_service.dart';
 import '../data/syllabes_list.dart';
@@ -287,10 +288,9 @@ class _AttrapeSyllabeGameScreenState extends State<AttrapeSyllabeGameScreen> {
     return Scaffold(
       body: Container(
         decoration: const BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topCenter,
-            end: Alignment.bottomCenter,
-            colors: [Color(0xFF81C784), Color(0xFF388E3C)], // Greenish theme for catching
+          image: DecorationImage(
+            image: AssetImage('assets/images/backgrounds/attrape_bg.png'),
+            fit: BoxFit.cover,
           ),
         ),
         child: SafeArea(
@@ -298,26 +298,53 @@ class _AttrapeSyllabeGameScreenState extends State<AttrapeSyllabeGameScreen> {
             children: [
               // Header
               Padding(
-                padding: const EdgeInsets.all(16.0),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    IconButton(
-                      icon: const Icon(Icons.arrow_back, color: Colors.white, size: 30),
-                      onPressed: () => Navigator.pop(context),
+                padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 8.0),
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(20),
+                  child: BackdropFilter(
+                    filter: ImageFilter.blur(sigmaX: 10, sigmaY: 10),
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 16),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withValues(alpha: 0.2),
+                        borderRadius: BorderRadius.circular(20),
+                        border: Border.all(color: Colors.white.withValues(alpha: 0.3), width: 1.5),
+                        boxShadow: [
+                          BoxShadow(color: Colors.black.withValues(alpha: 0.1), blurRadius: 10)
+                        ],
+                      ),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          IconButton(
+                            icon: const Icon(Icons.arrow_back, color: Colors.white, size: 30, shadows: [Shadow(color: Colors.black45, blurRadius: 4, offset: Offset(1,1))]),
+                            onPressed: () => Navigator.pop(context),
+                          ),
+                          Text(
+                            "Manche $_round/$_maxRounds",
+                            style: const TextStyle(
+                                fontSize: 24, 
+                                fontWeight: FontWeight.bold, 
+                                color: Colors.white,
+                                shadows: [Shadow(color: Colors.black45, blurRadius: 4, offset: Offset(1,1))]
+                            ),
+                          ),
+                          Row(
+                            children: [
+                              const Icon(Icons.star, color: Colors.amber, size: 30, shadows: [Shadow(color: Colors.black45, blurRadius: 4, offset: Offset(1,1))]),
+                              const SizedBox(width: 5),
+                              Text("$_score", style: const TextStyle(
+                                  fontSize: 24, 
+                                  fontWeight: FontWeight.bold, 
+                                  color: Colors.white,
+                                  shadows: [Shadow(color: Colors.black45, blurRadius: 4, offset: Offset(1,1))]
+                              )),
+                            ],
+                          )
+                        ],
+                      ),
                     ),
-                    Text(
-                      "Manche $_round/$_maxRounds",
-                      style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.white),
-                    ),
-                    Row(
-                      children: [
-                        const Icon(Icons.star, color: Colors.amber, size: 30),
-                        const SizedBox(width: 5),
-                        Text("$_score", style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.white)),
-                      ],
-                    )
-                  ],
+                  ),
                 ),
               ),
 
@@ -357,17 +384,17 @@ class _AttrapeSyllabeGameScreenState extends State<AttrapeSyllabeGameScreen> {
                          child: Container(
                            height: 60,
                            decoration: BoxDecoration(
-                             color: Colors.brown.shade400,
+                             color: Colors.brown.shade400.withValues(alpha: 0.0), // Fully transparent to see the river/grass
                              borderRadius: const BorderRadius.only(topLeft: Radius.circular(20), topRight: Radius.circular(20)),
                            ),
                            child: Row(
                              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                              children: [
-                                Icon(Icons.boy, color: Colors.blue.shade100, size: 50),
-                                Icon(Icons.child_care, color: Colors.pink.shade100, size: 45),
-                                Icon(Icons.girl, color: Colors.green.shade100, size: 50),
-                                Icon(Icons.child_friendly, color: Colors.orange.shade100, size: 45),
-                                Icon(Icons.boy, color: Colors.yellow.shade100, size: 50),
+                                Icon(Icons.boy, color: Colors.blue.shade100, size: 50, shadows: const [Shadow(color: Colors.black45, blurRadius: 6)]),
+                                Icon(Icons.child_care, color: Colors.pink.shade100, size: 45, shadows: const [Shadow(color: Colors.black45, blurRadius: 6)]),
+                                Icon(Icons.girl, color: Colors.green.shade100, size: 50, shadows: const [Shadow(color: Colors.black45, blurRadius: 6)]),
+                                Icon(Icons.child_friendly, color: Colors.orange.shade100, size: 45, shadows: const [Shadow(color: Colors.black45, blurRadius: 6)]),
+                                Icon(Icons.boy, color: Colors.yellow.shade100, size: 50, shadows: const [Shadow(color: Colors.black45, blurRadius: 6)]),
                              ],
                            ),
                          ),
@@ -382,20 +409,32 @@ class _AttrapeSyllabeGameScreenState extends State<AttrapeSyllabeGameScreen> {
                 padding: const EdgeInsets.symmetric(vertical: 20),
                 child: GestureDetector(
                   onTap: _repeatInstruction,
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 15),
-                    decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.circular(30),
-                      boxShadow: const [BoxShadow(color: Colors.black26, blurRadius: 10)],
-                    ),
-                    child: const Row(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        Icon(Icons.volume_up, color: Colors.green, size: 30),
-                        SizedBox(width: 10),
-                        Text("Répéter", style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Colors.green)),
-                      ],
+                  child: ClipRRect(
+                    borderRadius: BorderRadius.circular(30),
+                    child: BackdropFilter(
+                      filter: ImageFilter.blur(sigmaX: 10, sigmaY: 10),
+                      child: Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 30, vertical: 15),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withValues(alpha: 0.25),
+                          borderRadius: BorderRadius.circular(30),
+                          border: Border.all(color: Colors.white.withValues(alpha: 0.4), width: 1.5),
+                          boxShadow: [BoxShadow(color: Colors.black.withValues(alpha: 0.1), blurRadius: 10)],
+                        ),
+                        child: const Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(Icons.volume_up, color: Colors.white, size: 30, shadows: [Shadow(color: Colors.black45, blurRadius: 4, offset: Offset(1,1))]),
+                            SizedBox(width: 10),
+                            Text("Répéter", style: TextStyle(
+                              fontSize: 20, 
+                              fontWeight: FontWeight.bold, 
+                              color: Colors.white, 
+                              shadows: [Shadow(color: Colors.black45, blurRadius: 4, offset: Offset(1,1))]
+                            )),
+                          ],
+                        ),
+                      ),
                     ),
                   ),
                 ),
