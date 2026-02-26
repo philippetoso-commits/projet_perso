@@ -1,17 +1,17 @@
 {
-    "mot": "moto",
-    "theme": "niveau_1_cv_son_o",
-    "pixabay_id": 1836962,
-    "author": "Pexels",
-    "tags": "bicyclette, honda, moto, véhicule, moto noire, transport, big bike, moto, moto, moto, moto, moto",
-    "syllabes": [
-        "mo",
-        "to"
-    ],
-    "syllabes_texte": "mo - to",
-    "image_path": "assets/images/niveau_1_cv_son_o/moto.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 1413412,
-    "photographer": "Giorgio de Angelis"
+  "mot": "moto",
+  "theme": "niveau_1_cv_son_o",
+  "pixabay_id": 1836962,
+  "author": "Pexels",
+  "tags": "bicyclette, honda, moto, véhicule, moto noire, transport, big bike, moto, moto, moto, moto, moto",
+  "syllabes": [
+    "mo",
+    "to"
+  ],
+  "syllabes_texte": "mo-to",
+  "image_path": "assets/images/niveau_1_cv_son_o/moto.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 1413412,
+  "photographer": "Giorgio de Angelis"
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "docteur",
-    "theme": "metiers_lieux",
-    "pixabay_id": 1149148,
-    "author": "Free-Photos",
-    "tags": "ordinateur, entreprise, dactylographie, clavier, portable, docteur, soins médicaux, bureau, ordinateur, ordinateur, ordinateur, ordinateur, ordinateur, bureau",
-    "syllabes": [
-        "doc",
-        "teur"
-    ],
-    "syllabes_texte": "doc - teur",
-    "image_path": "assets/images/metiers_lieux/docteur.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "docteur",
+  "theme": "metiers_lieux",
+  "pixabay_id": 1149148,
+  "author": "Free-Photos",
+  "tags": "ordinateur, entreprise, dactylographie, clavier, portable, docteur, soins médicaux, bureau, ordinateur, ordinateur, ordinateur, ordinateur, ordinateur, bureau",
+  "syllabes": [
+    "doc",
+    "teur"
+  ],
+  "syllabes_texte": "doc-teur",
+  "image_path": "assets/images/metiers_lieux/docteur.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,16 +1,16 @@
 {
-    "mot": "cheminee",
-    "theme": "maison_objets",
-    "pixabay_id": 3450670,
-    "author": "stevepb",
-    "tags": "pistaches, whisky, alcool, alcoolique, boisson, cheminée, boire, whisky, whisky, whisky, whisky, whisky, alcool",
-    "syllabes": [
-        "che",
-        "mi",
-        "nee"
-    ],
-    "syllabes_texte": "che - mi - nee",
-    "image_path": "assets/images/maison_objets/cheminee.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "cheminée",
+  "theme": "maison_objets",
+  "pixabay_id": 3450670,
+  "author": "stevepb",
+  "tags": "pistaches, whisky, alcool, alcoolique, boisson, cheminée, boire, whisky, whisky, whisky, whisky, whisky, alcool",
+  "syllabes": [
+    "che",
+    "mi",
+    "née"
+  ],
+  "syllabes_texte": "che-mi-née",
+  "image_path": "assets/images/maison_objets/cheminee.jpg",
+  "level": 1,
+  "success_count": 0
 }

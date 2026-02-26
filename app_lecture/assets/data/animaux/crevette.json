@@ -1,15 +1,15 @@
 {
-    "mot": "crevette",
-    "theme": "animaux",
-    "pixabay_id": 4773380,
-    "author": "unitea",
-    "tags": "aliments, asiatique, crevettes, nouilles, des bâtons, riz, manger, crevette, chinois, gingembre, repas, le restaurant, en bonne santé, bol, rouge, délicieux, riz, riz, riz, riz, riz, repas, repas, repas",
-    "syllabes": [
-        "cre",
-        "vette"
-    ],
-    "syllabes_texte": "cre - vette",
-    "image_path": "assets/images/animaux/crevette.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "crevette",
+  "theme": "animaux",
+  "pixabay_id": 4773380,
+  "author": "unitea",
+  "tags": "aliments, asiatique, crevettes, nouilles, des bâtons, riz, manger, crevette, chinois, gingembre, repas, le restaurant, en bonne santé, bol, rouge, délicieux, riz, riz, riz, riz, riz, repas, repas, repas",
+  "syllabes": [
+    "crev",
+    "ette"
+  ],
+  "syllabes_texte": "crev-ette",
+  "image_path": "assets/images/animaux/crevette.jpg",
+  "level": 1,
+  "success_count": 0
 }

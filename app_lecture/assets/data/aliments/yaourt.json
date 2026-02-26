@@ -1,14 +1,15 @@
 {
-    "mot": "yaourt",
-    "theme": "aliments",
-    "pixabay_id": 564762,
-    "author": "512893",
-    "tags": "le dessert, yaourt, fruit, cerises, les raisins, en bonne santé, douceur, goûter, yaourt, yaourt, yaourt, yaourt, yaourt, douceur",
-    "syllabes": [
-        "yaourt"
-    ],
-    "syllabes_texte": "yaourt",
-    "image_path": "assets/images/aliments/yaourt.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "yaourt",
+  "theme": "aliments",
+  "pixabay_id": 564762,
+  "author": "512893",
+  "tags": "le dessert, yaourt, fruit, cerises, les raisins, en bonne santé, douceur, goûter, yaourt, yaourt, yaourt, yaourt, yaourt, douceur",
+  "syllabes": [
+    "ya",
+    "ourt"
+  ],
+  "syllabes_texte": "ya-ourt",
+  "image_path": "assets/images/aliments/yaourt.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,16 +1,16 @@
 {
-    "mot": "escalier",
-    "theme": "maison_objets",
-    "pixabay_id": 769790,
-    "author": "Activedia",
-    "tags": "escalier mécanique, escaliers, métro, station, escalier, souterrain, urbain, foncé, escalier, escalier, escalier, escalier, escalier",
-    "syllabes": [
-        "es",
-        "ca",
-        "lier"
-    ],
-    "syllabes_texte": "es - ca - lier",
-    "image_path": "assets/images/maison_objets/escalier.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "escalier",
+  "theme": "maison_objets",
+  "pixabay_id": 769790,
+  "author": "Activedia",
+  "tags": "escalier mécanique, escaliers, métro, station, escalier, souterrain, urbain, foncé, escalier, escalier, escalier, escalier, escalier",
+  "syllabes": [
+    "es",
+    "ca",
+    "lier"
+  ],
+  "syllabes_texte": "es-ca-lier",
+  "image_path": "assets/images/maison_objets/escalier.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "nager",
-    "theme": "verbes_actions",
-    "pixabay_id": 9028827,
-    "author": "masaushi",
-    "tags": "pingouins, oiseau, nager nager, nature, aquarium, incapable de voler, animal, zoo, japon",
-    "syllabes": [
-        "na",
-        "ger"
-    ],
-    "syllabes_texte": "na - ger",
-    "image_path": "assets/images/verbes_actions/nager.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "nager",
+  "theme": "verbes_actions",
+  "pixabay_id": 9028827,
+  "author": "masaushi",
+  "tags": "pingouins, oiseau, nager nager, nature, aquarium, incapable de voler, animal, zoo, japon",
+  "syllabes": [
+    "na",
+    "ger"
+  ],
+  "syllabes_texte": "na-ger",
+  "image_path": "assets/images/verbes_actions/nager.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,14 +1,15 @@
 {
-    "mot": "theatre",
-    "theme": "metiers_lieux",
-    "pixabay_id": 2651711,
-    "author": "Walkerssk",
-    "tags": "sydney, australie, pont, théâtre, theatre de sydney, sydney theatre, sydney harbour bridge, pont de sydney, sydney, sydney, sydney, sydney, sydney",
-    "syllabes": [
-        "theatre"
-    ],
-    "syllabes_texte": "theatre",
-    "image_path": "assets/images/metiers_lieux/theatre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "théâtre",
+  "theme": "metiers_lieux",
+  "pixabay_id": 2651711,
+  "author": "Walkerssk",
+  "tags": "sydney, australie, pont, théâtre, theatre de sydney, sydney theatre, sydney harbour bridge, pont de sydney, sydney, sydney, sydney, sydney, sydney",
+  "syllabes": [
+    "thé",
+    "âtre"
+  ],
+  "syllabes_texte": "thé-âtre",
+  "image_path": "assets/images/metiers_lieux/theatre.jpg",
+  "level": 1,
+  "success_count": 0
 }

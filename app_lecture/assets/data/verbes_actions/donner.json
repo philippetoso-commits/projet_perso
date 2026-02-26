@@ -1,15 +1,15 @@
 {
-    "mot": "donner",
-    "theme": "verbes_actions",
-    "pixabay_id": 5087479,
-    "author": "NickyPe",
-    "tags": "boire, de l'alcool, vin pétillant, un verre, bouteille, célébrer, champagne, donner un, champagne, champagne, champagne, champagne, champagne",
-    "syllabes": [
-        "don",
-        "ner"
-    ],
-    "syllabes_texte": "don - ner",
-    "image_path": "assets/images/verbes_actions/donner.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "donner",
+  "theme": "verbes_actions",
+  "pixabay_id": 5087479,
+  "author": "NickyPe",
+  "tags": "boire, de l'alcool, vin pétillant, un verre, bouteille, célébrer, champagne, donner un, champagne, champagne, champagne, champagne, champagne",
+  "syllabes": [
+    "don",
+    "ner"
+  ],
+  "syllabes_texte": "don-ner",
+  "image_path": "assets/images/verbes_actions/donner.jpg",
+  "level": 1,
+  "success_count": 0
 }

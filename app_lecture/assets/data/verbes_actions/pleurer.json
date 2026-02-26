@@ -1,15 +1,15 @@
 {
-    "mot": "pleurer",
-    "theme": "verbes_actions",
-    "pixabay_id": 9703141,
-    "author": "photostockeditor",
-    "tags": "fille, visage, pleurer, pleurs",
-    "syllabes": [
-        "pleu",
-        "rer"
-    ],
-    "syllabes_texte": "pleu - rer",
-    "image_path": "assets/images/verbes_actions/pleurer.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pleurer",
+  "theme": "verbes_actions",
+  "pixabay_id": 9703141,
+  "author": "photostockeditor",
+  "tags": "fille, visage, pleurer, pleurs",
+  "syllabes": [
+    "pleu",
+    "rer"
+  ],
+  "syllabes_texte": "pleu-rer",
+  "image_path": "assets/images/verbes_actions/pleurer.jpg",
+  "level": 1,
+  "success_count": 0
 }

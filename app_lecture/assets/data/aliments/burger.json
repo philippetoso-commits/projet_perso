@@ -1,15 +1,15 @@
 {
-    "mot": "burger",
-    "theme": "aliments",
-    "pixabay_id": 494706,
-    "author": "niekverlaan",
-    "tags": "hamburger, goûter, burger, gourmet, assiette, repas, fast food, aliments, hamburger, burger, burger, burger, burger, burger, repas, fast food",
-    "syllabes": [
-        "bur",
-        "ger"
-    ],
-    "syllabes_texte": "bur - ger",
-    "image_path": "assets/images/aliments/burger.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "burger",
+  "theme": "aliments",
+  "pixabay_id": 494706,
+  "author": "niekverlaan",
+  "tags": "hamburger, goûter, burger, gourmet, assiette, repas, fast food, aliments, hamburger, burger, burger, burger, burger, burger, repas, fast food",
+  "syllabes": [
+    "bur",
+    "ger"
+  ],
+  "syllabes_texte": "bur-ger",
+  "image_path": "assets/images/aliments/burger.jpg",
+  "level": 1,
+  "success_count": 0
 }

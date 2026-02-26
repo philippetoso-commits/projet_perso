@@ -1,15 +1,15 @@
 {
-    "mot": "biscuit",
-    "theme": "aliments",
-    "pixabay_id": 756601,
-    "author": "congerdesign",
-    "tags": "biscuit, cuire, pâtisserie, des pâtisseries, sucré, cuit, fait maison, petit biscuit, aliments, la photographie culinaire, biscuit, biscuit, biscuit, biscuit, pâtisserie, pâtisserie, pâtisserie, pâtisserie, pâtisserie",
-    "syllabes": [
-        "bis",
-        "cuit"
-    ],
-    "syllabes_texte": "bis - cuit",
-    "image_path": "assets/images/aliments/biscuit.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "biscuit",
+  "theme": "aliments",
+  "pixabay_id": 756601,
+  "author": "congerdesign",
+  "tags": "biscuit, cuire, pâtisserie, des pâtisseries, sucré, cuit, fait maison, petit biscuit, aliments, la photographie culinaire, biscuit, biscuit, biscuit, biscuit, pâtisserie, pâtisserie, pâtisserie, pâtisserie, pâtisserie",
+  "syllabes": [
+    "bis",
+    "cuit"
+  ],
+  "syllabes_texte": "bis-cuit",
+  "image_path": "assets/images/aliments/biscuit.jpg",
+  "level": 1,
+  "success_count": 0
 }

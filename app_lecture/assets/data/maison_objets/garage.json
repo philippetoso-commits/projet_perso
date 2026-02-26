@@ -1,15 +1,15 @@
 {
-    "mot": "garage",
-    "theme": "maison_objets",
-    "pixabay_id": 1929422,
-    "author": "Tama66",
-    "tags": "destruction, imeuble, l'architecture, sale, intérieur, garage, rouillé, garage, garage, garage, garage, garage",
-    "syllabes": [
-        "ga",
-        "rage"
-    ],
-    "syllabes_texte": "ga - rage",
-    "image_path": "assets/images/maison_objets/garage.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "garage",
+  "theme": "maison_objets",
+  "pixabay_id": 1929422,
+  "author": "Tama66",
+  "tags": "destruction, imeuble, l'architecture, sale, intérieur, garage, rouillé, garage, garage, garage, garage, garage",
+  "syllabes": [
+    "ga",
+    "rage"
+  ],
+  "syllabes_texte": "ga-rage",
+  "image_path": "assets/images/maison_objets/garage.jpg",
+  "level": 1,
+  "success_count": 0
 }

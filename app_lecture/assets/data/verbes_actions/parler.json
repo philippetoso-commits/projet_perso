@@ -1,15 +1,15 @@
 {
-    "mot": "parler",
-    "theme": "verbes_actions",
-    "pixabay_id": 238488,
-    "author": "RyanMcGuire",
-    "tags": "boîte de conserve, parler, parlez, microphone, pouvez, étain, bouche, dire, communiquer, chaîne de caractères, hurler, main, les dents, homme, mec, parler, parler, parler, parler, parler, communiquer, communiquer",
-    "syllabes": [
-        "par",
-        "ler"
-    ],
-    "syllabes_texte": "par - ler",
-    "image_path": "assets/images/verbes_actions/parler.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "parler",
+  "theme": "verbes_actions",
+  "pixabay_id": 238488,
+  "author": "RyanMcGuire",
+  "tags": "boîte de conserve, parler, parlez, microphone, pouvez, étain, bouche, dire, communiquer, chaîne de caractères, hurler, main, les dents, homme, mec, parler, parler, parler, parler, parler, communiquer, communiquer",
+  "syllabes": [
+    "par",
+    "ler"
+  ],
+  "syllabes_texte": "par-ler",
+  "image_path": "assets/images/verbes_actions/parler.jpg",
+  "level": 1,
+  "success_count": 0
 }

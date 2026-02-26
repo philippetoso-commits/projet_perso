@@ -1,14 +1,15 @@
 {
-    "mot": "route",
-    "theme": "nature",
-    "pixabay_id": 6957128,
-    "author": "mariya_m",
-    "tags": "majorque, route venteuse, montagnes, la nature, paysage, route, majorque, route, route, route, route, route",
-    "syllabes": [
-        "route"
-    ],
-    "syllabes_texte": "route",
-    "image_path": "assets/images/nature/route.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "route",
+  "theme": "nature",
+  "pixabay_id": 6957128,
+  "author": "mariya_m",
+  "tags": "majorque, route venteuse, montagnes, la nature, paysage, route, majorque, route, route, route, route, route",
+  "syllabes": [
+    "rou",
+    "te"
+  ],
+  "syllabes_texte": "rou-te",
+  "image_path": "assets/images/nature/route.jpg",
+  "level": 1,
+  "success_count": 0
 }

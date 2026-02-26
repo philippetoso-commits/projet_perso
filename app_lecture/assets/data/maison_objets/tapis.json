@@ -1,15 +1,15 @@
 {
-    "mot": "tapis",
-    "theme": "maison_objets",
-    "pixabay_id": 2587598,
-    "author": "karishea",
-    "tags": "table, chaise, bureau, lampe, pièce, tapis, affiches, photo autocollants, chaise, chaise, bureau, bureau, bureau, bureau, bureau",
-    "syllabes": [
-        "ta",
-        "pis"
-    ],
-    "syllabes_texte": "ta - pis",
-    "image_path": "assets/images/maison_objets/tapis.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "tapis",
+  "theme": "maison_objets",
+  "pixabay_id": 2587598,
+  "author": "karishea",
+  "tags": "table, chaise, bureau, lampe, pièce, tapis, affiches, photo autocollants, chaise, chaise, bureau, bureau, bureau, bureau, bureau",
+  "syllabes": [
+    "ta",
+    "pis"
+  ],
+  "syllabes_texte": "ta-pis",
+  "image_path": "assets/images/maison_objets/tapis.jpg",
+  "level": 1,
+  "success_count": 0
 }

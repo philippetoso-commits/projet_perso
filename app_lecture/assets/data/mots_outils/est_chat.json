@@ -1,12 +1,13 @@
 {
-    "mot": "C'est un chat",
-    "syllabes": [
-        "C'est",
-        "un",
-        "chat"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/animaux/chat.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "c'est un chat",
+  "syllabes": [
+    "c'est",
+    "un",
+    "chat"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/animaux/chat.jpg",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "c'est-un-chat"
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "lapin",
-    "theme": "animaux",
-    "pixabay_id": 9926492,
-    "author": "pen_ash",
-    "tags": "lapin, lapin européen, oryctolagus cuniculus, mammifère, animal, aux longues oreilles, lapin sauvage, sauvage, lapin de pâques, fourrure, animal sauvage, faune, nature, forêt, portrait animaux, grandes oreilles, oreilles",
-    "syllabes": [
-        "la",
-        "pin"
-    ],
-    "syllabes_texte": "la - pin",
-    "image_path": "assets/images/animaux/lapin.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "lapin",
+  "theme": "animaux",
+  "pixabay_id": 9926492,
+  "author": "pen_ash",
+  "tags": "lapin, lapin européen, oryctolagus cuniculus, mammifère, animal, aux longues oreilles, lapin sauvage, sauvage, lapin de pâques, fourrure, animal sauvage, faune, nature, forêt, portrait animaux, grandes oreilles, oreilles",
+  "syllabes": [
+    "la",
+    "pin"
+  ],
+  "syllabes_texte": "la-pin",
+  "image_path": "assets/images/animaux/lapin.jpg",
+  "level": 1,
+  "success_count": 0
 }

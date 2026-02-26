@@ -1,14 +1,15 @@
 {
-    "mot": "veste",
-    "theme": "vetements",
-    "pixabay_id": 10093235,
-    "author": "w0nty",
-    "tags": "homme, masculin, maquette, portrait, mode, mode de vie, plage, nature, hiver, mer, blazer, écharpe, col roulé, à carreaux, veste, lunatique, esthétique, luxe tranquille, université sombre, élégant, du froid, couvert, extérieur, style, cinématique, atmosphérique",
-    "syllabes": [
-        "veste"
-    ],
-    "syllabes_texte": "veste",
-    "image_path": "assets/images/vetements/veste.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "veste",
+  "theme": "vetements",
+  "pixabay_id": 10093235,
+  "author": "w0nty",
+  "tags": "homme, masculin, maquette, portrait, mode, mode de vie, plage, nature, hiver, mer, blazer, écharpe, col roulé, à carreaux, veste, lunatique, esthétique, luxe tranquille, université sombre, élégant, du froid, couvert, extérieur, style, cinématique, atmosphérique",
+  "syllabes": [
+    "ves",
+    "te"
+  ],
+  "syllabes_texte": "ves-te",
+  "image_path": "assets/images/vetements/veste.jpg",
+  "level": 1,
+  "success_count": 0
 }

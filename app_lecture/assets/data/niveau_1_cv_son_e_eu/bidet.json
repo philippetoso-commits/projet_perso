@@ -1,17 +1,17 @@
 {
-    "mot": "bidet",
-    "theme": "niveau_1_cv_son_e_eu",
-    "pixabay_id": 1284608,
-    "author": "sferrario1968",
-    "tags": "toilette, bidet, vater, sanitaire, hygiène, céramique, salle de bain, coupe, je décharge, tablette, armoire, nettoyé, toilette, toilette, toilette, toilette, toilette, sanitaire, sanitaire, sanitaire",
-    "syllabes": [
-        "bi",
-        "det"
-    ],
-    "syllabes_texte": "bi - det",
-    "image_path": "assets/images/niveau_1_cv_son_e_eu/bidet.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 6782343,
-    "photographer": "Max Vakhtbovych"
+  "mot": "bidet",
+  "theme": "niveau_1_cv_son_e_eu",
+  "pixabay_id": 1284608,
+  "author": "sferrario1968",
+  "tags": "toilette, bidet, vater, sanitaire, hygiène, céramique, salle de bain, coupe, je décharge, tablette, armoire, nettoyé, toilette, toilette, toilette, toilette, toilette, sanitaire, sanitaire, sanitaire",
+  "syllabes": [
+    "bi",
+    "det"
+  ],
+  "syllabes_texte": "bi-det",
+  "image_path": "assets/images/niveau_1_cv_son_e_eu/bidet.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 6782343,
+  "photographer": "Max Vakhtbovych"
 }

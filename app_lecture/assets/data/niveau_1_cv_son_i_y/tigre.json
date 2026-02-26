@@ -1,16 +1,17 @@
 {
-    "mot": "tigre",
-    "theme": "niveau_1_cv_son_i_y",
-    "pixabay_id": 2923186,
-    "author": "garten-gg",
-    "tags": "tigre, diriger, visage, félin, animal de compagnie, chat sauvage, gros chat, animal, tigre de l'amour, cat, prédateur, nature, dangereux, tigre de sibérie, tête de tigre, portrait de tigre, portrait animaux, isolé, moustaches, nez",
-    "syllabes": [
-        "tigre"
-    ],
-    "syllabes_texte": "tigre",
-    "image_path": "assets/images/niveau_1_cv_son_i_y/tigre.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 1926335,
-    "photographer": "Lucas Pezeta"
+  "mot": "tigre",
+  "theme": "niveau_1_cv_son_i_y",
+  "pixabay_id": 2923186,
+  "author": "garten-gg",
+  "tags": "tigre, diriger, visage, félin, animal de compagnie, chat sauvage, gros chat, animal, tigre de l'amour, cat, prédateur, nature, dangereux, tigre de sibérie, tête de tigre, portrait de tigre, portrait animaux, isolé, moustaches, nez",
+  "syllabes": [
+    "ti",
+    "gre"
+  ],
+  "syllabes_texte": "ti-gre",
+  "image_path": "assets/images/niveau_1_cv_son_i_y/tigre.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 1926335,
+  "photographer": "Lucas Pezeta"
 }

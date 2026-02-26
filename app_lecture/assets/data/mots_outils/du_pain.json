@@ -1,11 +1,12 @@
 {
-    "mot": "Du pain",
-    "syllabes": [
-        "Du",
-        "pain"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/aliments/pain.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "du pain",
+  "syllabes": [
+    "du",
+    "pain"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/aliments/pain.jpg",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "du-pain"
 }

@@ -1,16 +1,17 @@
 {
-    "mot": "tache",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 4518381,
-    "author": "hunt-er",
-    "tags": "paysage, montagnes, scénique, aventure, nature, extérieur, environnement, tourisme, tache de touristes, environnement, environnement, environnement, environnement, environnement",
-    "syllabes": [
-        "tache"
-    ],
-    "syllabes_texte": "tache",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/tache.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 131979,
-    "photographer": "freestocks.org"
+  "mot": "tache",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 4518381,
+  "author": "hunt-er",
+  "tags": "paysage, montagnes, scénique, aventure, nature, extérieur, environnement, tourisme, tache de touristes, environnement, environnement, environnement, environnement, environnement",
+  "syllabes": [
+    "ta",
+    "che"
+  ],
+  "syllabes_texte": "ta-che",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/tache.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 131979,
+  "photographer": "freestocks.org"
 }

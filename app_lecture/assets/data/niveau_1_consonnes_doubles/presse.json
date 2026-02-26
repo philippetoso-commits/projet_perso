@@ -1,16 +1,17 @@
 {
-    "mot": "presse",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 1172463,
-    "author": "652234",
-    "tags": "nouvelles, quotidien, presse, journaux, information, lis, journal, papier journal",
-    "syllabes": [
-        "presse"
-    ],
-    "syllabes_texte": "presse",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/presse.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 6620993,
-    "photographer": "Antoni Shkraba Studio"
+  "mot": "presse",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 1172463,
+  "author": "652234",
+  "tags": "nouvelles, quotidien, presse, journaux, information, lis, journal, papier journal",
+  "syllabes": [
+    "pre",
+    "sse"
+  ],
+  "syllabes_texte": "pre-sse",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/presse.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 6620993,
+  "photographer": "Antoni Shkraba Studio"
 }

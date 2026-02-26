@@ -1,15 +1,15 @@
 {
-    "mot": "chapeau",
-    "theme": "vetements",
-    "pixabay_id": 7278216,
-    "author": "NickyPe",
-    "tags": "casquette, chapeau de paille, l'été, grain, pic, chapeau d'été, sentiment d'été, la nature, casquette, l'été, l'été, l'été, l'été, l'été",
-    "syllabes": [
-        "cha",
-        "peau"
-    ],
-    "syllabes_texte": "cha - peau",
-    "image_path": "assets/images/vetements/chapeau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "chapeau",
+  "theme": "vetements",
+  "pixabay_id": 7278216,
+  "author": "NickyPe",
+  "tags": "casquette, chapeau de paille, l'été, grain, pic, chapeau d'été, sentiment d'été, la nature, casquette, l'été, l'été, l'été, l'été, l'été",
+  "syllabes": [
+    "cha",
+    "peau"
+  ],
+  "syllabes_texte": "cha-peau",
+  "image_path": "assets/images/vetements/chapeau.jpg",
+  "level": 1,
+  "success_count": 0
 }

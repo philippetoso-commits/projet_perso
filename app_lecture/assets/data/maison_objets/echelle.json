@@ -1,14 +1,16 @@
 {
-    "mot": "echelle",
-    "theme": "maison_objets",
-    "pixabay_id": 2675986,
-    "author": "CDHGROUP",
-    "tags": "echelle, pompier, sécurité",
-    "syllabes": [
-        "echelle"
-    ],
-    "syllabes_texte": "echelle",
-    "image_path": "assets/images/maison_objets/echelle.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "échelle",
+  "theme": "maison_objets",
+  "pixabay_id": 2675986,
+  "author": "CDHGROUP",
+  "tags": "echelle, pompier, sécurité",
+  "syllabes": [
+    "é",
+    "che",
+    "lle"
+  ],
+  "syllabes_texte": "é-che-lle",
+  "image_path": "assets/images/maison_objets/echelle.jpg",
+  "level": 1,
+  "success_count": 0
 }

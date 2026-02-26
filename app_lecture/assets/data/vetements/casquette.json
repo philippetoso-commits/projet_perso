@@ -1,15 +1,16 @@
 {
-    "mot": "casquette",
-    "theme": "vetements",
-    "pixabay_id": 1426651,
-    "author": "2147792",
-    "tags": "bébé, fille, casquette, veste, enfant, mignonne, bébé, bébé, bébé, bébé, bébé, enfant",
-    "syllabes": [
-        "cas",
-        "quette"
-    ],
-    "syllabes_texte": "cas - quette",
-    "image_path": "assets/images/vetements/casquette.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "casquette",
+  "theme": "vetements",
+  "pixabay_id": 1426651,
+  "author": "2147792",
+  "tags": "bébé, fille, casquette, veste, enfant, mignonne, bébé, bébé, bébé, bébé, bébé, enfant",
+  "syllabes": [
+    "cas",
+    "que",
+    "tte"
+  ],
+  "syllabes_texte": "cas-que-tte",
+  "image_path": "assets/images/vetements/casquette.jpg",
+  "level": 1,
+  "success_count": 0
 }

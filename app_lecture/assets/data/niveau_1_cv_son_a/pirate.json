@@ -1,17 +1,18 @@
 {
-    "mot": "pirate",
-    "theme": "niveau_1_cv_son_a",
-    "pixabay_id": 2528477,
-    "author": "MasterTux",
-    "tags": "aventure, carte au trésor, carte du vieux monde, pirates, trésor de pirate, carte, boussole, la navigation, naviguer, chasse au trésor, la chasse au trésor, carte pirate, aventure, aventure, aventure, aventure, aventure, pirates, pirates, pirates, carte, boussole",
-    "syllabes": [
-        "pi",
-        "rate"
-    ],
-    "syllabes_texte": "pi - rate",
-    "image_path": "assets/images/niveau_1_cv_son_a/pirate.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 7872033,
-    "photographer": "Vika Glitter"
+  "mot": "pirate",
+  "theme": "niveau_1_cv_son_a",
+  "pixabay_id": 2528477,
+  "author": "MasterTux",
+  "tags": "aventure, carte au trésor, carte du vieux monde, pirates, trésor de pirate, carte, boussole, la navigation, naviguer, chasse au trésor, la chasse au trésor, carte pirate, aventure, aventure, aventure, aventure, aventure, pirates, pirates, pirates, carte, boussole",
+  "syllabes": [
+    "pi",
+    "ra",
+    "te"
+  ],
+  "syllabes_texte": "pi-ra-te",
+  "image_path": "assets/images/niveau_1_cv_son_a/pirate.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 7872033,
+  "photographer": "Vika Glitter"
 }

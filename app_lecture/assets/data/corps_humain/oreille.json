@@ -1,14 +1,16 @@
 {
-    "mot": "oreille",
-    "theme": "corps_humain",
-    "pixabay_id": 3729821,
-    "author": "MabelAmber",
-    "tags": "animal, daims, espèce, mammifère, nature, ruminant, biche, portrait, nez, oreille, les yeux",
-    "syllabes": [
-        "oreille"
-    ],
-    "syllabes_texte": "oreille",
-    "image_path": "assets/images/corps_humain/oreille.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "oreille",
+  "theme": "corps_humain",
+  "pixabay_id": 3729821,
+  "author": "MabelAmber",
+  "tags": "animal, daims, espèce, mammifère, nature, ruminant, biche, portrait, nez, oreille, les yeux",
+  "syllabes": [
+    "o",
+    "rei",
+    "lle"
+  ],
+  "syllabes_texte": "o-rei-lle",
+  "image_path": "assets/images/corps_humain/oreille.jpg",
+  "level": 1,
+  "success_count": 0
 }

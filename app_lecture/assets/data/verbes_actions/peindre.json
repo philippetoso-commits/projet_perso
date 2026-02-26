@@ -1,14 +1,15 @@
 {
-    "mot": "peindre",
-    "theme": "verbes_actions",
-    "pixabay_id": 1262591,
-    "author": "yg9301270",
-    "tags": "peindre, bleu, mur, pas frais, rouleau, peindre, peindre, peindre, peindre, peindre",
-    "syllabes": [
-        "peindre"
-    ],
-    "syllabes_texte": "peindre",
-    "image_path": "assets/images/verbes_actions/peindre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "peindre",
+  "theme": "verbes_actions",
+  "pixabay_id": 1262591,
+  "author": "yg9301270",
+  "tags": "peindre, bleu, mur, pas frais, rouleau, peindre, peindre, peindre, peindre, peindre",
+  "syllabes": [
+    "pein",
+    "dre"
+  ],
+  "syllabes_texte": "pein-dre",
+  "image_path": "assets/images/verbes_actions/peindre.jpg",
+  "level": 1,
+  "success_count": 0
 }

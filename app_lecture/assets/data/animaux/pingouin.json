@@ -1,15 +1,15 @@
 {
-    "mot": "pingouin",
-    "theme": "animaux",
-    "pixabay_id": 429128,
-    "author": "MemoryCatcher",
-    "tags": "manchots empereurs, bébé pingouin, des oiseaux, neige, pingouins, animaux, faune, du froid, hiver, région sauvage, nature, antarctique, animaux, animaux, animaux, animaux, animaux",
-    "syllabes": [
-        "pin",
-        "gouin"
-    ],
-    "syllabes_texte": "pin - gouin",
-    "image_path": "assets/images/animaux/pingouin.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pingouin",
+  "theme": "animaux",
+  "pixabay_id": 429128,
+  "author": "MemoryCatcher",
+  "tags": "manchots empereurs, bébé pingouin, des oiseaux, neige, pingouins, animaux, faune, du froid, hiver, région sauvage, nature, antarctique, animaux, animaux, animaux, animaux, animaux",
+  "syllabes": [
+    "pin",
+    "gouin"
+  ],
+  "syllabes_texte": "pin-gouin",
+  "image_path": "assets/images/animaux/pingouin.jpg",
+  "level": 1,
+  "success_count": 0
 }

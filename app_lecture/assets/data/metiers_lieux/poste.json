@@ -1,14 +1,15 @@
 {
-    "mot": "poste",
-    "theme": "metiers_lieux",
-    "pixabay_id": 8173913,
-    "author": "_badun",
-    "tags": "tour de sauveteur, lifeguard, poste de secours, escaliers, lettonie, l'architecture, imeuble",
-    "syllabes": [
-        "poste"
-    ],
-    "syllabes_texte": "poste",
-    "image_path": "assets/images/metiers_lieux/poste.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "poste",
+  "theme": "metiers_lieux",
+  "pixabay_id": 8173913,
+  "author": "_badun",
+  "tags": "tour de sauveteur, lifeguard, poste de secours, escaliers, lettonie, l'architecture, imeuble",
+  "syllabes": [
+    "pos",
+    "te"
+  ],
+  "syllabes_texte": "pos-te",
+  "image_path": "assets/images/metiers_lieux/poste.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,14 +1,15 @@
 {
-    "mot": "poire",
-    "theme": "aliments",
-    "pixabay_id": 7360921,
-    "author": "GoranH",
-    "tags": "poire, fruit, aliments, arbre, poire williams, l'été, maturité, nature, poire, poire, poire, poire, poire",
-    "syllabes": [
-        "poire"
-    ],
-    "syllabes_texte": "poire",
-    "image_path": "assets/images/aliments/poire.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "poire",
+  "theme": "aliments",
+  "pixabay_id": 7360921,
+  "author": "GoranH",
+  "tags": "poire, fruit, aliments, arbre, poire williams, l'été, maturité, nature, poire, poire, poire, poire, poire",
+  "syllabes": [
+    "poi",
+    "re"
+  ],
+  "syllabes_texte": "poi-re",
+  "image_path": "assets/images/aliments/poire.jpg",
+  "level": 1,
+  "success_count": 0
 }

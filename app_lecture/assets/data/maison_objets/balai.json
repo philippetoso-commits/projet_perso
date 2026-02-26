@@ -1,15 +1,15 @@
 {
-    "mot": "balai",
-    "theme": "maison_objets",
-    "pixabay_id": 2111014,
-    "author": "hrjoon",
-    "tags": "sorcière, nuit, conte de fée, mouche, nature, manche à balai, balai, rêve, parti, halloween, forêt",
-    "syllabes": [
-        "ba",
-        "lai"
-    ],
-    "syllabes_texte": "ba - lai",
-    "image_path": "assets/images/maison_objets/balai.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "balai",
+  "theme": "maison_objets",
+  "pixabay_id": 2111014,
+  "author": "hrjoon",
+  "tags": "sorcière, nuit, conte de fée, mouche, nature, manche à balai, balai, rêve, parti, halloween, forêt",
+  "syllabes": [
+    "ba",
+    "lai"
+  ],
+  "syllabes_texte": "ba-lai",
+  "image_path": "assets/images/maison_objets/balai.jpg",
+  "level": 1,
+  "success_count": 0
 }

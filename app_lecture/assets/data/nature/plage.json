@@ -1,14 +1,15 @@
 {
-    "mot": "plage",
-    "theme": "nature",
-    "pixabay_id": 6292382,
-    "author": "Kanenori",
-    "tags": "plage, mer, empreintes de pas, sable, plage de sable, rivage, rive, côte, littoral, île tropicale, paysage, tropical, plage de sable blanc, nature, voyager, indonésie",
-    "syllabes": [
-        "plage"
-    ],
-    "syllabes_texte": "plage",
-    "image_path": "assets/images/nature/plage.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "plage",
+  "theme": "nature",
+  "pixabay_id": 6292382,
+  "author": "Kanenori",
+  "tags": "plage, mer, empreintes de pas, sable, plage de sable, rivage, rive, côte, littoral, île tropicale, paysage, tropical, plage de sable blanc, nature, voyager, indonésie",
+  "syllabes": [
+    "pla",
+    "ge"
+  ],
+  "syllabes_texte": "pla-ge",
+  "image_path": "assets/images/nature/plage.jpg",
+  "level": 1,
+  "success_count": 0
 }

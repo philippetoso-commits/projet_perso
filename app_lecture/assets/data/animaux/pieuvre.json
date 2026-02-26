@@ -1,14 +1,15 @@
 {
-    "mot": "pieuvre",
-    "theme": "animaux",
-    "pixabay_id": 3743404,
-    "author": "ekamelev",
-    "tags": "moustique, insecte, pieuvre, macro, diptères, jeans, moustique, moustique, moustique, moustique, moustique",
-    "syllabes": [
-        "pieuvre"
-    ],
-    "syllabes_texte": "pieuvre",
-    "image_path": "assets/images/animaux/pieuvre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pieuvre",
+  "theme": "animaux",
+  "pixabay_id": 3743404,
+  "author": "ekamelev",
+  "tags": "moustique, insecte, pieuvre, macro, diptères, jeans, moustique, moustique, moustique, moustique, moustique",
+  "syllabes": [
+    "pieu",
+    "vre"
+  ],
+  "syllabes_texte": "pieu-vre",
+  "image_path": "assets/images/animaux/pieuvre.jpg",
+  "level": 1,
+  "success_count": 0
 }

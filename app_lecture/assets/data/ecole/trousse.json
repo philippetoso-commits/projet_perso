@@ -1,14 +1,14 @@
 {
-    "mot": "trousse",
-    "theme": "ecole",
-    "pixabay_id": 3405975,
-    "author": "monicore",
-    "tags": "couture, fil, artisanat, coudre, textile, équipement, outil, aiguille, en tissu, loisir, trousse, couture, couture, couture, couture, couture",
-    "syllabes": [
-        "trousse"
-    ],
-    "syllabes_texte": "trousse",
-    "image_path": "assets/images/ecole/trousse.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "troussé",
+  "theme": "ecole",
+  "pixabay_id": 3405975,
+  "author": "monicore",
+  "tags": "couture, fil, artisanat, coudre, textile, équipement, outil, aiguille, en tissu, loisir, trousse, couture, couture, couture, couture, couture",
+  "syllabes": [
+    "trousse"
+  ],
+  "syllabes_texte": "trousse",
+  "image_path": "assets/images/ecole/trousse.jpg",
+  "level": 1,
+  "success_count": 0
 }

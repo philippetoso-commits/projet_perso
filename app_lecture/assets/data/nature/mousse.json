@@ -1,14 +1,15 @@
 {
-    "mot": "mousse",
-    "theme": "nature",
-    "pixabay_id": 4418351,
-    "author": "ajs1980518",
-    "tags": "mousse, cascade, nature, cascade, cascade, cascade, cascade, cascade",
-    "syllabes": [
-        "mousse"
-    ],
-    "syllabes_texte": "mousse",
-    "image_path": "assets/images/nature/mousse.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "mousse",
+  "theme": "nature",
+  "pixabay_id": 4418351,
+  "author": "ajs1980518",
+  "tags": "mousse, cascade, nature, cascade, cascade, cascade, cascade, cascade",
+  "syllabes": [
+    "mou",
+    "sse"
+  ],
+  "syllabes_texte": "mou-sse",
+  "image_path": "assets/images/nature/mousse.jpg",
+  "level": 1,
+  "success_count": 0
 }

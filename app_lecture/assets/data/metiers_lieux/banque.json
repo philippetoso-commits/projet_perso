@@ -1,14 +1,15 @@
 {
-    "mot": "banque",
-    "theme": "metiers_lieux",
-    "pixabay_id": 7881948,
-    "author": "Barta4",
-    "tags": "argent, en espèces, dollars, la finance, dollar, usd, banque, billets de banque, argent, argent, argent, en espèces, dollars, dollar, dollar, dollar, banque, banque, banque, banque, banque, billets de banque, billets de banque, billets de banque, billets de banque, billets de banque",
-    "syllabes": [
-        "banque"
-    ],
-    "syllabes_texte": "banque",
-    "image_path": "assets/images/metiers_lieux/banque.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "banque",
+  "theme": "metiers_lieux",
+  "pixabay_id": 7881948,
+  "author": "Barta4",
+  "tags": "argent, en espèces, dollars, la finance, dollar, usd, banque, billets de banque, argent, argent, argent, en espèces, dollars, dollar, dollar, dollar, banque, banque, banque, banque, banque, billets de banque, billets de banque, billets de banque, billets de banque, billets de banque",
+  "syllabes": [
+    "ban",
+    "que"
+  ],
+  "syllabes_texte": "ban-que",
+  "image_path": "assets/images/metiers_lieux/banque.jpg",
+  "level": 1,
+  "success_count": 0
 }

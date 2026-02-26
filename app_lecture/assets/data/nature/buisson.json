@@ -1,15 +1,15 @@
 {
-    "mot": "buisson",
-    "theme": "nature",
-    "pixabay_id": 9834881,
-    "author": "sashamatic",
-    "tags": "écureuil, animaux, photographie animalière, nature, mammifère, rongeur, forêt, sauvage",
-    "syllabes": [
-        "buis",
-        "son"
-    ],
-    "syllabes_texte": "buis - son",
-    "image_path": "assets/images/nature/buisson.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "buisson",
+  "theme": "nature",
+  "pixabay_id": 9834881,
+  "author": "sashamatic",
+  "tags": "écureuil, animaux, photographie animalière, nature, mammifère, rongeur, forêt, sauvage",
+  "syllabes": [
+    "bui",
+    "sson"
+  ],
+  "syllabes_texte": "bui-sson",
+  "image_path": "assets/images/nature/buisson.jpg",
+  "level": 1,
+  "success_count": 0
 }

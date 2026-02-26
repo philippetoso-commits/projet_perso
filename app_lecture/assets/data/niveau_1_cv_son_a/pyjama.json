@@ -1,18 +1,18 @@
 {
-    "mot": "pyjama",
-    "theme": "niveau_1_cv_son_a",
-    "pixabay_id": 2929746,
-    "author": "ShabbyNature",
-    "tags": "pyjamas enfants, pyjamas, pyjama, mignonne, enfant, fille, soirée pyjama, enfance, soirée, fait main, blanche, dormir, en tissu",
-    "syllabes": [
-        "py",
-        "ja",
-        "ma"
-    ],
-    "syllabes_texte": "py - ja - ma",
-    "image_path": "assets/images/niveau_1_cv_son_a/pyjama.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 8416323,
-    "photographer": "SHVETS production"
+  "mot": "pyjama",
+  "theme": "niveau_1_cv_son_a",
+  "pixabay_id": 2929746,
+  "author": "ShabbyNature",
+  "tags": "pyjamas enfants, pyjamas, pyjama, mignonne, enfant, fille, soirée pyjama, enfance, soirée, fait main, blanche, dormir, en tissu",
+  "syllabes": [
+    "py",
+    "ja",
+    "ma"
+  ],
+  "syllabes_texte": "py-ja-ma",
+  "image_path": "assets/images/niveau_1_cv_son_a/pyjama.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 8416323,
+  "photographer": "SHVETS production"
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "citrouille",
-    "theme": "aliments",
-    "pixabay_id": 2972858,
-    "author": "congerdesign",
-    "tags": "soupe à la citrouille, soupe, crème de potiron, orange, graines de citrouille, citrouille, manger, repas, chaud, aliments, cuit, végétarien, le déjeuner, nutrition, la photographie culinaire, soupe, soupe, soupe, soupe, soupe",
-    "syllabes": [
-        "ci",
-        "trouille"
-    ],
-    "syllabes_texte": "ci - trouille",
-    "image_path": "assets/images/aliments/citrouille.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "citrouille",
+  "theme": "aliments",
+  "pixabay_id": 2972858,
+  "author": "congerdesign",
+  "tags": "soupe à la citrouille, soupe, crème de potiron, orange, graines de citrouille, citrouille, manger, repas, chaud, aliments, cuit, végétarien, le déjeuner, nutrition, la photographie culinaire, soupe, soupe, soupe, soupe, soupe",
+  "syllabes": [
+    "ci",
+    "trouille"
+  ],
+  "syllabes_texte": "ci-trouille",
+  "image_path": "assets/images/aliments/citrouille.jpg",
+  "level": 1,
+  "success_count": 0
 }

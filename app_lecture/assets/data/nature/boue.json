@@ -1,14 +1,15 @@
 {
-    "mot": "boue",
-    "theme": "nature",
-    "pixabay_id": 4213487,
-    "author": "gorkhe1980",
-    "tags": "main, pot, poterie, boue, art, poterie, poterie, poterie, poterie, poterie, boue, boue, art, art",
-    "syllabes": [
-        "boue"
-    ],
-    "syllabes_texte": "boue",
-    "image_path": "assets/images/nature/boue.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "boué",
+  "theme": "nature",
+  "pixabay_id": 4213487,
+  "author": "gorkhe1980",
+  "tags": "main, pot, poterie, boue, art, poterie, poterie, poterie, poterie, poterie, boue, boue, art, art",
+  "syllabes": [
+    "bou",
+    "é"
+  ],
+  "syllabes_texte": "bou-é",
+  "image_path": "assets/images/nature/boue.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,17 +1,17 @@
 {
-    "mot": "dodo",
-    "theme": "niveau_1_cv_son_i_y",
-    "pixabay_id": 259248,
-    "author": "134213",
-    "tags": "dodo, oiseau, disparu, la peinture, dessin, l'ile maurice, terrestre, extinction, l'oiseau dodo, nature, colombidés",
-    "syllabes": [
-        "do",
-        "do"
-    ],
-    "syllabes_texte": "do - do",
-    "image_path": "assets/images/niveau_1_cv_son_i_y/dodo.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 1024500,
-    "photographer": "Kristi Evans"
+  "mot": "dodo",
+  "theme": "niveau_1_cv_son_i_y",
+  "pixabay_id": 259248,
+  "author": "134213",
+  "tags": "dodo, oiseau, disparu, la peinture, dessin, l'ile maurice, terrestre, extinction, l'oiseau dodo, nature, colombidés",
+  "syllabes": [
+    "do",
+    "do"
+  ],
+  "syllabes_texte": "do-do",
+  "image_path": "assets/images/niveau_1_cv_son_i_y/dodo.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 1024500,
+  "photographer": "Kristi Evans"
 }

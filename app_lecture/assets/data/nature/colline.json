@@ -1,15 +1,16 @@
 {
-    "mot": "colline",
-    "theme": "nature",
-    "pixabay_id": 5324149,
-    "author": "susnpics",
-    "tags": "colline, arbre, nature, drumlin, paysage",
-    "syllabes": [
-        "col",
-        "line"
-    ],
-    "syllabes_texte": "col - line",
-    "image_path": "assets/images/nature/colline.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "colline",
+  "theme": "nature",
+  "pixabay_id": 5324149,
+  "author": "susnpics",
+  "tags": "colline, arbre, nature, drumlin, paysage",
+  "syllabes": [
+    "co",
+    "lli",
+    "ne"
+  ],
+  "syllabes_texte": "co-lli-ne",
+  "image_path": "assets/images/nature/colline.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,14 +1,14 @@
 {
-    "mot": "tete",
-    "theme": "corps_humain",
-    "pixabay_id": 7910906,
-    "author": "akbarnemati",
-    "tags": "poisson, la nourriture pour poissons, marché aux poissons, animal, mer, marché de la mer, nature, aliments, tete de poisson, gris, grise",
-    "syllabes": [
-        "tete"
-    ],
-    "syllabes_texte": "tete",
-    "image_path": "assets/images/corps_humain/tete.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "tête",
+  "theme": "corps_humain",
+  "pixabay_id": 7910906,
+  "author": "akbarnemati",
+  "tags": "poisson, la nourriture pour poissons, marché aux poissons, animal, mer, marché de la mer, nature, aliments, tete de poisson, gris, grise",
+  "syllabes": [
+    "tête"
+  ],
+  "syllabes_texte": "tête",
+  "image_path": "assets/images/corps_humain/tete.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,11 +1,11 @@
 {
-    "mot": "Le chat",
-    "syllabes": [
-        "Le",
-        "chat"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/animaux/chat.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "le chat",
+  "syllabes": [
+    "le chat"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/animaux/chat.jpg",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "le chat"
 }

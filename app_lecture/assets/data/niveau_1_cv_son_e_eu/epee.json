@@ -1,16 +1,17 @@
 {
-    "mot": "epee",
-    "theme": "niveau_1_cv_son_e_eu",
-    "pixabay_id": 7256271,
-    "author": "REFLEX_PRODUCTION",
-    "tags": "torii, porte japonaise traditionnelle, sakhaline, épée, guerrier, manteau, cosplay, noir et blanc, torii, guerrier, cosplay, cosplay, cosplay, cosplay, cosplay",
-    "syllabes": [
-        "epee"
-    ],
-    "syllabes_texte": "epee",
-    "image_path": "assets/images/niveau_1_cv_son_e_eu/epee.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 4207776,
-    "photographer": "www.kaboompics.com"
+  "mot": "épée",
+  "theme": "niveau_1_cv_son_e_eu",
+  "pixabay_id": 7256271,
+  "author": "REFLEX_PRODUCTION",
+  "tags": "torii, porte japonaise traditionnelle, sakhaline, épée, guerrier, manteau, cosplay, noir et blanc, torii, guerrier, cosplay, cosplay, cosplay, cosplay, cosplay",
+  "syllabes": [
+    "é",
+    "pée"
+  ],
+  "syllabes_texte": "é-pée",
+  "image_path": "assets/images/niveau_1_cv_son_e_eu/epee.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 4207776,
+  "photographer": "www.kaboompics.com"
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "sapin",
-    "theme": "nature",
-    "pixabay_id": 6803226,
-    "author": "congerdesign",
-    "tags": "pomme de pin, vert sapin, branche de sapin",
-    "syllabes": [
-        "sa",
-        "pin"
-    ],
-    "syllabes_texte": "sa - pin",
-    "image_path": "assets/images/nature/sapin.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "sapin",
+  "theme": "nature",
+  "pixabay_id": 6803226,
+  "author": "congerdesign",
+  "tags": "pomme de pin, vert sapin, branche de sapin",
+  "syllabes": [
+    "sa",
+    "pin"
+  ],
+  "syllabes_texte": "sa-pin",
+  "image_path": "assets/images/nature/sapin.jpg",
+  "level": 1,
+  "success_count": 0
 }

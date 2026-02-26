@@ -1,14 +1,15 @@
 {
-    "mot": "feutre",
-    "theme": "ecole",
-    "pixabay_id": 9370507,
-    "author": "Ralf1403",
-    "tags": "cœurs, amour, valentin, symbole, main, ensemble, fond d'écran hd, fond d'écran",
-    "syllabes": [
-        "feutre"
-    ],
-    "syllabes_texte": "feutre",
-    "image_path": "assets/images/ecole/feutre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "feutré",
+  "theme": "ecole",
+  "pixabay_id": 9370507,
+  "author": "Ralf1403",
+  "tags": "cœurs, amour, valentin, symbole, main, ensemble, fond d'écran hd, fond d'écran",
+  "syllabes": [
+    "feu",
+    "tré"
+  ],
+  "syllabes_texte": "feu-tré",
+  "image_path": "assets/images/ecole/feutre.jpg",
+  "level": 1,
+  "success_count": 0
 }

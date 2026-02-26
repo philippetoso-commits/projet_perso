@@ -1,16 +1,17 @@
 {
-    "mot": "boa",
-    "theme": "niveau_1_cv_son_a",
-    "pixabay_id": 7386684,
-    "author": "Haim_Charbit",
-    "tags": "serpent, reptile, python, boa, anaconda, vert, venin, jungle, dangereux, nature, langue, animal",
-    "syllabes": [
-        "boa"
-    ],
-    "syllabes_texte": "boa",
-    "image_path": "assets/images/niveau_1_cv_son_a/boa.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 34426,
-    "photographer": "Pixabay"
+  "mot": "boa",
+  "theme": "niveau_1_cv_son_a",
+  "pixabay_id": 7386684,
+  "author": "Haim_Charbit",
+  "tags": "serpent, reptile, python, boa, anaconda, vert, venin, jungle, dangereux, nature, langue, animal",
+  "syllabes": [
+    "bo",
+    "a"
+  ],
+  "syllabes_texte": "bo-a",
+  "image_path": "assets/images/niveau_1_cv_son_a/boa.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 34426,
+  "photographer": "Pixabay"
 }

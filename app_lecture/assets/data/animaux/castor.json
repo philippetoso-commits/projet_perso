@@ -1,15 +1,15 @@
 {
-    "mot": "castor",
-    "theme": "animaux",
-    "pixabay_id": 249277,
-    "author": "tassilo111",
-    "tags": "castor, dégâts de castor, rongeur, arbre de castor, dommages castor, alimentation de castor, auberge, innau, percher, animaux, protection castor, la nature",
-    "syllabes": [
-        "cas",
-        "tor"
-    ],
-    "syllabes_texte": "cas - tor",
-    "image_path": "assets/images/animaux/castor.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "castor",
+  "theme": "animaux",
+  "pixabay_id": 249277,
+  "author": "tassilo111",
+  "tags": "castor, dégâts de castor, rongeur, arbre de castor, dommages castor, alimentation de castor, auberge, innau, percher, animaux, protection castor, la nature",
+  "syllabes": [
+    "cas",
+    "tor"
+  ],
+  "syllabes_texte": "cas-tor",
+  "image_path": "assets/images/animaux/castor.jpg",
+  "level": 1,
+  "success_count": 0
 }

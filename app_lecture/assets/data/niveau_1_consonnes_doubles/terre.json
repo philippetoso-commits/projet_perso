@@ -1,16 +1,17 @@
 {
-    "mot": "terre",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 5315602,
-    "author": "Lynniet17",
-    "tags": "jardin, mains de travail, saleté, mise à la terre, terre mère, les plantes, nature, plantation, journée de la terre",
-    "syllabes": [
-        "terre"
-    ],
-    "syllabes_texte": "terre",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/terre.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 346885,
-    "photographer": "Porapak Apichodilok"
+  "mot": "terré",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 5315602,
+  "author": "Lynniet17",
+  "tags": "jardin, mains de travail, saleté, mise à la terre, terre mère, les plantes, nature, plantation, journée de la terre",
+  "syllabes": [
+    "te",
+    "rré"
+  ],
+  "syllabes_texte": "te-rré",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/terre.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 346885,
+  "photographer": "Porapak Apichodilok"
 }

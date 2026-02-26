@@ -1,16 +1,17 @@
 {
-    "mot": "lune",
-    "theme": "niveau_1_cv_son_u",
-    "pixabay_id": 1859616,
-    "author": "rkarkowski",
-    "tags": "lune, pleine lune, ciel, ciel de nuit, lunaire, nature, clair de lune, nuit, paysage, ciel noir, ciel sombre",
-    "syllabes": [
-        "lune"
-    ],
-    "syllabes_texte": "lune",
-    "image_path": "assets/images/niveau_1_cv_son_u/lune.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 2078126,
-    "photographer": "Kush Kaushik"
+  "mot": "lune",
+  "theme": "niveau_1_cv_son_u",
+  "pixabay_id": 1859616,
+  "author": "rkarkowski",
+  "tags": "lune, pleine lune, ciel, ciel de nuit, lunaire, nature, clair de lune, nuit, paysage, ciel noir, ciel sombre",
+  "syllabes": [
+    "lu",
+    "ne"
+  ],
+  "syllabes_texte": "lu-ne",
+  "image_path": "assets/images/niveau_1_cv_son_u/lune.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 2078126,
+  "photographer": "Kush Kaushik"
 }

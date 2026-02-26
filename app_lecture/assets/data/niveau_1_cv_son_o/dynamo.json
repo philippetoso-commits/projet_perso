@@ -1,18 +1,18 @@
 {
-    "mot": "dynamo",
-    "theme": "niveau_1_cv_son_o",
-    "pixabay_id": 978421,
-    "author": "igorselivanovskiy",
-    "tags": "russie, vologda, dynamo",
-    "syllabes": [
-        "dy",
-        "na",
-        "mo"
-    ],
-    "syllabes_texte": "dy - na - mo",
-    "image_path": "assets/images/niveau_1_cv_son_o/dynamo.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 6156378,
-    "photographer": "Laker"
+  "mot": "dynamo",
+  "theme": "niveau_1_cv_son_o",
+  "pixabay_id": 978421,
+  "author": "igorselivanovskiy",
+  "tags": "russie, vologda, dynamo",
+  "syllabes": [
+    "dy",
+    "na",
+    "mo"
+  ],
+  "syllabes_texte": "dy-na-mo",
+  "image_path": "assets/images/niveau_1_cv_son_o/dynamo.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 6156378,
+  "photographer": "Laker"
 }

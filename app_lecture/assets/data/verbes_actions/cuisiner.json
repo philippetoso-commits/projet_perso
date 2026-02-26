@@ -1,16 +1,15 @@
 {
-    "mot": "cuisiner",
-    "theme": "verbes_actions",
-    "pixabay_id": 544071,
-    "author": "congerdesign",
-    "tags": "pot, cuisine, cuisiner, cuillère en bois, préparer, repas, ingrédients, préparation, cuisine, cuisine, cuisine, cuisine, cuisine, cuisiner, repas",
-    "syllabes": [
-        "cui",
-        "si",
-        "ner"
-    ],
-    "syllabes_texte": "cui - si - ner",
-    "image_path": "assets/images/verbes_actions/cuisiner.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "cuisiner",
+  "theme": "verbes_actions",
+  "pixabay_id": 544071,
+  "author": "congerdesign",
+  "tags": "pot, cuisine, cuisiner, cuillère en bois, préparer, repas, ingrédients, préparation, cuisine, cuisine, cuisine, cuisine, cuisine, cuisiner, repas",
+  "syllabes": [
+    "cui",
+    "siner"
+  ],
+  "syllabes_texte": "cui-siner",
+  "image_path": "assets/images/verbes_actions/cuisiner.jpg",
+  "level": 1,
+  "success_count": 0
 }

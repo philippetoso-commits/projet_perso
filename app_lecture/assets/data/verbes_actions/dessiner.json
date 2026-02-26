@@ -1,16 +1,16 @@
 {
-    "mot": "dessiner",
-    "theme": "verbes_actions",
-    "pixabay_id": 4752642,
-    "author": "congerdesign",
-    "tags": "main, cœur, dessiner, écrivez, chaussée, main, main, cœur, cœur, cœur, cœur, cœur, écrivez",
-    "syllabes": [
-        "des",
-        "si",
-        "ner"
-    ],
-    "syllabes_texte": "des - si - ner",
-    "image_path": "assets/images/verbes_actions/dessiner.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "dessiner",
+  "theme": "verbes_actions",
+  "pixabay_id": 4752642,
+  "author": "congerdesign",
+  "tags": "main, cœur, dessiner, écrivez, chaussée, main, main, cœur, cœur, cœur, cœur, cœur, écrivez",
+  "syllabes": [
+    "de",
+    "ss",
+    "iner"
+  ],
+  "syllabes_texte": "de-ss-iner",
+  "image_path": "assets/images/verbes_actions/dessiner.jpg",
+  "level": 1,
+  "success_count": 0
 }

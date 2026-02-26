@@ -1,15 +1,16 @@
 {
-    "mot": "squelette",
-    "theme": "corps_humain",
-    "pixabay_id": 4314035,
-    "author": "just-pics",
-    "tags": "musée national de l'histoire, squelette de baleine bleue, exposition, londres, uk, squelette de baleine, squelette, angleterre, musée, londres, musée, musée, musée, musée, musée",
-    "syllabes": [
-        "sque",
-        "lette"
-    ],
-    "syllabes_texte": "sque - lette",
-    "image_path": "assets/images/corps_humain/squelette.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "squelette",
+  "theme": "corps_humain",
+  "pixabay_id": 4314035,
+  "author": "just-pics",
+  "tags": "musée national de l'histoire, squelette de baleine bleue, exposition, londres, uk, squelette de baleine, squelette, angleterre, musée, londres, musée, musée, musée, musée, musée",
+  "syllabes": [
+    "sque",
+    "let",
+    "te"
+  ],
+  "syllabes_texte": "sque-let-te",
+  "image_path": "assets/images/corps_humain/squelette.jpg",
+  "level": 1,
+  "success_count": 0
 }

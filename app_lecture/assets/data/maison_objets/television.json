@@ -1,17 +1,17 @@
 {
-    "mot": "television",
-    "theme": "maison_objets",
-    "pixabay_id": 749858,
-    "author": "Meromex",
-    "tags": "thomas gottschalk, presenteur de television, parie que, figure de cire, regarder la télévision, berlin, madame tussauds, musée",
-    "syllabes": [
-        "te",
-        "le",
-        "vi",
-        "sion"
-    ],
-    "syllabes_texte": "te - le - vi - sion",
-    "image_path": "assets/images/maison_objets/television.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "télévision",
+  "theme": "maison_objets",
+  "pixabay_id": 749858,
+  "author": "Meromex",
+  "tags": "thomas gottschalk, presenteur de television, parie que, figure de cire, regarder la télévision, berlin, madame tussauds, musée",
+  "syllabes": [
+    "té",
+    "lé",
+    "vi",
+    "sion"
+  ],
+  "syllabes_texte": "té-lé-vi-sion",
+  "image_path": "assets/images/maison_objets/television.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "dindon",
-    "theme": "animaux",
-    "pixabay_id": 4212284,
-    "author": "MLARANDA",
-    "tags": "dindon des ardennes, volaille, basse-cour, plumes, animal, nature, gallinacées",
-    "syllabes": [
-        "din",
-        "don"
-    ],
-    "syllabes_texte": "din - don",
-    "image_path": "assets/images/animaux/dindon.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "dindon",
+  "theme": "animaux",
+  "pixabay_id": 4212284,
+  "author": "MLARANDA",
+  "tags": "dindon des ardennes, volaille, basse-cour, plumes, animal, nature, gallinacées",
+  "syllabes": [
+    "din",
+    "don"
+  ],
+  "syllabes_texte": "din-don",
+  "image_path": "assets/images/animaux/dindon.jpg",
+  "level": 1,
+  "success_count": 0
 }

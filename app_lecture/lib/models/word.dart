@@ -59,6 +59,13 @@ class Word extends HiveObject {
     String img = json['image_path'] ?? "";
     if (img.isEmpty) {
         String fileMot = mot.toLowerCase().replaceAll(' ', '_');
+        fileMot = fileMot
+            .replaceAll(RegExp(r'[éèêë]'), 'e')
+            .replaceAll(RegExp(r'[àâä]'), 'a')
+            .replaceAll(RegExp(r'[îï]'), 'i')
+            .replaceAll(RegExp(r'[ôö]'), 'o')
+            .replaceAll(RegExp(r'[ùûü]'), 'u')
+            .replaceAll(RegExp(r'[ç]'), 'c');
         img = "assets/images/$theme/$fileMot.jpg";
     }
     // Normalisation : slash Unix, sans antislash ni slash initial (compatibilité bundle Flutter)

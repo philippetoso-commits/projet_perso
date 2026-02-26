@@ -1,17 +1,18 @@
 {
-    "mot": "karate",
-    "theme": "niveau_1_cv_son_o",
-    "pixabay_id": 4808506,
-    "author": "xandepontes",
-    "tags": "oiseau, nature, animal, plumage, karate kid",
-    "syllabes": [
-        "ka",
-        "rate"
-    ],
-    "syllabes_texte": "ka - rate",
-    "image_path": "assets/images/niveau_1_cv_son_o/karate.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 6005466,
-    "photographer": "olia danilevich"
+  "mot": "karaté",
+  "theme": "niveau_1_cv_son_o",
+  "pixabay_id": 4808506,
+  "author": "xandepontes",
+  "tags": "oiseau, nature, animal, plumage, karate kid",
+  "syllabes": [
+    "ka",
+    "ra",
+    "té"
+  ],
+  "syllabes_texte": "ka-ra-té",
+  "image_path": "assets/images/niveau_1_cv_son_o/karate.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 6005466,
+  "photographer": "olia danilevich"
 }

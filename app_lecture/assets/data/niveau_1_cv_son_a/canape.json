@@ -1,17 +1,18 @@
 {
-    "mot": "canape",
-    "theme": "niveau_1_cv_son_a",
-    "pixabay_id": 3837164,
-    "author": "boaphotostudio",
-    "tags": "appetizer, pomme, banquet, banquette, basket, bread, buffet, canape, canapés, catering, chocolat, crème, cutlery, le dessert, dîner, furshet, vacance, mint, reception, restaurant, room, serving, goûter, strawberry, sweet, catering, catering, catering, catering, catering, reception, reception, reception",
-    "syllabes": [
-        "ca",
-        "nape"
-    ],
-    "syllabes_texte": "ca - nape",
-    "image_path": "assets/images/niveau_1_cv_son_a/canape.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 276583,
-    "photographer": "Pixabay"
+  "mot": "canapé",
+  "theme": "niveau_1_cv_son_a",
+  "pixabay_id": 3837164,
+  "author": "boaphotostudio",
+  "tags": "appetizer, pomme, banquet, banquette, basket, bread, buffet, canape, canapés, catering, chocolat, crème, cutlery, le dessert, dîner, furshet, vacance, mint, reception, restaurant, room, serving, goûter, strawberry, sweet, catering, catering, catering, catering, catering, reception, reception, reception",
+  "syllabes": [
+    "ca",
+    "na",
+    "pé"
+  ],
+  "syllabes_texte": "ca-na-pé",
+  "image_path": "assets/images/niveau_1_cv_son_a/canape.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 276583,
+  "photographer": "Pixabay"
 }

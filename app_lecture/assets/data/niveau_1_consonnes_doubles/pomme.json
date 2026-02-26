@@ -1,16 +1,17 @@
 {
-    "mot": "pomme",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 1532055,
-    "author": "congerdesign",
-    "tags": "pomme, pomme verte, arbre, pommier, jardin, nature, fruit, vert, en bonne santé, la pomme fraîche, mûr, pomme mûre, fruits mûrs, récolter, produire, biologique, produits frais",
-    "syllabes": [
-        "pomme"
-    ],
-    "syllabes_texte": "pomme",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/pomme.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 575610,
-    "photographer": "Bruno Scramgnon"
+  "mot": "pomme",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 1532055,
+  "author": "congerdesign",
+  "tags": "pomme, pomme verte, arbre, pommier, jardin, nature, fruit, vert, en bonne santé, la pomme fraîche, mûr, pomme mûre, fruits mûrs, récolter, produire, biologique, produits frais",
+  "syllabes": [
+    "pom",
+    "me"
+  ],
+  "syllabes_texte": "pom-me",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/pomme.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 575610,
+  "photographer": "Bruno Scramgnon"
 }

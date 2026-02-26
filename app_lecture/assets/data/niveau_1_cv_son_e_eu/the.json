@@ -1,16 +1,16 @@
 {
-    "mot": "the",
-    "theme": "niveau_1_cv_son_e_eu",
-    "pixabay_id": 2160505,
-    "author": "Barni1",
-    "tags": "the hole in the rock, piercy island, nouvelle-zélande, baie des îles, russell",
-    "syllabes": [
-        "the"
-    ],
-    "syllabes_texte": "the",
-    "image_path": "assets/images/niveau_1_cv_son_e_eu/the.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 15535475,
-    "photographer": "Roy Hayes"
+  "mot": "thé",
+  "theme": "niveau_1_cv_son_e_eu",
+  "pixabay_id": 2160505,
+  "author": "Barni1",
+  "tags": "the hole in the rock, piercy island, nouvelle-zélande, baie des îles, russell",
+  "syllabes": [
+    "thé"
+  ],
+  "syllabes_texte": "thé",
+  "image_path": "assets/images/niveau_1_cv_son_e_eu/the.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 15535475,
+  "photographer": "Roy Hayes"
 }

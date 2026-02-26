@@ -1,15 +1,16 @@
 {
-    "mot": "sourire",
-    "theme": "verbes_actions",
-    "pixabay_id": 2219379,
-    "author": "hbieser",
-    "tags": "botswana, culture indigène, buschman, tradition, homme, personne, le sourire, brown sourire, brun de la culture, botswana, botswana, botswana, botswana, botswana, tradition, tradition",
-    "syllabes": [
-        "sou",
-        "rire"
-    ],
-    "syllabes_texte": "sou - rire",
-    "image_path": "assets/images/verbes_actions/sourire.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "sourire",
+  "theme": "verbes_actions",
+  "pixabay_id": 2219379,
+  "author": "hbieser",
+  "tags": "botswana, culture indigène, buschman, tradition, homme, personne, le sourire, brown sourire, brun de la culture, botswana, botswana, botswana, botswana, botswana, tradition, tradition",
+  "syllabes": [
+    "sou",
+    "ri",
+    "re"
+  ],
+  "syllabes_texte": "sou-ri-re",
+  "image_path": "assets/images/verbes_actions/sourire.jpg",
+  "level": 1,
+  "success_count": 0
 }

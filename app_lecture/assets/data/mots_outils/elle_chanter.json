@@ -1,11 +1,12 @@
 {
-    "mot": "Elle chante",
-    "syllabes": [
-        "Elle",
-        "chante"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/verbes_actions/chanter.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "elle chante",
+  "syllabes": [
+    "elle chan",
+    "te"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/verbes_actions/chanter.jpg",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "elle chan-te"
 }

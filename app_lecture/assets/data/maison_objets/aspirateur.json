@@ -1,17 +1,17 @@
 {
-    "mot": "aspirateur",
-    "theme": "maison_objets",
-    "pixabay_id": 268179,
-    "author": "jarmoluk",
-    "tags": "aspirateur, passe l'aspirateur, nettoyage, nettoyer, tapis, moquette, vide, propreté, équipement de nettoyage, aspirateur, aspirateur, aspirateur, nettoyage, nettoyage, nettoyage, nettoyage, nettoyage, tapis, moquette",
-    "syllabes": [
-        "as",
-        "pi",
-        "ra",
-        "teur"
-    ],
-    "syllabes_texte": "as - pi - ra - teur",
-    "image_path": "assets/images/maison_objets/aspirateur.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "aspirateur",
+  "theme": "maison_objets",
+  "pixabay_id": 268179,
+  "author": "jarmoluk",
+  "tags": "aspirateur, passe l'aspirateur, nettoyage, nettoyer, tapis, moquette, vide, propreté, équipement de nettoyage, aspirateur, aspirateur, aspirateur, nettoyage, nettoyage, nettoyage, nettoyage, nettoyage, tapis, moquette",
+  "syllabes": [
+    "as",
+    "pi",
+    "ra",
+    "teur"
+  ],
+  "syllabes_texte": "as-pi-ra-teur",
+  "image_path": "assets/images/maison_objets/aspirateur.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,15 +1,16 @@
 {
-    "mot": "serrure",
-    "theme": "maison_objets",
-    "pixabay_id": 428549,
-    "author": "jarmoluk",
-    "tags": "cadenas, fermé à clé, sécurisé, serrure, vieux cadenas, ancienne serrure, rouillé, vieille, fermer, rouiller, sécurité, serrure rouillée, cadenas rouillé, cadenas, cadenas, cadenas, cadenas, serrure, sécurité, sécurité, sécurité, sécurité, sécurité",
-    "syllabes": [
-        "ser",
-        "rure"
-    ],
-    "syllabes_texte": "ser - rure",
-    "image_path": "assets/images/maison_objets/serrure.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "serrure",
+  "theme": "maison_objets",
+  "pixabay_id": 428549,
+  "author": "jarmoluk",
+  "tags": "cadenas, fermé à clé, sécurisé, serrure, vieux cadenas, ancienne serrure, rouillé, vieille, fermer, rouiller, sécurité, serrure rouillée, cadenas rouillé, cadenas, cadenas, cadenas, cadenas, serrure, sécurité, sécurité, sécurité, sécurité, sécurité",
+  "syllabes": [
+    "ser",
+    "ru",
+    "re"
+  ],
+  "syllabes_texte": "ser-ru-re",
+  "image_path": "assets/images/maison_objets/serrure.jpg",
+  "level": 1,
+  "success_count": 0
 }

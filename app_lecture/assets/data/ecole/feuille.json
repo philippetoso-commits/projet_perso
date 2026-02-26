@@ -1,14 +1,15 @@
 {
-    "mot": "feuille",
-    "theme": "ecole",
-    "pixabay_id": 8452141,
-    "author": "Nennieinszweidrei",
-    "tags": "feuille de chêne, feuille, chêne, feuille rouge, feuilles d'automne, nervures des feuilles, structure de la feuille, feuillage, automne, nature, tombe",
-    "syllabes": [
-        "feuille"
-    ],
-    "syllabes_texte": "feuille",
-    "image_path": "assets/images/ecole/feuille.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "feuille",
+  "theme": "ecole",
+  "pixabay_id": 8452141,
+  "author": "Nennieinszweidrei",
+  "tags": "feuille de chêne, feuille, chêne, feuille rouge, feuilles d'automne, nervures des feuilles, structure de la feuille, feuillage, automne, nature, tombe",
+  "syllabes": [
+    "feui",
+    "lle"
+  ],
+  "syllabes_texte": "feui-lle",
+  "image_path": "assets/images/ecole/feuille.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,14 +1,15 @@
 {
-    "mot": "pouce",
-    "theme": "corps_humain",
-    "pixabay_id": 4589867,
-    "author": "leopoldboettcher",
-    "tags": "thumbs up, positif, geste, pouce, content, signal du pouce, geste de la main, approuver, aimer, fermer, thumbs up, positif, positif, positif, positif, positif, pouce, pouce, pouce, pouce, aimer",
-    "syllabes": [
-        "pouce"
-    ],
-    "syllabes_texte": "pouce",
-    "image_path": "assets/images/corps_humain/pouce.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pouce",
+  "theme": "corps_humain",
+  "pixabay_id": 4589867,
+  "author": "leopoldboettcher",
+  "tags": "thumbs up, positif, geste, pouce, content, signal du pouce, geste de la main, approuver, aimer, fermer, thumbs up, positif, positif, positif, positif, positif, pouce, pouce, pouce, pouce, aimer",
+  "syllabes": [
+    "pou",
+    "ce"
+  ],
+  "syllabes_texte": "pou-ce",
+  "image_path": "assets/images/corps_humain/pouce.jpg",
+  "level": 1,
+  "success_count": 0
 }

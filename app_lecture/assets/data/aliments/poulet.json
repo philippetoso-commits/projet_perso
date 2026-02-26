@@ -1,15 +1,15 @@
 {
-    "mot": "poulet",
-    "theme": "aliments",
-    "pixabay_id": 7967053,
-    "author": "dendoktoor",
-    "tags": "coq, poulet, oiseau, nature, poulet mâle, portrait animaux, rouge",
-    "syllabes": [
-        "pou",
-        "let"
-    ],
-    "syllabes_texte": "pou - let",
-    "image_path": "assets/images/aliments/poulet.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "poulet",
+  "theme": "aliments",
+  "pixabay_id": 7967053,
+  "author": "dendoktoor",
+  "tags": "coq, poulet, oiseau, nature, poulet mâle, portrait animaux, rouge",
+  "syllabes": [
+    "pou",
+    "let"
+  ],
+  "syllabes_texte": "pou-let",
+  "image_path": "assets/images/aliments/poulet.jpg",
+  "level": 1,
+  "success_count": 0
 }

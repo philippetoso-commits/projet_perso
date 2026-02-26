@@ -1,15 +1,15 @@
 {
-    "mot": "marin",
-    "theme": "metiers_lieux",
-    "pixabay_id": 4286600,
-    "author": "Alexandra_Koch",
-    "tags": "sous-marin, mer, vague, ciel, fond marin, plongée, nature, baignade, animal, monde sous-marin, profond, mer, mer, mer, mer, mer, vague, fond marin, fond marin",
-    "syllabes": [
-        "ma",
-        "rin"
-    ],
-    "syllabes_texte": "ma - rin",
-    "image_path": "assets/images/metiers_lieux/marin.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "marin",
+  "theme": "metiers_lieux",
+  "pixabay_id": 4286600,
+  "author": "Alexandra_Koch",
+  "tags": "sous-marin, mer, vague, ciel, fond marin, plongée, nature, baignade, animal, monde sous-marin, profond, mer, mer, mer, mer, mer, vague, fond marin, fond marin",
+  "syllabes": [
+    "ma",
+    "rin"
+  ],
+  "syllabes_texte": "ma-rin",
+  "image_path": "assets/images/metiers_lieux/marin.jpg",
+  "level": 1,
+  "success_count": 0
 }

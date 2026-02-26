@@ -1,15 +1,16 @@
 {
-    "mot": "elephant",
-    "theme": "animaux",
-    "pixabay_id": 4377412,
-    "author": "elvina1332",
-    "tags": "butterfly, elephant, lumière, fantaisie, photoshop, nature, feuilles, couleurs",
-    "syllabes": [
-        "ele",
-        "phant"
-    ],
-    "syllabes_texte": "ele - phant",
-    "image_path": "assets/images/animaux/elephant.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "éléphant",
+  "theme": "animaux",
+  "pixabay_id": 4377412,
+  "author": "elvina1332",
+  "tags": "butterfly, elephant, lumière, fantaisie, photoshop, nature, feuilles, couleurs",
+  "syllabes": [
+    "é",
+    "lé",
+    "phant"
+  ],
+  "syllabes_texte": "é-lé-phant",
+  "image_path": "assets/images/animaux/elephant.jpg",
+  "level": 1,
+  "success_count": 0
 }

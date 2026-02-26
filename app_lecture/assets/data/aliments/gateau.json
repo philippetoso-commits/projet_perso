@@ -1,15 +1,15 @@
 {
-    "mot": "gateau",
-    "theme": "aliments",
-    "pixabay_id": 3946230,
-    "author": "MiVargof",
-    "tags": "les bleuets, gâteau, fruit, sucré, un gateau, le dessert, blueberry",
-    "syllabes": [
-        "ga",
-        "teau"
-    ],
-    "syllabes_texte": "ga - teau",
-    "image_path": "assets/images/aliments/gateau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "gâteau",
+  "theme": "aliments",
+  "pixabay_id": 3946230,
+  "author": "MiVargof",
+  "tags": "les bleuets, gâteau, fruit, sucré, un gateau, le dessert, blueberry",
+  "syllabes": [
+    "gât",
+    "eau"
+  ],
+  "syllabes_texte": "gât-eau",
+  "image_path": "assets/images/aliments/gateau.jpg",
+  "level": 1,
+  "success_count": 0
 }

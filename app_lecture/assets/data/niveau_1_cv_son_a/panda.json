@@ -1,17 +1,17 @@
 {
-    "mot": "panda",
-    "theme": "niveau_1_cv_son_a",
-    "pixabay_id": 1982445,
-    "author": "strichpunkt",
-    "tags": "panda rouge, nature, animal, mammifère, chinois panda, hiver, zoo, arbre, fourrure",
-    "syllabes": [
-        "pan",
-        "da"
-    ],
-    "syllabes_texte": "pan - da",
-    "image_path": "assets/images/niveau_1_cv_son_a/panda.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 3608263,
-    "photographer": "Laura The Explaura"
+  "mot": "panda",
+  "theme": "niveau_1_cv_son_a",
+  "pixabay_id": 1982445,
+  "author": "strichpunkt",
+  "tags": "panda rouge, nature, animal, mammifère, chinois panda, hiver, zoo, arbre, fourrure",
+  "syllabes": [
+    "pan",
+    "da"
+  ],
+  "syllabes_texte": "pan-da",
+  "image_path": "assets/images/niveau_1_cv_son_a/panda.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 3608263,
+  "photographer": "Laura The Explaura"
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "outil",
-    "theme": "maison_objets",
-    "pixabay_id": 6797470,
-    "author": "shatishira",
-    "tags": "prothèse auditive, dispositif, outil, macro, prothèse auditive, prothèse auditive, prothèse auditive, prothèse auditive, prothèse auditive",
-    "syllabes": [
-        "ou",
-        "til"
-    ],
-    "syllabes_texte": "ou - til",
-    "image_path": "assets/images/maison_objets/outil.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "outil",
+  "theme": "maison_objets",
+  "pixabay_id": 6797470,
+  "author": "shatishira",
+  "tags": "prothèse auditive, dispositif, outil, macro, prothèse auditive, prothèse auditive, prothèse auditive, prothèse auditive, prothèse auditive",
+  "syllabes": [
+    "ou",
+    "til"
+  ],
+  "syllabes_texte": "ou-til",
+  "image_path": "assets/images/maison_objets/outil.jpg",
+  "level": 1,
+  "success_count": 0
 }

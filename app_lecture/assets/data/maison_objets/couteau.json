@@ -1,15 +1,15 @@
 {
-    "mot": "couteau",
-    "theme": "maison_objets",
-    "pixabay_id": 8265868,
-    "author": "ignartonosbg",
-    "tags": "couteau à sucre, nature, nocturne, animal, faune",
-    "syllabes": [
-        "cou",
-        "teau"
-    ],
-    "syllabes_texte": "cou - teau",
-    "image_path": "assets/images/maison_objets/couteau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "couteau",
+  "theme": "maison_objets",
+  "pixabay_id": 8265868,
+  "author": "ignartonosbg",
+  "tags": "couteau à sucre, nature, nocturne, animal, faune",
+  "syllabes": [
+    "cou",
+    "teau"
+  ],
+  "syllabes_texte": "cou-teau",
+  "image_path": "assets/images/maison_objets/couteau.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,14 +1,15 @@
 {
-    "mot": "chaise",
-    "theme": "ecole",
-    "pixabay_id": 785232,
-    "author": "JillWellington",
-    "tags": "chaise dans le domaine, chaise fleurie, rose, l'été, nature, la campagne, en plein air, rose, rose, rose, rose, rose, la campagne, la campagne, la campagne",
-    "syllabes": [
-        "chaise"
-    ],
-    "syllabes_texte": "chaise",
-    "image_path": "assets/images/ecole/chaise.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "chaise",
+  "theme": "ecole",
+  "pixabay_id": 785232,
+  "author": "JillWellington",
+  "tags": "chaise dans le domaine, chaise fleurie, rose, l'été, nature, la campagne, en plein air, rose, rose, rose, rose, rose, la campagne, la campagne, la campagne",
+  "syllabes": [
+    "chai",
+    "se"
+  ],
+  "syllabes_texte": "chai-se",
+  "image_path": "assets/images/ecole/chaise.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "bateau",
-    "theme": "transport",
-    "pixabay_id": 8105949,
-    "author": "pen_ash",
-    "tags": "bateau, fleuve, bateau à moteur, voyage en bateau, phong nha, grotte de phong nha, entrée de la grotte, vietnam, bateau en bois",
-    "syllabes": [
-        "ba",
-        "teau"
-    ],
-    "syllabes_texte": "ba - teau",
-    "image_path": "assets/images/transport/bateau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "bateau",
+  "theme": "transport",
+  "pixabay_id": 8105949,
+  "author": "pen_ash",
+  "tags": "bateau, fleuve, bateau à moteur, voyage en bateau, phong nha, grotte de phong nha, entrée de la grotte, vietnam, bateau en bois",
+  "syllabes": [
+    "bat",
+    "eau"
+  ],
+  "syllabes_texte": "bat-eau",
+  "image_path": "assets/images/transport/bateau.jpg",
+  "level": 1,
+  "success_count": 0
 }

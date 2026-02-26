@@ -1,14 +1,15 @@
 {
-    "mot": "crier",
-    "theme": "verbes_actions",
-    "pixabay_id": 4566110,
-    "author": "Engin_Akyurt",
-    "tags": "crier, en colère, foncé, femme, fille, portrait, adulte, dépression, la douleur, expression, colère, halloween, femme, adulte, colère, colère, colère, colère, colère",
-    "syllabes": [
-        "crier"
-    ],
-    "syllabes_texte": "crier",
-    "image_path": "assets/images/verbes_actions/crier.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "crier",
+  "theme": "verbes_actions",
+  "pixabay_id": 4566110,
+  "author": "Engin_Akyurt",
+  "tags": "crier, en colère, foncé, femme, fille, portrait, adulte, dépression, la douleur, expression, colère, halloween, femme, adulte, colère, colère, colère, colère, colère",
+  "syllabes": [
+    "cri",
+    "er"
+  ],
+  "syllabes_texte": "cri-er",
+  "image_path": "assets/images/verbes_actions/crier.jpg",
+  "level": 1,
+  "success_count": 0
 }

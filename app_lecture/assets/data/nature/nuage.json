@@ -1,14 +1,15 @@
 {
-    "mot": "nuage",
-    "theme": "nature",
-    "pixabay_id": 7372799,
-    "author": "Peggychoucair",
-    "tags": "nuage de tas de, nuage gonflé, forme de nuage, orage, tempête, montagne de nuage, nuage, paradis, cumulus, l'atmosphère, la nature, climat, tempête, nuage, nuage, nuage, climat, climat, climat, climat, climat",
-    "syllabes": [
-        "nuage"
-    ],
-    "syllabes_texte": "nuage",
-    "image_path": "assets/images/nature/nuage.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "nuage",
+  "theme": "nature",
+  "pixabay_id": 7372799,
+  "author": "Peggychoucair",
+  "tags": "nuage de tas de, nuage gonflé, forme de nuage, orage, tempête, montagne de nuage, nuage, paradis, cumulus, l'atmosphère, la nature, climat, tempête, nuage, nuage, nuage, climat, climat, climat, climat, climat",
+  "syllabes": [
+    "nu",
+    "age"
+  ],
+  "syllabes_texte": "nu-age",
+  "image_path": "assets/images/nature/nuage.jpg",
+  "level": 1,
+  "success_count": 0
 }

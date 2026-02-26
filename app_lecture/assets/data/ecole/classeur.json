@@ -1,15 +1,15 @@
 {
-    "mot": "classeur",
-    "theme": "ecole",
-    "pixabay_id": 3615544,
-    "author": "jackmac34",
-    "tags": "dossiers, classeur, fichiers, stylo, bureau, archives, dossiers, dossiers, dossiers, dossiers, dossiers, classeur",
-    "syllabes": [
-        "clas",
-        "seur"
-    ],
-    "syllabes_texte": "clas - seur",
-    "image_path": "assets/images/ecole/classeur.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "classeur",
+  "theme": "ecole",
+  "pixabay_id": 3615544,
+  "author": "jackmac34",
+  "tags": "dossiers, classeur, fichiers, stylo, bureau, archives, dossiers, dossiers, dossiers, dossiers, dossiers, classeur",
+  "syllabes": [
+    "cla",
+    "sseur"
+  ],
+  "syllabes_texte": "cla-sseur",
+  "image_path": "assets/images/ecole/classeur.jpg",
+  "level": 1,
+  "success_count": 0
 }

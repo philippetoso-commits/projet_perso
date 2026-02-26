@@ -1,14 +1,15 @@
 {
-    "mot": "mouche",
-    "theme": "animaux",
-    "pixabay_id": 2151453,
-    "author": "stevepb",
-    "tags": "mouche à viande, mouche bleue, insecte, ravageur, scarabée, insecte, moche, coup de volée, ailé, greenbottle, calliphoridae, carrion-mouche, cluster mouche, brut, nuisance, mouche bleue, mouche bleue, moche, moche, moche, moche, moche",
-    "syllabes": [
-        "mouche"
-    ],
-    "syllabes_texte": "mouche",
-    "image_path": "assets/images/animaux/mouche.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "mouche",
+  "theme": "animaux",
+  "pixabay_id": 2151453,
+  "author": "stevepb",
+  "tags": "mouche à viande, mouche bleue, insecte, ravageur, scarabée, insecte, moche, coup de volée, ailé, greenbottle, calliphoridae, carrion-mouche, cluster mouche, brut, nuisance, mouche bleue, mouche bleue, moche, moche, moche, moche, moche",
+  "syllabes": [
+    "mou",
+    "che"
+  ],
+  "syllabes_texte": "mou-che",
+  "image_path": "assets/images/animaux/mouche.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "poignet",
-    "theme": "corps_humain",
-    "pixabay_id": 8246972,
-    "author": "Engin_Akyurt",
-    "tags": "poids, haltères, force, obliger, exercer, sport, aptitude, poignet, main, muscle, corps, santé",
-    "syllabes": [
-        "poi",
-        "gnet"
-    ],
-    "syllabes_texte": "poi - gnet",
-    "image_path": "assets/images/corps_humain/poignet.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "poignet",
+  "theme": "corps_humain",
+  "pixabay_id": 8246972,
+  "author": "Engin_Akyurt",
+  "tags": "poids, haltères, force, obliger, exercer, sport, aptitude, poignet, main, muscle, corps, santé",
+  "syllabes": [
+    "poi",
+    "gnet"
+  ],
+  "syllabes_texte": "poi-gnet",
+  "image_path": "assets/images/corps_humain/poignet.jpg",
+  "level": 1,
+  "success_count": 0
 }

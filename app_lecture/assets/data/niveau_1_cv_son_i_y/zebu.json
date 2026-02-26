@@ -1,17 +1,17 @@
 {
-    "mot": "zebu",
-    "theme": "niveau_1_cv_son_i_y",
-    "pixabay_id": 3977632,
-    "author": "DenisDoukhan",
-    "tags": "zebu, animal, ruminants, amérique du sud, nature, boeuf, cornes, mammifères, herbivores, bovins, paître, bétail, agriculture, l'élevage",
-    "syllabes": [
-        "ze",
-        "bu"
-    ],
-    "syllabes_texte": "ze - bu",
-    "image_path": "assets/images/niveau_1_cv_son_i_y/zebu.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 33797644,
-    "photographer": "Steve Johnson"
+  "mot": "zébu",
+  "theme": "niveau_1_cv_son_i_y",
+  "pixabay_id": 3977632,
+  "author": "DenisDoukhan",
+  "tags": "zebu, animal, ruminants, amérique du sud, nature, boeuf, cornes, mammifères, herbivores, bovins, paître, bétail, agriculture, l'élevage",
+  "syllabes": [
+    "zé",
+    "bu"
+  ],
+  "syllabes_texte": "zé-bu",
+  "image_path": "assets/images/niveau_1_cv_son_i_y/zebu.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 33797644,
+  "photographer": "Steve Johnson"
 }

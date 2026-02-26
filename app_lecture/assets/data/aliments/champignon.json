@@ -1,16 +1,16 @@
 {
-    "mot": "champignon",
-    "theme": "aliments",
-    "pixabay_id": 7428278,
-    "author": "Fractals99",
-    "tags": "cristal, champignon, champignon violet, champignon de cristal, champignon magique, fantaisie, conception",
-    "syllabes": [
-        "cham",
-        "pi",
-        "gnon"
-    ],
-    "syllabes_texte": "cham - pi - gnon",
-    "image_path": "assets/images/aliments/champignon.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "champignon",
+  "theme": "aliments",
+  "pixabay_id": 7428278,
+  "author": "Fractals99",
+  "tags": "cristal, champignon, champignon violet, champignon de cristal, champignon magique, fantaisie, conception",
+  "syllabes": [
+    "cha",
+    "mpi",
+    "gnon"
+  ],
+  "syllabes_texte": "cha-mpi-gnon",
+  "image_path": "assets/images/aliments/champignon.jpg",
+  "level": 1,
+  "success_count": 0
 }

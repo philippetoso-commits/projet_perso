@@ -1,15 +1,15 @@
 {
-    "mot": "roseau",
-    "theme": "nature",
-    "pixabay_id": 8527393,
-    "author": "jhenning",
-    "tags": "roseau, nature, lac, gazon",
-    "syllabes": [
-        "ro",
-        "seau"
-    ],
-    "syllabes_texte": "ro - seau",
-    "image_path": "assets/images/nature/roseau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "roseau",
+  "theme": "nature",
+  "pixabay_id": 8527393,
+  "author": "jhenning",
+  "tags": "roseau, nature, lac, gazon",
+  "syllabes": [
+    "ros",
+    "eau"
+  ],
+  "syllabes_texte": "ros-eau",
+  "image_path": "assets/images/nature/roseau.jpg",
+  "level": 1,
+  "success_count": 0
 }

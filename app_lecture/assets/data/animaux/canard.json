@@ -1,15 +1,15 @@
 {
-    "mot": "canard",
-    "theme": "animaux",
-    "pixabay_id": 7851828,
-    "author": "dendoktoor",
-    "tags": "canard, oiseau, canard de barbarie, cairina moschata, canard du cap, gros plan tête de canard, ornithologie, fond de canard, nature, oiseau portrait, rouge, bleu",
-    "syllabes": [
-        "ca",
-        "nard"
-    ],
-    "syllabes_texte": "ca - nard",
-    "image_path": "assets/images/animaux/canard.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "canard",
+  "theme": "animaux",
+  "pixabay_id": 7851828,
+  "author": "dendoktoor",
+  "tags": "canard, oiseau, canard de barbarie, cairina moschata, canard du cap, gros plan tête de canard, ornithologie, fond de canard, nature, oiseau portrait, rouge, bleu",
+  "syllabes": [
+    "ca",
+    "nard"
+  ],
+  "syllabes_texte": "ca-nard",
+  "image_path": "assets/images/animaux/canard.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,17 +1,17 @@
 {
-    "mot": "velo",
-    "theme": "niveau_1_cv_son_o",
-    "pixabay_id": 6950837,
-    "author": "u_d7hddm5o",
-    "tags": "san francisco, femme, velo electrique, balade à vélo, e bike, californie, ville, urbain, vélo électrique, respectueux de l'environnement, transport, san francisco, san francisco, femme, femme, e bike, transport, transport, transport, transport, transport",
-    "syllabes": [
-        "ve",
-        "lo"
-    ],
-    "syllabes_texte": "ve - lo",
-    "image_path": "assets/images/niveau_1_cv_son_o/velo.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 784403,
-    "photographer": "Daniel  Schulz"
+  "mot": "vélo",
+  "theme": "niveau_1_cv_son_o",
+  "pixabay_id": 6950837,
+  "author": "u_d7hddm5o",
+  "tags": "san francisco, femme, velo electrique, balade à vélo, e bike, californie, ville, urbain, vélo électrique, respectueux de l'environnement, transport, san francisco, san francisco, femme, femme, e bike, transport, transport, transport, transport, transport",
+  "syllabes": [
+    "vé",
+    "lo"
+  ],
+  "syllabes_texte": "vé-lo",
+  "image_path": "assets/images/niveau_1_cv_son_o/velo.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 784403,
+  "photographer": "Daniel  Schulz"
 }

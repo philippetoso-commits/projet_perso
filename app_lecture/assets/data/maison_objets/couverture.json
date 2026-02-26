@@ -1,16 +1,16 @@
 {
-    "mot": "couverture",
-    "theme": "maison_objets",
-    "pixabay_id": 7263953,
-    "author": "lishuang111",
-    "tags": "tasse, couverture, table, couverture à carreaux, design floral, affichage, décor, couverture, couverture, couverture, couverture, couverture, table",
-    "syllabes": [
-        "cou",
-        "ver",
-        "ture"
-    ],
-    "syllabes_texte": "cou - ver - ture",
-    "image_path": "assets/images/maison_objets/couverture.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "couverture",
+  "theme": "maison_objets",
+  "pixabay_id": 7263953,
+  "author": "lishuang111",
+  "tags": "tasse, couverture, table, couverture à carreaux, design floral, affichage, décor, couverture, couverture, couverture, couverture, couverture, table",
+  "syllabes": [
+    "cou",
+    "ver",
+    "ture"
+  ],
+  "syllabes_texte": "cou-ver-ture",
+  "image_path": "assets/images/maison_objets/couverture.jpg",
+  "level": 1,
+  "success_count": 0
 }

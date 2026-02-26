@@ -1,14 +1,15 @@
 {
-    "mot": "branche",
-    "theme": "nature",
-    "pixabay_id": 6144845,
-    "author": "Nennieinszweidrei",
-    "tags": "fleur de prunier, branche fleurie, prunier ornemental, fond d'écran hd, fond hd, pétales, fleurs, branche, fond d'écran hd, fond d'écran hd, fond d'écran hd, fond d'écran hd, fond d'écran hd",
-    "syllabes": [
-        "branche"
-    ],
-    "syllabes_texte": "branche",
-    "image_path": "assets/images/nature/branche.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "branche",
+  "theme": "nature",
+  "pixabay_id": 6144845,
+  "author": "Nennieinszweidrei",
+  "tags": "fleur de prunier, branche fleurie, prunier ornemental, fond d'écran hd, fond hd, pétales, fleurs, branche, fond d'écran hd, fond d'écran hd, fond d'écran hd, fond d'écran hd, fond d'écran hd",
+  "syllabes": [
+    "bran",
+    "che"
+  ],
+  "syllabes_texte": "bran-che",
+  "image_path": "assets/images/nature/branche.jpg",
+  "level": 1,
+  "success_count": 0
 }

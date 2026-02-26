@@ -1,14 +1,15 @@
 {
-    "mot": "gaufre",
-    "theme": "aliments",
-    "pixabay_id": 4608843,
-    "author": "jusminmari",
-    "tags": "gaufre, confiserie, crème glacée, sucré, délicieux, du sucre, glace à la vanille, gaufre, gaufre, gaufre, gaufre, gaufre, crème glacée",
-    "syllabes": [
-        "gaufre"
-    ],
-    "syllabes_texte": "gaufre",
-    "image_path": "assets/images/aliments/gaufre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "gaufre",
+  "theme": "aliments",
+  "pixabay_id": 4608843,
+  "author": "jusminmari",
+  "tags": "gaufre, confiserie, crème glacée, sucré, délicieux, du sucre, glace à la vanille, gaufre, gaufre, gaufre, gaufre, gaufre, crème glacée",
+  "syllabes": [
+    "gau",
+    "fre"
+  ],
+  "syllabes_texte": "gau-fre",
+  "image_path": "assets/images/aliments/gaufre.jpg",
+  "level": 1,
+  "success_count": 0
 }

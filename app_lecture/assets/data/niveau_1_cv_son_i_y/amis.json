@@ -1,16 +1,17 @@
 {
-    "mot": "amis",
-    "theme": "niveau_1_cv_son_i_y",
-    "pixabay_id": 5628881,
-    "author": "wal_172619",
-    "tags": "cheval, nature, main, amitié, contact, accident vasculaire cérébral, crinière, équine, amis, humaine, des animaux, mammifères, jeune fille",
-    "syllabes": [
-        "amis"
-    ],
-    "syllabes_texte": "amis",
-    "image_path": "assets/images/niveau_1_cv_son_i_y/amis.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 936048,
-    "photographer": "nappy"
+  "mot": "amis",
+  "theme": "niveau_1_cv_son_i_y",
+  "pixabay_id": 5628881,
+  "author": "wal_172619",
+  "tags": "cheval, nature, main, amitié, contact, accident vasculaire cérébral, crinière, équine, amis, humaine, des animaux, mammifères, jeune fille",
+  "syllabes": [
+    "a",
+    "mis"
+  ],
+  "syllabes_texte": "a-mis",
+  "image_path": "assets/images/niveau_1_cv_son_i_y/amis.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 936048,
+  "photographer": "nappy"
 }

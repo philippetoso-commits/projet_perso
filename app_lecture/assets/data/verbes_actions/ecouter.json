@@ -1,15 +1,16 @@
 {
-    "mot": "ecouter",
-    "theme": "verbes_actions",
-    "pixabay_id": 2209152,
-    "author": "Couleur",
-    "tags": "sculptures, bronze, ecouter, les figures, écoute, les sculptures de bronze, statues en bronze, mur de briques, mur de brique rouge, installations artistiques, statues, hommes, art, collège de musique, freiburg, ecoutez, ecouter, ecouter, écoute, écoute, écoute, écoute, écoute",
-    "syllabes": [
-        "ecou",
-        "ter"
-    ],
-    "syllabes_texte": "ecou - ter",
-    "image_path": "assets/images/verbes_actions/ecouter.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "écouter",
+  "theme": "verbes_actions",
+  "pixabay_id": 2209152,
+  "author": "Couleur",
+  "tags": "sculptures, bronze, ecouter, les figures, écoute, les sculptures de bronze, statues en bronze, mur de briques, mur de brique rouge, installations artistiques, statues, hommes, art, collège de musique, freiburg, ecoutez, ecouter, ecouter, écoute, écoute, écoute, écoute, écoute",
+  "syllabes": [
+    "é",
+    "cou",
+    "ter"
+  ],
+  "syllabes_texte": "é-cou-ter",
+  "image_path": "assets/images/verbes_actions/ecouter.jpg",
+  "level": 1,
+  "success_count": 0
 }

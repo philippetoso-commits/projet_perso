@@ -1,16 +1,17 @@
 {
-    "mot": "fraise",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 3501491,
-    "author": "Couleur",
-    "tags": "fraise, fraise sauvage, la nature, baie, fruit, fraisier, rouge, vitamines, frais, mignonne, l'été, feuilles, fraise, fraisier, fraisier, fraisier, fraisier, fraisier",
-    "syllabes": [
-        "fraise"
-    ],
-    "syllabes_texte": "fraise",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/fraise.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 21913807,
-    "photographer": "Husnain Raza Kazmi"
+  "mot": "fraise",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 3501491,
+  "author": "Couleur",
+  "tags": "fraise, fraise sauvage, la nature, baie, fruit, fraisier, rouge, vitamines, frais, mignonne, l'été, feuilles, fraise, fraisier, fraisier, fraisier, fraisier, fraisier",
+  "syllabes": [
+    "frai",
+    "se"
+  ],
+  "syllabes_texte": "frai-se",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/fraise.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 21913807,
+  "photographer": "Husnain Raza Kazmi"
 }

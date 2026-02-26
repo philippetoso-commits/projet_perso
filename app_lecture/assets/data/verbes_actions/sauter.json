@@ -1,15 +1,15 @@
 {
-    "mot": "sauter",
-    "theme": "verbes_actions",
-    "pixabay_id": 1868817,
-    "author": "Pexels",
-    "tags": "femme, saut, sac à dos, sauter, aventure, cheveux blond, explorer, fille, sentier, content, joie, aventure, joie, joie, joie, joie, joie",
-    "syllabes": [
-        "sau",
-        "ter"
-    ],
-    "syllabes_texte": "sau - ter",
-    "image_path": "assets/images/verbes_actions/sauter.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "sauter",
+  "theme": "verbes_actions",
+  "pixabay_id": 1868817,
+  "author": "Pexels",
+  "tags": "femme, saut, sac à dos, sauter, aventure, cheveux blond, explorer, fille, sentier, content, joie, aventure, joie, joie, joie, joie, joie",
+  "syllabes": [
+    "sau",
+    "ter"
+  ],
+  "syllabes_texte": "sau-ter",
+  "image_path": "assets/images/verbes_actions/sauter.jpg",
+  "level": 1,
+  "success_count": 0
 }

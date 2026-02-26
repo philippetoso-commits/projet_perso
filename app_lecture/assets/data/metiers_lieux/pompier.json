@@ -1,15 +1,15 @@
 {
-    "mot": "pompier",
-    "theme": "metiers_lieux",
-    "pixabay_id": 6820125,
-    "author": "automatic6517",
-    "tags": "camion de pompier, feu, urgence, sirène, service d'incendie, porter secours, sapeur pompier, feu, urgence, urgence, urgence, urgence, urgence",
-    "syllabes": [
-        "pom",
-        "pier"
-    ],
-    "syllabes_texte": "pom - pier",
-    "image_path": "assets/images/metiers_lieux/pompier.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pompier",
+  "theme": "metiers_lieux",
+  "pixabay_id": 6820125,
+  "author": "automatic6517",
+  "tags": "camion de pompier, feu, urgence, sirène, service d'incendie, porter secours, sapeur pompier, feu, urgence, urgence, urgence, urgence, urgence",
+  "syllabes": [
+    "po",
+    "mpier"
+  ],
+  "syllabes_texte": "po-mpier",
+  "image_path": "assets/images/metiers_lieux/pompier.jpg",
+  "level": 1,
+  "success_count": 0
 }

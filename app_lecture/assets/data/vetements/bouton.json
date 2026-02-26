@@ -1,15 +1,15 @@
 {
-    "mot": "bouton",
-    "theme": "vetements",
-    "pixabay_id": 7899467,
-    "author": "Ray_Shrewsberry",
-    "tags": "bouton de rose, belles fleurs, une rose, bouton de rose rouge, rose, rose rouge, fleur, épanouissement, nature, jardin, le printemps, fond d'écran fleur, bloom, flower background, flore",
-    "syllabes": [
-        "bou",
-        "ton"
-    ],
-    "syllabes_texte": "bou - ton",
-    "image_path": "assets/images/vetements/bouton.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "bouton",
+  "theme": "vetements",
+  "pixabay_id": 7899467,
+  "author": "Ray_Shrewsberry",
+  "tags": "bouton de rose, belles fleurs, une rose, bouton de rose rouge, rose, rose rouge, fleur, épanouissement, nature, jardin, le printemps, fond d'écran fleur, bloom, flower background, flore",
+  "syllabes": [
+    "bou",
+    "ton"
+  ],
+  "syllabes_texte": "bou-ton",
+  "image_path": "assets/images/vetements/bouton.jpg",
+  "level": 1,
+  "success_count": 0
 }

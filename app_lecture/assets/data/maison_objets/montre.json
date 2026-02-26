@@ -1,14 +1,15 @@
 {
-    "mot": "montre",
-    "theme": "maison_objets",
-    "pixabay_id": 560937,
-    "author": "Yummymoon",
-    "tags": "montre de poche, montre, horlogerie, horloge, accessoire, classique, vintage, rétro, chaîne, temps, heures, minutes, d'argent, montre, montre, montre, montre, montre, horloge, horloge, vintage, temps, temps",
-    "syllabes": [
-        "montre"
-    ],
-    "syllabes_texte": "montre",
-    "image_path": "assets/images/maison_objets/montre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "montre",
+  "theme": "maison_objets",
+  "pixabay_id": 560937,
+  "author": "Yummymoon",
+  "tags": "montre de poche, montre, horlogerie, horloge, accessoire, classique, vintage, rétro, chaîne, temps, heures, minutes, d'argent, montre, montre, montre, montre, montre, horloge, horloge, vintage, temps, temps",
+  "syllabes": [
+    "mon",
+    "tre"
+  ],
+  "syllabes_texte": "mon-tre",
+  "image_path": "assets/images/maison_objets/montre.jpg",
+  "level": 1,
+  "success_count": 0
 }

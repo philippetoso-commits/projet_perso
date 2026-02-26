@@ -1,15 +1,16 @@
 {
-    "mot": "montagne",
-    "theme": "nature",
-    "pixabay_id": 2064522,
-    "author": "12019",
-    "tags": "ama dablam, neige, montagne, pic, sommet, montagne enneigée, himalaya, népal, hiver, paysage, célèbre, repère, nature, sommet de la montagne, paysage de montagne, montagne, montagne, montagne, montagne, montagne",
-    "syllabes": [
-        "mon",
-        "tagne"
-    ],
-    "syllabes_texte": "mon - tagne",
-    "image_path": "assets/images/nature/montagne.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "montagne",
+  "theme": "nature",
+  "pixabay_id": 2064522,
+  "author": "12019",
+  "tags": "ama dablam, neige, montagne, pic, sommet, montagne enneigée, himalaya, népal, hiver, paysage, célèbre, repère, nature, sommet de la montagne, paysage de montagne, montagne, montagne, montagne, montagne, montagne",
+  "syllabes": [
+    "mon",
+    "ta",
+    "gne"
+  ],
+  "syllabes_texte": "mon-ta-gne",
+  "image_path": "assets/images/nature/montagne.jpg",
+  "level": 1,
+  "success_count": 0
 }

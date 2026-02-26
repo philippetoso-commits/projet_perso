@@ -1,15 +1,15 @@
 {
-    "mot": "culotte",
-    "theme": "vetements",
-    "pixabay_id": 8621242,
-    "author": "Nennieinszweidrei",
-    "tags": "abeille, insecte, noisette, féconder, pollen, culotte de pollen, pollinisation, fermer, macro",
-    "syllabes": [
-        "cu",
-        "lotte"
-    ],
-    "syllabes_texte": "cu - lotte",
-    "image_path": "assets/images/vetements/culotte.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "culotte",
+  "theme": "vetements",
+  "pixabay_id": 8621242,
+  "author": "Nennieinszweidrei",
+  "tags": "abeille, insecte, noisette, féconder, pollen, culotte de pollen, pollinisation, fermer, macro",
+  "syllabes": [
+    "cu",
+    "lotte"
+  ],
+  "syllabes_texte": "cu-lotte",
+  "image_path": "assets/images/vetements/culotte.jpg",
+  "level": 1,
+  "success_count": 0
 }

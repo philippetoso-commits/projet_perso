@@ -1,15 +1,16 @@
 {
-    "mot": "cheville",
-    "theme": "corps_humain",
-    "pixabay_id": 1230271,
-    "author": "ales_kartal",
-    "tags": "être, couloir, cabinet, cheville, intérieur, vestiaire, couloir, couloir, couloir, vestiaire, vestiaire, vestiaire, vestiaire, vestiaire",
-    "syllabes": [
-        "che",
-        "ville"
-    ],
-    "syllabes_texte": "che - ville",
-    "image_path": "assets/images/corps_humain/cheville.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "cheville",
+  "theme": "corps_humain",
+  "pixabay_id": 1230271,
+  "author": "ales_kartal",
+  "tags": "être, couloir, cabinet, cheville, intérieur, vestiaire, couloir, couloir, couloir, vestiaire, vestiaire, vestiaire, vestiaire, vestiaire",
+  "syllabes": [
+    "che",
+    "vi",
+    "lle"
+  ],
+  "syllabes_texte": "che-vi-lle",
+  "image_path": "assets/images/corps_humain/cheville.jpg",
+  "level": 1,
+  "success_count": 0
 }

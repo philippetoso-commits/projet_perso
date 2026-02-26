@@ -1,16 +1,16 @@
 {
-    "mot": "colorier",
-    "theme": "verbes_actions",
-    "pixabay_id": 3165469,
-    "author": "silviarita",
-    "tags": "pâques, des œufs, corbeille, œufs de pâques, nid de pâques, osterkorb, traditionnel, ornement, oeufs à colorier, fête de pâques, vacances de pâques, artisanat, décorer, carte de voeux, invitation, pâques, pâques, pâques, pâques, pâques",
-    "syllabes": [
-        "co",
-        "lo",
-        "rier"
-    ],
-    "syllabes_texte": "co - lo - rier",
-    "image_path": "assets/images/verbes_actions/colorier.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "colorier",
+  "theme": "verbes_actions",
+  "pixabay_id": 3165469,
+  "author": "silviarita",
+  "tags": "pâques, des œufs, corbeille, œufs de pâques, nid de pâques, osterkorb, traditionnel, ornement, oeufs à colorier, fête de pâques, vacances de pâques, artisanat, décorer, carte de voeux, invitation, pâques, pâques, pâques, pâques, pâques",
+  "syllabes": [
+    "co",
+    "lo",
+    "rier"
+  ],
+  "syllabes_texte": "co-lo-rier",
+  "image_path": "assets/images/verbes_actions/colorier.jpg",
+  "level": 1,
+  "success_count": 0
 }

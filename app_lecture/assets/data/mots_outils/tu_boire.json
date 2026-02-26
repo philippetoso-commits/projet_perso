@@ -1,11 +1,12 @@
 {
-    "mot": "Tu bois",
-    "syllabes": [
-        "Tu",
-        "bois"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/verbes_actions/boire.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "tu bois",
+  "syllabes": [
+    "tu",
+    "bois"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/verbes_actions/boire.jpg",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "tu-bois"
 }

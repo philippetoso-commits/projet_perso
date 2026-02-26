@@ -1,15 +1,16 @@
 {
-    "mot": "araignee",
-    "theme": "animaux",
-    "pixabay_id": 3607561,
-    "author": "warren_versio",
-    "tags": "araignee, spider, araignée, insectes, nature, arachnide, insecte, terrifiant, tarentule, prédateur, tarantula, arachnophobie",
-    "syllabes": [
-        "arai",
-        "gnee"
-    ],
-    "syllabes_texte": "arai - gnee",
-    "image_path": "assets/images/animaux/araignee.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "araignée",
+  "theme": "animaux",
+  "pixabay_id": 3607561,
+  "author": "warren_versio",
+  "tags": "araignee, spider, araignée, insectes, nature, arachnide, insecte, terrifiant, tarentule, prédateur, tarantula, arachnophobie",
+  "syllabes": [
+    "a",
+    "rai",
+    "gnée"
+  ],
+  "syllabes_texte": "a-rai-gnée",
+  "image_path": "assets/images/animaux/araignee.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,17 +1,18 @@
 {
-    "mot": "ananas",
-    "theme": "niveau_1_cv_son_a",
-    "pixabay_id": 2588260,
-    "author": "StockSnap",
-    "tags": "fruit, ananas, jus, tropical, biologique, fruit, ananas, ananas, ananas, ananas, ananas, tropical, tropical, tropical, tropical, tropical",
-    "syllabes": [
-        "ana",
-        "nas"
-    ],
-    "syllabes_texte": "ana - nas",
-    "image_path": "assets/images/niveau_1_cv_son_a/ananas.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 1674574,
-    "photographer": "PicFoods.com"
+  "mot": "ananas",
+  "theme": "niveau_1_cv_son_a",
+  "pixabay_id": 2588260,
+  "author": "StockSnap",
+  "tags": "fruit, ananas, jus, tropical, biologique, fruit, ananas, ananas, ananas, ananas, ananas, tropical, tropical, tropical, tropical, tropical",
+  "syllabes": [
+    "a",
+    "na",
+    "nas"
+  ],
+  "syllabes_texte": "a-na-nas",
+  "image_path": "assets/images/niveau_1_cv_son_a/ananas.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 1674574,
+  "photographer": "PicFoods.com"
 }

@@ -1,14 +1,15 @@
 {
-    "mot": "crepe",
-    "theme": "aliments",
-    "pixabay_id": 577386,
-    "author": "congerdesign",
-    "tags": "crêpes, rempli, crêpe, repas, copieux, filet de poitrine de poulet, fusée, fromage de brebis, appétissant, crêpes, crêpes, crêpes, crêpes, crêpe, crêpe, crêpe, crêpe, crêpe",
-    "syllabes": [
-        "crepe"
-    ],
-    "syllabes_texte": "crepe",
-    "image_path": "assets/images/aliments/crepe.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "crêpe",
+  "theme": "aliments",
+  "pixabay_id": 577386,
+  "author": "congerdesign",
+  "tags": "crêpes, rempli, crêpe, repas, copieux, filet de poitrine de poulet, fusée, fromage de brebis, appétissant, crêpes, crêpes, crêpes, crêpes, crêpe, crêpe, crêpe, crêpe, crêpe",
+  "syllabes": [
+    "crê",
+    "pe"
+  ],
+  "syllabes_texte": "crê-pe",
+  "image_path": "assets/images/aliments/crepe.jpg",
+  "level": 1,
+  "success_count": 0
 }

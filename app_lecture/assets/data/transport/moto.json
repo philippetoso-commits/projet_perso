@@ -1,15 +1,15 @@
 {
-    "mot": "moto",
-    "theme": "transport",
-    "pixabay_id": 1836962,
-    "author": "Pexels",
-    "tags": "bicyclette, honda, moto, véhicule, moto noire, transport, big bike, moto, moto, moto, moto, moto",
-    "syllabes": [
-        "mo",
-        "to"
-    ],
-    "syllabes_texte": "mo - to",
-    "image_path": "assets/images/transport/moto.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "moto",
+  "theme": "transport",
+  "pixabay_id": 1836962,
+  "author": "Pexels",
+  "tags": "bicyclette, honda, moto, véhicule, moto noire, transport, big bike, moto, moto, moto, moto, moto",
+  "syllabes": [
+    "mo",
+    "to"
+  ],
+  "syllabes_texte": "mo-to",
+  "image_path": "assets/images/transport/moto.jpg",
+  "level": 1,
+  "success_count": 0
 }

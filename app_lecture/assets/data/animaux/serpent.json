@@ -1,15 +1,15 @@
 {
-    "mot": "serpent",
-    "theme": "animaux",
-    "pixabay_id": 7982626,
-    "author": "Storme22k",
-    "tags": "serpent arboricole, serpent, reptile, serpent arboricole brun, nature, arbre, animal",
-    "syllabes": [
-        "ser",
-        "pent"
-    ],
-    "syllabes_texte": "ser - pent",
-    "image_path": "assets/images/animaux/serpent.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "serpent",
+  "theme": "animaux",
+  "pixabay_id": 7982626,
+  "author": "Storme22k",
+  "tags": "serpent arboricole, serpent, reptile, serpent arboricole brun, nature, arbre, animal",
+  "syllabes": [
+    "serp",
+    "ent"
+  ],
+  "syllabes_texte": "serp-ent",
+  "image_path": "assets/images/animaux/serpent.jpg",
+  "level": 1,
+  "success_count": 0
 }

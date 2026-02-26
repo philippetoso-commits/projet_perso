@@ -1,15 +1,15 @@
 {
-    "mot": "courir",
-    "theme": "verbes_actions",
-    "pixabay_id": 644111,
-    "author": "LaBruixa",
-    "tags": "chien, cours, amusement, animal, animal domestique, animal de compagnie, nature, jouer, en cours, chasser, génial, jouissance de la vie, fourrure, rapide en continu, chien courir, sprint, impoli",
-    "syllabes": [
-        "cou",
-        "rir"
-    ],
-    "syllabes_texte": "cou - rir",
-    "image_path": "assets/images/verbes_actions/courir.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "courir",
+  "theme": "verbes_actions",
+  "pixabay_id": 644111,
+  "author": "LaBruixa",
+  "tags": "chien, cours, amusement, animal, animal domestique, animal de compagnie, nature, jouer, en cours, chasser, génial, jouissance de la vie, fourrure, rapide en continu, chien courir, sprint, impoli",
+  "syllabes": [
+    "cou",
+    "rir"
+  ],
+  "syllabes_texte": "cou-rir",
+  "image_path": "assets/images/verbes_actions/courir.jpg",
+  "level": 1,
+  "success_count": 0
 }

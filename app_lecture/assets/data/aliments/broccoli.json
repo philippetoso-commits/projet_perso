@@ -1,16 +1,16 @@
 {
-    "mot": "broccoli",
-    "theme": "aliments",
-    "pixabay_id": 4559927,
-    "author": "misskursovie2013",
-    "tags": "aliments, vegetables, cabbage, broccoli, vert, whole, white background",
-    "syllabes": [
-        "broc",
-        "co",
-        "li"
-    ],
-    "syllabes_texte": "broc - co - li",
-    "image_path": "assets/images/aliments/broccoli.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "broccoli",
+  "theme": "aliments",
+  "pixabay_id": 4559927,
+  "author": "misskursovie2013",
+  "tags": "aliments, vegetables, cabbage, broccoli, vert, whole, white background",
+  "syllabes": [
+    "broc",
+    "co",
+    "li"
+  ],
+  "syllabes_texte": "broc-co-li",
+  "image_path": "assets/images/aliments/broccoli.jpg",
+  "level": 1,
+  "success_count": 0
 }

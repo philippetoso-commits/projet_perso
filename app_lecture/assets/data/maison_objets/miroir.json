@@ -1,15 +1,15 @@
 {
-    "mot": "miroir",
-    "theme": "maison_objets",
-    "pixabay_id": 4052203,
-    "author": "RachelleChristensen",
-    "tags": "miroir vintage, miroir brisé, cadre de miroir, miroiter, cadre, miroir ancien, décoration, conception, miroir vintage, miroir vintage, miroir vintage, miroir vintage, miroir brisé, cadre, cadre, cadre, miroir ancien, miroir ancien, miroir ancien, miroir ancien, miroir ancien",
-    "syllabes": [
-        "mi",
-        "roir"
-    ],
-    "syllabes_texte": "mi - roir",
-    "image_path": "assets/images/maison_objets/miroir.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "miroir",
+  "theme": "maison_objets",
+  "pixabay_id": 4052203,
+  "author": "RachelleChristensen",
+  "tags": "miroir vintage, miroir brisé, cadre de miroir, miroiter, cadre, miroir ancien, décoration, conception, miroir vintage, miroir vintage, miroir vintage, miroir vintage, miroir brisé, cadre, cadre, cadre, miroir ancien, miroir ancien, miroir ancien, miroir ancien, miroir ancien",
+  "syllabes": [
+    "mi",
+    "roir"
+  ],
+  "syllabes_texte": "mi-roir",
+  "image_path": "assets/images/maison_objets/miroir.jpg",
+  "level": 1,
+  "success_count": 0
 }

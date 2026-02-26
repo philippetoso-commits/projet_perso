@@ -1,16 +1,17 @@
 {
-    "mot": "bosse",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 8274342,
-    "author": "makabera",
-    "tags": "baleine, baleine à bosse, islande, animal, nature, faune",
-    "syllabes": [
-        "bosse"
-    ],
-    "syllabes_texte": "bosse",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/bosse.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 5381500,
-    "photographer": "Stephan Louis"
+  "mot": "bosse",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 8274342,
+  "author": "makabera",
+  "tags": "baleine, baleine à bosse, islande, animal, nature, faune",
+  "syllabes": [
+    "bo",
+    "sse"
+  ],
+  "syllabes_texte": "bo-sse",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/bosse.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 5381500,
+  "photographer": "Stephan Louis"
 }

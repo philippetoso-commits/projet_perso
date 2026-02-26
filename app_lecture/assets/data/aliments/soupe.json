@@ -1,14 +1,15 @@
 {
-    "mot": "soupe",
-    "theme": "aliments",
-    "pixabay_id": 3645375,
-    "author": "RitaE",
-    "tags": "soupe à la citrouille, soupe, aliments, soupe hokkaido, soupe au gingembre, soupe d'automne, assiette, repas, épicé, appétissant, délicieux, savoureux, fermer, soupe, soupe, soupe, soupe, soupe",
-    "syllabes": [
-        "soupe"
-    ],
-    "syllabes_texte": "soupe",
-    "image_path": "assets/images/aliments/soupe.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "soupe",
+  "theme": "aliments",
+  "pixabay_id": 3645375,
+  "author": "RitaE",
+  "tags": "soupe à la citrouille, soupe, aliments, soupe hokkaido, soupe au gingembre, soupe d'automne, assiette, repas, épicé, appétissant, délicieux, savoureux, fermer, soupe, soupe, soupe, soupe, soupe",
+  "syllabes": [
+    "sou",
+    "pe"
+  ],
+  "syllabes_texte": "sou-pe",
+  "image_path": "assets/images/aliments/soupe.jpg",
+  "level": 1,
+  "success_count": 0
 }

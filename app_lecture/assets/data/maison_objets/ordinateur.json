@@ -1,17 +1,17 @@
 {
-    "mot": "ordinateur",
-    "theme": "maison_objets",
-    "pixabay_id": 4795762,
-    "author": "yeiferr",
-    "tags": "ordinateur, portable, technologie, bleu ordinateur, ordinateur portable bleu, bleu tech, ordinateur, ordinateur, ordinateur, ordinateur, ordinateur, technologie",
-    "syllabes": [
-        "or",
-        "di",
-        "na",
-        "teur"
-    ],
-    "syllabes_texte": "or - di - na - teur",
-    "image_path": "assets/images/maison_objets/ordinateur.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "ordinateur",
+  "theme": "maison_objets",
+  "pixabay_id": 4795762,
+  "author": "yeiferr",
+  "tags": "ordinateur, portable, technologie, bleu ordinateur, ordinateur portable bleu, bleu tech, ordinateur, ordinateur, ordinateur, ordinateur, ordinateur, technologie",
+  "syllabes": [
+    "or",
+    "di",
+    "na",
+    "teur"
+  ],
+  "syllabes_texte": "or-di-na-teur",
+  "image_path": "assets/images/maison_objets/ordinateur.jpg",
+  "level": 1,
+  "success_count": 0
 }

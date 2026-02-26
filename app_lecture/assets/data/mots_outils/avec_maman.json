@@ -1,11 +1,13 @@
 {
-    "mot": "Avec maman",
-    "syllabes": [
-        "Avec",
-        "maman"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/mascotte.png",
-    "level": 4,
-    "success_count": 0
+  "mot": "avec maman",
+  "syllabes": [
+    "a",
+    "vec ma",
+    "man"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/mascotte.png",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "a-vec ma-man"
 }

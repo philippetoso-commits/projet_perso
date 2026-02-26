@@ -1,16 +1,31 @@
-
 import 'package:flutter/material.dart';
-import 'package:hive/hive.dart';
-import 'dart:math';
 import 'dart:async';
-import '../models/word.dart';
-import 'game_screen.dart';
-import 'map_screen.dart';
+import '../services/log_service.dart';
+import '../services/profile_service.dart';
+import '../widgets/game_hub_card.dart';
 import 'profile_select_screen.dart';
 import 'parent_gate_screen.dart';
 import 'parent_dashboard_screen.dart';
-import '../services/log_service.dart';
-import '../services/profile_service.dart';
+import '../features/mot_mystere/screens/mot_mystere_entry_screen.dart';
+import '../features/puzzle/screens/puzzle_coming_soon_screen.dart';
+import '../features/attrape_syllabe/screens/attrape_syllabe_entry_screen.dart';
+import '../features/tape_mains/screens/tape_mains_entry_screen.dart';
+import '../features/audiobook/screens/audiobook_screen.dart';
+import '../models/audiobook.dart';
+
+const List<IconData> _avatarIcons = [
+  Icons.face,
+  Icons.face_2,
+  Icons.face_3,
+  Icons.child_care,
+  Icons.emoji_emotions,
+  Icons.person,
+  Icons.person_outline,
+  Icons.star,
+];
+
+IconData _avatarIcon(int id) =>
+    _avatarIcons[id.clamp(0, _avatarIcons.length - 1)];
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -19,16 +34,7 @@ class HomeScreen extends StatefulWidget {
   State<HomeScreen> createState() => _HomeScreenState();
 }
 
-const List<IconData> _avatarIcons = [
-  Icons.face, Icons.face_2, Icons.face_3, Icons.child_care,
-  Icons.emoji_emotions, Icons.person, Icons.person_outline, Icons.star,
-];
-
-IconData _avatarIcon(int id) =>
-    _avatarIcons[id.clamp(0, _avatarIcons.length - 1)];
-
 class _HomeScreenState extends State<HomeScreen> {
-  int _selectedLevel = 1;
   bool _showDebug = false;
   int _mascotteTapCount = 0;
   Timer? _mascotteTapReset;
@@ -38,7 +44,7 @@ class _HomeScreenState extends State<HomeScreen> {
   void initState() {
     super.initState();
     LogService().onNewLog = (msg) {
-        if (mounted) setState(() {});
+      if (mounted) setState(() {});
     };
   }
 
@@ -67,266 +73,270 @@ class _HomeScreenState extends State<HomeScreen> {
     }
   }
 
-  void _startGame(BuildContext context) {
-    final profile = _profileService.getCurrentProfile();
-    if (profile == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text("Choisis un profil pour jouer.")),
-      );
-      return;
-    }
-    LogService().add("Starting game with level $_selectedLevel for ${profile.name}");
-    try {
-        final box = Hive.box<Word>('words');
-        var availableWords = box.values.where((w) => w.level == _selectedLevel).toList();
-        if (_selectedLevel == 1) {
-          final allowed = _profileService.getAllowedPsThemes(profile.keyAsId);
-          availableWords = availableWords.where((w) => allowed.contains(w.theme)).toList();
-        }
-        if (availableWords.isEmpty) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(content: Text("Pas de mots trouvés pour ce niveau !")),
-          );
-          return;
-        }
-        final word = _profileService.pickNextWord(profile.keyAsId, availableWords, random: Random())
-            ?? availableWords[Random().nextInt(availableWords.length)];
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => GameScreen(
-              word: word,
-              level: _selectedLevel,
-              profileKey: profile.keyAsId,
-            ),
-          ),
-        );
-    } catch (e) {
-        LogService().add("ERROR in _startGame: $e");
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
         decoration: const BoxDecoration(
-          gradient: LinearGradient(
-            begin: Alignment.topCenter,
-            end: Alignment.bottomCenter,
-            colors: [Color(0xFFE0F7FA), Color(0xFF80DEEA)], 
+          image: DecorationImage(
+            image: AssetImage('assets/images/backgrounds/main_bg.png'),
+            fit: BoxFit.cover,
           ),
         ),
         child: SafeArea(
           child: Stack(
             children: [
-              // 1. Background Elements (Positioned)
-              
-              // Bottom Left : Album
-              Positioned(
-                bottom: 30,
-                left: 30,
-                child: _SmallButton(
-                  icon: Icons.book,
-                  color: Colors.blueAccent,
-                  label: "Album",
-                  onTap: () {
-                    showDialog(
-                      context: context,
-                      builder: (context) => AlertDialog(
-                        title: const Text("Mon Album"),
-                        content: const Text("Tu pourras bientôt voir ici tous les mots que tu as appris !"),
-                        actions: [
-                          TextButton(
-                            onPressed: () => Navigator.pop(context),
-                            child: const Text("Super !"),
-                          )
-                        ],
-                      ),
-                    );
-                  },
-                ),
-              ),
-
-              // Top: profil courant + paramètres
-              Positioned(
-                top: 20,
-                left: 20,
-                right: 20,
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    Builder(
-                      builder: (context) {
-                        final p = _profileService.getCurrentProfile();
-                        if (p == null) return const SizedBox.shrink();
-                        return Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            CircleAvatar(
-                              radius: 20,
-                              backgroundColor: Colors.blue.shade100,
-                              child: Icon(_avatarIcon(p.avatarId), color: Colors.blue.shade700, size: 22),
-                            ),
-                            const SizedBox(width: 8),
-                            Text(
-                              p.name,
-                              style: const TextStyle(
-                                fontSize: 16,
-                                fontWeight: FontWeight.w600,
-                                color: Color(0xFF006064),
-                              ),
-                            ),
-                          ],
-                        );
-                      },
-                    ),
-                    IconButton(
-                      icon: const Icon(Icons.settings, color: Colors.black54),
-                      onPressed: () async {
-                        await Navigator.push(
-                          context,
-                          MaterialPageRoute(
-                            builder: (_) => const ProfileSelectScreen(fromSettings: true),
-                          ),
-                        );
-                        if (mounted) setState(() {});
-                      },
-                    ),
-                  ],
-                ),
-              ),
-
-              // 2. Main Content (Column for Spacing)
-              Center(
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  children: [
-                     const SizedBox(height: 40), // Top Spacing
-                     
-                     // Header (5 taps sur la mascotte = Espace Parents)
-                     _AnimatedMascotte(
-                        onTap: _onMascotteTap,
-                        imagePath: 'assets/images/mascotte.png',
-                        height: 150,
-                      ),
-                      const SizedBox(height: 10),
-                      const Text(
-                        "Le Mot Mystère",
-                        style: TextStyle(
-                          fontFamily: 'Roboto',
-                          fontSize: 32,
-                          fontWeight: FontWeight.bold,
-                          color: Color(0xFF006064),
-                        ),
-                      ),
-                      const SizedBox(height: 30),
-                      
-                      // LEVEL SELECTOR
-                      Container(
-                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
-                        decoration: BoxDecoration(
-                          color: Colors.white,
-                          borderRadius: BorderRadius.circular(20),
-                          boxShadow: [BoxShadow(color: Colors.black12, blurRadius: 4)],
-                        ),
-                        child: DropdownButton<int>(
-                          value: _selectedLevel,
-                          underline: Container(),
-                          icon: const Icon(Icons.arrow_drop_down_rounded, color: Color(0xFF006064)),
-                          items: const [
-                            DropdownMenuItem(value: 1, child: Text("Niveau 1 (PS)", style: TextStyle(fontWeight: FontWeight.bold))),
-                            DropdownMenuItem(value: 2, child: Text("Niveau 2 (MS)", style: TextStyle(fontWeight: FontWeight.bold))),
-                            DropdownMenuItem(value: 3, child: Text("Niveau 3 (GS)", style: TextStyle(fontWeight: FontWeight.bold))),
-                            DropdownMenuItem(value: 4, child: Text("Niveau 4 (CP)", style: TextStyle(fontWeight: FontWeight.bold))),
-                          ],
-                          onChanged: (val) {
-                            if (val != null) setState(() => _selectedLevel = val);
+              // ── Main content ──────────────────────────────────────────
+              Column(
+                children: [
+                  // ► Top bar: profil + réglages
+                  Padding(
+                    padding: const EdgeInsets.fromLTRB(16, 12, 16, 0),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        Builder(
+                          builder: (context) {
+                            final p = _profileService.getCurrentProfile();
+                            if (p == null) return const SizedBox.shrink();
+                            return Row(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                CircleAvatar(
+                                  radius: 20,
+                                  backgroundColor: Colors.blue.shade100,
+                                  child: Icon(_avatarIcon(p.avatarId),
+                                      color: Colors.blue.shade700, size: 22),
+                                ),
+                                const SizedBox(width: 8),
+                                Text(
+                                  p.name,
+                                  style: const TextStyle(
+                                    fontSize: 16,
+                                    fontWeight: FontWeight.w600,
+                                    color: Color(0xFF006064),
+                                  ),
+                                ),
+                              ],
+                            );
                           },
                         ),
-                      ),
-                      const SizedBox(height: 12),
-                      // Bouton Parcours (carte)
-                      TextButton.icon(
-                        onPressed: () {
-                          final profile = _profileService.getCurrentProfile();
-                          if (profile == null) {
-                            ScaffoldMessenger.of(context).showSnackBar(
-                              const SnackBar(content: Text("Choisis un profil pour jouer.")),
+                        IconButton(
+                          icon: const Icon(Icons.settings,
+                              color: Colors.black54),
+                          onPressed: () async {
+                            await Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (_) => const ProfileSelectScreen(
+                                    fromSettings: true),
+                              ),
                             );
-                            return;
-                          }
-                          Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                              builder: (context) => MapScreen(profileKey: profile.keyAsId),
-                            ),
-                          );
-                        },
-                        icon: const Icon(Icons.map_rounded, color: Color(0xFF006064), size: 22),
-                        label: const Text("Parcours", style: TextStyle(fontWeight: FontWeight.bold, color: Color(0xFF006064), fontSize: 16)),
-                      ),
-                      
-                      const Spacer(), // Pushes Play Button down
-                      
-                      // Play Button
-                      GestureDetector(
-                        behavior: HitTestBehavior.opaque,
-                        onTap: () => _startGame(context),
-                        child: Container(
-                          width: 180,
-                          height: 180,
-                          decoration: BoxDecoration(
+                            if (mounted) setState(() {});
+                          },
+                        ),
+                      ],
+                    ),
+                  ),
+
+                  // ► Mascotte + titre
+                  Padding(
+                    padding: const EdgeInsets.symmetric(vertical: 8),
+                    child: Column(
+                      children: [
+                        _AnimatedMascotte(
+                          onTap: _onMascotteTap,
+                          imagePath: 'assets/images/mascotte.png',
+                          height: 110,
+                        ),
+                        const SizedBox(height: 6),
+                        const Text(
+                          'SyllaboJeux',
+                          style: TextStyle(
+                            fontFamily: 'Roboto',
+                            fontSize: 38,
+                            fontWeight: FontWeight.bold,
                             color: Colors.white,
-                            shape: BoxShape.circle,
-                            boxShadow: [
-                              BoxShadow(
-                                color: Colors.black.withOpacity(0.1),
-                                blurRadius: 20,
-                                offset: const Offset(0, 10),
+                            letterSpacing: 1.5,
+                            shadows: [
+                              Shadow(
+                                offset: Offset(2.0, 2.0),
+                                blurRadius: 4.0,
+                                color: Colors.black87,
+                              ),
+                            ],
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+
+                  // ► Grille 2×2 des modules
+                  Expanded(
+                    child: Padding(
+                      padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
+                      child: GridView.count(
+                        crossAxisCount: 4,
+                        crossAxisSpacing: 10,
+                        mainAxisSpacing: 12,
+                        childAspectRatio: 0.8,
+                        physics: const BouncingScrollPhysics(),
+                        children: [
+                          // 1. Mot Mystère
+                          GameHubCard(
+                            title: 'Mot Mystère',
+                            subtitle: 'Trouve le mot caché',
+                            icon: Icons.search_rounded,
+                            cardColor: const Color(0xFF7C4DFF),
+                            iconBgColor: const Color(0xFF9C6FFF),
+                            iconColor: Colors.white,
+                            onTap: () => Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (_) =>
+                                      const MotMystereEntryScreen()),
+                            ),
+                          ),
+                          // 2. Puzzle
+                          GameHubCard(
+                            title: 'Puzzle',
+                            subtitle: 'Assemble les pièces',
+                            icon: Icons.extension_rounded,
+                            cardColor: const Color(0xFFFF6D00),
+                            iconBgColor: const Color(0xFFFF9100),
+                            iconColor: Colors.white,
+                            onTap: () {
+                              final profile = _profileService.getCurrentProfile();
+                              if (profile == null) return;
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder: (_) => PuzzleEntryScreen(
+                                    profileKey: profile.key as int,
+                                  ),
+                                ),
+                              );
+                            },
+                          ),
+                          // 3. Attrape Syllabe
+                          GameHubCard(
+                            title: 'Attrape\nSyllabe',
+                            subtitle: 'Attrape la bonne syllabe',
+                            icon: Icons.music_note_rounded,
+                            cardColor: const Color(0xFF2E7D32),
+                            iconBgColor: const Color(0xFF43A047),
+                            iconColor: Colors.white,
+                            onTap: () => Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (_) =>
+                                      const AttrapeSyllabeEntryScreen()),
+                            ),
+                          ),
+                          // 4. Tape dans les Mains
+                          GameHubCard(
+                            title: 'Tape les\nMains',
+                            subtitle: 'Bats le rythme',
+                            icon: Icons.back_hand_rounded,
+                            cardColor: const Color(0xFFD81B60),
+                            iconBgColor: const Color(0xFFE91E63),
+                            iconColor: Colors.white,
+                            onTap: () => Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (_) =>
+                                      const TapeMainsEntryScreen()),
+                            ),
+                          ),
+                          // 5. Audiobook
+                          GameHubCard(
+                            title: 'Livre Audio',
+                            subtitle: 'Le Petit Poucet',
+                            icon: Icons.menu_book_rounded,
+                            cardColor: const Color(0xFF009688),
+                            iconBgColor: const Color(0xFF4DB6AC),
+                            iconColor: Colors.white,
+                            onTap: () => Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (_) => AudiobookScreen(
+                                  audiobook: petitPoucetAudiobook,
+                                ),
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+
+                  // ► Bouton Album en bas
+                  Padding(
+                    padding: const EdgeInsets.only(bottom: 16),
+                    child: TextButton.icon(
+                      onPressed: () {
+                        showDialog(
+                          context: context,
+                          builder: (context) => AlertDialog(
+                            title: const Text("Mon Album"),
+                            content: const Text(
+                                "Tu pourras bientôt voir ici tous les mots que tu as appris !"),
+                            actions: [
+                              TextButton(
+                                onPressed: () => Navigator.pop(context),
+                                child: const Text("Super !"),
                               )
                             ],
                           ),
-                          child: const Center(
-                            child: Icon(
-                              Icons.play_arrow_rounded,
-                              size: 90,
-                              color: Color(0xFFFF7043), 
-                            ),
-                          ),
+                        );
+                      },
+                      icon: const Icon(Icons.book,
+                          color: Color(0xFF006064), size: 20),
+                      label: const Text(
+                        'Mon Album',
+                        style: TextStyle(
+                          color: Color(0xFF006064),
+                          fontWeight: FontWeight.w600,
                         ),
                       ),
-                      
-                      const Spacer(), // Bottom Spacing
-                  ],
-                ),
+                    ),
+                  ),
+                ],
               ),
 
-              // DEBUG CONSOLE OVERLAY
+              // ── Debug overlay ─────────────────────────────────────────
               if (_showDebug)
-              Positioned.fill(
-                child: Container(
-                  color: Colors.black.withOpacity(0.8),
-                  padding: const EdgeInsets.all(20),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
+                Positioned.fill(
+                  child: Container(
+                    color: Colors.black.withValues(alpha: 0.8),
+                    padding: const EdgeInsets.all(20),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
                         Row(
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
-                            const Text("CONSOLE DE DEBUG (ACCUEIL)", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold)),
+                            const Text("CONSOLE DE DEBUG (ACCUEIL)",
+                                style: TextStyle(
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.bold)),
                             Row(
                               children: [
                                 ElevatedButton.icon(
                                   onPressed: () async {
-                                    String path = await LogService().exportLogs();
-                                    LogService().add("Logs exportés vers: $path");
+                                    String path =
+                                        await LogService().exportLogs();
+                                    LogService()
+                                        .add("Logs exportés vers: $path");
                                   },
                                   icon: const Icon(Icons.download),
                                   label: const Text("Exporter"),
                                 ),
-                                IconButton(icon: const Icon(Icons.close, color: Colors.white), onPressed: () => setState(() => _showDebug = false)),
+                                IconButton(
+                                    icon: const Icon(Icons.close,
+                                        color: Colors.white),
+                                    onPressed: () =>
+                                        setState(() => _showDebug = false)),
                               ],
                             ),
                           ],
@@ -334,28 +344,34 @@ class _HomeScreenState extends State<HomeScreen> {
                         Expanded(
                           child: ListView.builder(
                             itemCount: LogService().logs.length,
-                            itemBuilder: (context, i) => Text(LogService().logs[i], style: const TextStyle(color: Colors.greenAccent, fontSize: 12, fontFamily: 'monospace')),
+                            itemBuilder: (context, i) => Text(
+                                LogService().logs[i],
+                                style: const TextStyle(
+                                    color: Colors.greenAccent,
+                                    fontSize: 12,
+                                    fontFamily: 'monospace')),
                           ),
                         ),
-                    ],
+                      ],
+                    ),
                   ),
                 ),
-              ),
-              
-              // DEBUG TOGGLE BUTTON
+
+              // ── Debug toggle button ───────────────────────────────────
               Positioned(
-                top: 100,
+                top: 60,
                 right: 20,
                 child: Container(
                   decoration: BoxDecoration(
-                    color: Colors.red.withOpacity(0.2),
+                    color: Colors.red.withValues(alpha: 0.2),
                     shape: BoxShape.circle,
                   ),
                   child: IconButton(
-                    icon: const Icon(Icons.terminal, color: Colors.red, size: 30),
+                    icon: const Icon(Icons.terminal,
+                        color: Colors.red, size: 26),
                     onPressed: () {
-                        LogService().add("Debug Toggle Pressed");
-                        setState(() => _showDebug = !_showDebug);
+                      LogService().add("Debug Toggle Pressed");
+                      setState(() => _showDebug = !_showDebug);
                     },
                   ),
                 ),
@@ -368,54 +384,8 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 }
 
-class _SmallButton extends StatelessWidget {
-  final IconData icon;
-  final Color color;
-  final String label;
-  final VoidCallback onTap;
-
-  const _SmallButton({
-    required this.icon,
-    required this.color,
-    required this.label,
-    required this.onTap,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    return Column(
-      children: [
-        Container(
-          padding: const EdgeInsets.all(15),
-          decoration: BoxDecoration(
-            color: Colors.white,
-            shape: BoxShape.circle,
-            boxShadow: [
-              BoxShadow(
-                color: Colors.black.withOpacity(0.1),
-                blurRadius: 10,
-                offset: const Offset(0, 5),
-              )
-            ],
-          ),
-          child: Icon(icon, color: color, size: 30),
-        ),
-        const SizedBox(height: 5),
-        Text(
-          label,
-          style: const TextStyle(
-            fontFamily: 'Roboto',
-            fontSize: 14,
-            fontWeight: FontWeight.w600,
-            color: Color(0xFF006064),
-          ),
-        ),
-      ],
-    );
-  }
-}
-
-/// Mascotte avec animation de « respiration » (léger scale) et rebond au tap.
+// ─────────────────────────────────────────────────────────────────────────────
+/// Mascotte avec animation de « respiration » et rebond au tap.
 class _AnimatedMascotte extends StatefulWidget {
   final VoidCallback onTap;
   final String imagePath;
@@ -448,15 +418,13 @@ class _AnimatedMascotteState extends State<_AnimatedMascotte>
 
     _breathScale = TweenSequence<double>([
       TweenSequenceItem(
-        tween: Tween(begin: 1.0, end: 1.06).chain(
-          CurveTween(curve: Curves.easeInOut),
-        ),
+        tween:
+            Tween(begin: 1.0, end: 1.06).chain(CurveTween(curve: Curves.easeInOut)),
         weight: 1,
       ),
       TweenSequenceItem(
-        tween: Tween(begin: 1.06, end: 1.0).chain(
-          CurveTween(curve: Curves.easeInOut),
-        ),
+        tween:
+            Tween(begin: 1.06, end: 1.0).chain(CurveTween(curve: Curves.easeInOut)),
         weight: 1,
       ),
     ]).animate(_breathController);
@@ -480,13 +448,14 @@ class _AnimatedMascotteState extends State<_AnimatedMascotte>
     );
     setState(() {});
     _tapController!.forward().then((_) {
-      if (mounted) _tapController!.reverse().then((_) {
-        if (mounted) {
-          _tapController?.dispose();
-          _tapController = null;
-          setState(() {});
-        }
-      });
+      if (mounted)
+        _tapController!.reverse().then((_) {
+          if (mounted) {
+            _tapController?.dispose();
+            _tapController = null;
+            setState(() {});
+          }
+        });
     });
   }
 
@@ -506,10 +475,7 @@ class _AnimatedMascotteState extends State<_AnimatedMascotte>
           if (_tapController != null && _tapScale != null) {
             scale = scale * _tapScale!.value;
           }
-          return Transform.scale(
-            scale: scale,
-            child: child,
-          );
+          return Transform.scale(scale: scale, child: child);
         },
         child: Image.asset(
           widget.imagePath,

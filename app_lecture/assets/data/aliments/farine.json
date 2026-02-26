@@ -1,15 +1,15 @@
 {
-    "mot": "farine",
-    "theme": "aliments",
-    "pixabay_id": 8314234,
-    "author": "Nennieinszweidrei",
-    "tags": "sage, ageratum, farine de sauge, prairie fleurie, salvia farine, silvia farinacea, pétales, fleurs pourpres, la nature, fleurs bleues, floraison, ageratum houstonianum, mer de fleurs, fond floral, plante, mauve, sauge farineuse",
-    "syllabes": [
-        "fa",
-        "rine"
-    ],
-    "syllabes_texte": "fa - rine",
-    "image_path": "assets/images/aliments/farine.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "farine",
+  "theme": "aliments",
+  "pixabay_id": 8314234,
+  "author": "Nennieinszweidrei",
+  "tags": "sage, ageratum, farine de sauge, prairie fleurie, salvia farine, silvia farinacea, pétales, fleurs pourpres, la nature, fleurs bleues, floraison, ageratum houstonianum, mer de fleurs, fond floral, plante, mauve, sauge farineuse",
+  "syllabes": [
+    "fa",
+    "rine"
+  ],
+  "syllabes_texte": "fa-rine",
+  "image_path": "assets/images/aliments/farine.jpg",
+  "level": 1,
+  "success_count": 0
 }

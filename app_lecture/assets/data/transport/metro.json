@@ -1,15 +1,15 @@
 {
-    "mot": "metro",
-    "theme": "transport",
-    "pixabay_id": 5260864,
-    "author": "AJS1",
-    "tags": "tunnel, rail, transport, piste, trafic, voyage, metro, sombre, nature, rouillé, locomotive, arbre, abandonné",
-    "syllabes": [
-        "me",
-        "tro"
-    ],
-    "syllabes_texte": "me - tro",
-    "image_path": "assets/images/transport/metro.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "métro",
+  "theme": "transport",
+  "pixabay_id": 5260864,
+  "author": "AJS1",
+  "tags": "tunnel, rail, transport, piste, trafic, voyage, metro, sombre, nature, rouillé, locomotive, arbre, abandonné",
+  "syllabes": [
+    "mé",
+    "tro"
+  ],
+  "syllabes_texte": "mé-tro",
+  "image_path": "assets/images/transport/metro.jpg",
+  "level": 1,
+  "success_count": 0
 }

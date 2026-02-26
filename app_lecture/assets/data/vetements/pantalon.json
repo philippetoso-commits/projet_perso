@@ -1,16 +1,16 @@
 {
-    "mot": "pantalon",
-    "theme": "vetements",
-    "pixabay_id": 8170757,
-    "author": "Kranich17",
-    "tags": "jeans, cœur, des pantalons, coton, matériel, poche, cacher, bienvenue, amoureux, pantalon préféré, bleu, couture",
-    "syllabes": [
-        "pan",
-        "ta",
-        "lon"
-    ],
-    "syllabes_texte": "pan - ta - lon",
-    "image_path": "assets/images/vetements/pantalon.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pantalon",
+  "theme": "vetements",
+  "pixabay_id": 8170757,
+  "author": "Kranich17",
+  "tags": "jeans, cœur, des pantalons, coton, matériel, poche, cacher, bienvenue, amoureux, pantalon préféré, bleu, couture",
+  "syllabes": [
+    "pan",
+    "ta",
+    "lon"
+  ],
+  "syllabes_texte": "pan-ta-lon",
+  "image_path": "assets/images/vetements/pantalon.jpg",
+  "level": 1,
+  "success_count": 0
 }

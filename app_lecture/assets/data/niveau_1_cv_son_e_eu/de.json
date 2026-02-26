@@ -1,11 +1,12 @@
 {
-    "mot": "de",
-    "theme": "niveau_1_cv_son_e_eu",
-    "image_path": "assets/images/niveau_1_cv_son_e_eu/de.jpg",
-    "pexels_id": 925743,
-    "photographer": "João  Jesus",
-    "syllabes": [
-        "de"
-    ],
-    "level": 1
+  "mot": "de",
+  "theme": "niveau_1_cv_son_e_eu",
+  "image_path": "assets/images/niveau_1_cv_son_e_eu/de.jpg",
+  "pexels_id": 925743,
+  "photographer": "João  Jesus",
+  "syllabes": [
+    "de"
+  ],
+  "level": 1,
+  "syllabes_texte": "de"
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "raisin",
-    "theme": "aliments",
-    "pixabay_id": 5889697,
-    "author": "NickyPe",
-    "tags": "raisins, fruit, groupe, raisin, fruits frais, frais, raisins frais, récolter, des produits, biographie, mûr, raisins mûrs, mignonne, aliments, en bonne santé, vitamines, raisin, raisin, raisin, raisin, raisin",
-    "syllabes": [
-        "rai",
-        "sin"
-    ],
-    "syllabes_texte": "rai - sin",
-    "image_path": "assets/images/aliments/raisin.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "raisin",
+  "theme": "aliments",
+  "pixabay_id": 5889697,
+  "author": "NickyPe",
+  "tags": "raisins, fruit, groupe, raisin, fruits frais, frais, raisins frais, récolter, des produits, biographie, mûr, raisins mûrs, mignonne, aliments, en bonne santé, vitamines, raisin, raisin, raisin, raisin, raisin",
+  "syllabes": [
+    "rai",
+    "sin"
+  ],
+  "syllabes_texte": "rai-sin",
+  "image_path": "assets/images/aliments/raisin.jpg",
+  "level": 1,
+  "success_count": 0
 }

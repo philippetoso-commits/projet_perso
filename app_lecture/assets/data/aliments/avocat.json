@@ -1,15 +1,16 @@
 {
-    "mot": "avocat",
-    "theme": "aliments",
-    "pixabay_id": 882635,
-    "author": "sandid",
-    "tags": "avocats, récolter, fruit, biologique, en bonne santé, avocat hass, persea americaine, avocats, avocats, avocats, avocats, avocats, fruit, fruit, fruit, fruit",
-    "syllabes": [
-        "avo",
-        "cat"
-    ],
-    "syllabes_texte": "avo - cat",
-    "image_path": "assets/images/aliments/avocat.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "avocat",
+  "theme": "aliments",
+  "pixabay_id": 882635,
+  "author": "sandid",
+  "tags": "avocats, récolter, fruit, biologique, en bonne santé, avocat hass, persea americaine, avocats, avocats, avocats, avocats, avocats, fruit, fruit, fruit, fruit",
+  "syllabes": [
+    "a",
+    "vo",
+    "cat"
+  ],
+  "syllabes_texte": "a-vo-cat",
+  "image_path": "assets/images/aliments/avocat.jpg",
+  "level": 1,
+  "success_count": 0
 }

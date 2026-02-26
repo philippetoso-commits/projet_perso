@@ -1,14 +1,15 @@
 {
-    "mot": "lire",
-    "theme": "verbes_actions",
-    "pixabay_id": 3733892,
-    "author": "karishea",
-    "tags": "livres, en train de lire, lunettes, une bibliothèque, livres, livres, livres, livres, livres, lunettes",
-    "syllabes": [
-        "lire"
-    ],
-    "syllabes_texte": "lire",
-    "image_path": "assets/images/verbes_actions/lire.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "lire",
+  "theme": "verbes_actions",
+  "pixabay_id": 3733892,
+  "author": "karishea",
+  "tags": "livres, en train de lire, lunettes, une bibliothèque, livres, livres, livres, livres, livres, lunettes",
+  "syllabes": [
+    "li",
+    "re"
+  ],
+  "syllabes_texte": "li-re",
+  "image_path": "assets/images/verbes_actions/lire.jpg",
+  "level": 1,
+  "success_count": 0
 }

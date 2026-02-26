@@ -1,15 +1,16 @@
 {
-    "mot": "visage",
-    "theme": "corps_humain",
-    "pixabay_id": 3289372,
-    "author": "Uschi_Du",
-    "tags": "femme, beauté, visage, portrait, soin du visage, fille, femme, visage, visage, visage, visage, visage",
-    "syllabes": [
-        "vi",
-        "sage"
-    ],
-    "syllabes_texte": "vi - sage",
-    "image_path": "assets/images/corps_humain/visage.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "visage",
+  "theme": "corps_humain",
+  "pixabay_id": 3289372,
+  "author": "Uschi_Du",
+  "tags": "femme, beauté, visage, portrait, soin du visage, fille, femme, visage, visage, visage, visage, visage",
+  "syllabes": [
+    "vi",
+    "sa",
+    "ge"
+  ],
+  "syllabes_texte": "vi-sa-ge",
+  "image_path": "assets/images/corps_humain/visage.jpg",
+  "level": 1,
+  "success_count": 0
 }

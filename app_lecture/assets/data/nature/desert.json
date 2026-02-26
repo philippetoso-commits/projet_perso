@@ -1,15 +1,15 @@
 {
-    "mot": "desert",
-    "theme": "nature",
-    "pixabay_id": 2097476,
-    "author": "pmoulie",
-    "tags": "désert, desert, tunisie, nature, paysage, sable, desert, desert, tunisie, tunisie, tunisie, tunisie, tunisie",
-    "syllabes": [
-        "de",
-        "sert"
-    ],
-    "syllabes_texte": "de - sert",
-    "image_path": "assets/images/nature/desert.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "désert",
+  "theme": "nature",
+  "pixabay_id": 2097476,
+  "author": "pmoulie",
+  "tags": "désert, desert, tunisie, nature, paysage, sable, desert, desert, tunisie, tunisie, tunisie, tunisie, tunisie",
+  "syllabes": [
+    "dé",
+    "sert"
+  ],
+  "syllabes_texte": "dé-sert",
+  "image_path": "assets/images/nature/desert.jpg",
+  "level": 1,
+  "success_count": 0
 }

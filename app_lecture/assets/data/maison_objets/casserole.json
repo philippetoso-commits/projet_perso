@@ -1,16 +1,16 @@
 {
-    "mot": "casserole",
-    "theme": "maison_objets",
-    "pixabay_id": 9565430,
-    "author": "makabera",
-    "tags": "acacia, la nature, arbre, afrique, etosha, casserole de sel, paysage, panorama",
-    "syllabes": [
-        "cas",
-        "se",
-        "role"
-    ],
-    "syllabes_texte": "cas - se - role",
-    "image_path": "assets/images/maison_objets/casserole.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "casserole",
+  "theme": "maison_objets",
+  "pixabay_id": 9565430,
+  "author": "makabera",
+  "tags": "acacia, la nature, arbre, afrique, etosha, casserole de sel, paysage, panorama",
+  "syllabes": [
+    "ca",
+    "ss",
+    "erole"
+  ],
+  "syllabes_texte": "ca-ss-erole",
+  "image_path": "assets/images/maison_objets/casserole.jpg",
+  "level": 1,
+  "success_count": 0
 }

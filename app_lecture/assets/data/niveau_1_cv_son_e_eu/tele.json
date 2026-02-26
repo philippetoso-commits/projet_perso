@@ -1,16 +1,17 @@
 {
-    "mot": "tele",
-    "theme": "niveau_1_cv_son_e_eu",
-    "pixabay_id": 5286863,
-    "author": "martinklass",
-    "tags": "hambourg, alster, paradis, l'eau, nature, le coucher du soleil, ambiance du soir, atmosphérique, architecture, eaux, alster intérieur, binnenalster, ville, tele michel",
-    "syllabes": [
-        "tele"
-    ],
-    "syllabes_texte": "tele",
-    "image_path": "assets/images/niveau_1_cv_son_e_eu/tele.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 15655833,
-    "photographer": "Korede  Adenola"
+  "mot": "télé",
+  "theme": "niveau_1_cv_son_e_eu",
+  "pixabay_id": 5286863,
+  "author": "martinklass",
+  "tags": "hambourg, alster, paradis, l'eau, nature, le coucher du soleil, ambiance du soir, atmosphérique, architecture, eaux, alster intérieur, binnenalster, ville, tele michel",
+  "syllabes": [
+    "té",
+    "lé"
+  ],
+  "syllabes_texte": "té-lé",
+  "image_path": "assets/images/niveau_1_cv_son_e_eu/tele.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 15655833,
+  "photographer": "Korede  Adenola"
 }

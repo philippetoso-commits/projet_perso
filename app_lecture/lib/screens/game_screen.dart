@@ -65,6 +65,7 @@ class _GameScreenState extends State<GameScreen> {
   late AdaptiveReader _adaptiveReader;
   Timer? _silenceTimer;
   final List<String> _logs = []; // IN-APP CONSOLE
+  bool _isSttReady = false;
 
   void _addLog(String msg) {
       if (mounted) {
@@ -119,6 +120,33 @@ class _GameScreenState extends State<GameScreen> {
     var status = await Permission.microphone.request();
     LogService().add("Microphone Permission: $status");
 
+    if (status.isDenied || status.isPermanentlyDenied) {
+      if (mounted) {
+        Future.microtask(() {
+          showDialog(
+            context: context,
+            builder: (ctx) => AlertDialog(
+              title: const Text("Microphone requis"),
+              content: const Text("Pour jouer au Mot Mystère, l'application a besoin d'entendre ta voix ! Ouvre les paramètres et autorise le microphone."),
+              actions: [
+                TextButton(
+                  onPressed: () => Navigator.pop(ctx),
+                  child: const Text("Annuler"),
+                ),
+                ElevatedButton(
+                  onPressed: () {
+                    openAppSettings();
+                    Navigator.pop(ctx);
+                  },
+                  child: const Text("Ouvrir les Paramètres"),
+                ),
+              ],
+            ),
+          );
+        });
+      }
+    }
+
     _ttsService.onLog = (m) => LogService().add("TTS: $m");
     LogService().add("Initializing game services...");
     
@@ -131,7 +159,11 @@ class _GameScreenState extends State<GameScreen> {
         LogService().add("STT ERROR callback: $msg");
     });
     LogService().add("STT: Engine ready? $sttOk");
-    if (mounted) setState(() {});
+    if (mounted) {
+      setState(() {
+        _isSttReady = sttOk;
+      });
+    }
   }
 
   @override
@@ -526,7 +558,7 @@ class _GameScreenState extends State<GameScreen> {
                         
                         // Mic Button
                         GestureDetector(
-                            onTap: () {
+                            onTap: _isSttReady ? () {
                               setState(() {
                                 if (_isListening) {
                                    _stopListening();
@@ -534,26 +566,36 @@ class _GameScreenState extends State<GameScreen> {
                                   _startListening();
                                 }
                               });
-                            },
+                            } : null,
                           child: AnimatedContainer(
                             duration: const Duration(milliseconds: 300),
                             width: _isListening ? 100 : 80,
                             height: _isListening ? 100 : 80,
                             decoration: BoxDecoration(
-                              color: _isListening ? Colors.redAccent : Colors.blueAccent,
+                              color: _isSttReady 
+                                  ? (_isListening ? Colors.redAccent : Colors.blueAccent)
+                                  : Colors.grey,
                               shape: BoxShape.circle,
                               boxShadow: [
-                                BoxShadow(
-                                  color: (_isListening ? Colors.red : Colors.blue).withOpacity(0.4),
-                                  blurRadius: 20,
-                                  spreadRadius: 5,
-                                )
+                                if (_isSttReady)
+                                  BoxShadow(
+                                    color: (_isListening ? Colors.red : Colors.blue).withOpacity(0.4),
+                                    blurRadius: 20,
+                                    spreadRadius: 5,
+                                  )
                               ],
                             ),
-                            child: Icon(
-                              _isListening ? Icons.stop_rounded : Icons.mic_rounded,
-                              color: Colors.white,
-                              size: 40,
+                            child: Center(
+                              child: _isSttReady 
+                                  ? Icon(
+                                      _isListening ? Icons.stop_rounded : Icons.mic_rounded,
+                                      color: Colors.white,
+                                      size: 40,
+                                    )
+                                  : const SizedBox(
+                                      width: 24, height: 24,
+                                      child: CircularProgressIndicator(color: Colors.white, strokeWidth: 2),
+                                    ),
                             ),
                           ),
                         ),
@@ -780,9 +822,13 @@ class _StarRainCelebrationState extends State<StarRainCelebration>
     );
   }
 
-  void _initPositions(double screenWidth) {
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
     if (_initialized) return;
     _initialized = true;
+    // Initialisation ici (hors build) pour garantir le forward() en release
+    final screenWidth = MediaQuery.of(context).size.width;
     final random = Random();
     final padding = _starSize + 8;
     _starStartX = List.generate(
@@ -790,8 +836,8 @@ class _StarRainCelebrationState extends State<StarRainCelebration>
       (_) => padding + random.nextDouble() * (screenWidth - 2 * padding),
     );
     _starDelays = List.generate(_starCount, (_) => random.nextDouble() * 0.25);
-    // Lancer l'animation au prochain microtask pour ne pas appeler forward() pendant le build
-    Future.microtask(() {
+    // Lancer l'animation après le premier frame
+    WidgetsBinding.instance.addPostFrameCallback((_) {
       if (mounted) {
         _controller.forward().then((_) {
           if (mounted) widget.onComplete();
@@ -808,21 +854,15 @@ class _StarRainCelebrationState extends State<StarRainCelebration>
 
   @override
   Widget build(BuildContext context) {
-    return LayoutBuilder(
-      builder: (context, constraints) {
-        final w = constraints.maxWidth;
-        final h = MediaQuery.sizeOf(context).height;
-        // Initialisation synchrone lors du 1er layout — pas de flash
-        _initPositions(w);
-        final bottomY = h + _starSize;
-        final starStarts = _starStartX.isNotEmpty
-            ? _starStartX
-            : List.generate(_starCount, (i) => w * (i + 1) / (_starCount + 1));
-        final starDelays =
-            _starDelays.isNotEmpty ? _starDelays : List.filled(_starCount, 0.0);
-        return _buildContent(context, w, h, bottomY, starStarts, starDelays);
-      },
-    );
+    final w = MediaQuery.sizeOf(context).width;
+    final h = MediaQuery.sizeOf(context).height;
+    final bottomY = h + _starSize;
+    final starStarts = _starStartX.isNotEmpty
+        ? _starStartX
+        : List.generate(_starCount, (i) => w * (i + 1) / (_starCount + 1));
+    final starDelays =
+        _starDelays.isNotEmpty ? _starDelays : List.filled(_starCount, 0.0);
+    return _buildContent(context, w, h, bottomY, starStarts, starDelays);
   }
 
   Widget _buildContent(BuildContext context, double w, double h, double bottomY,

@@ -1,16 +1,16 @@
 {
-    "mot": "infirmier",
-    "theme": "metiers_lieux",
-    "pixabay_id": 1754324,
-    "author": "pcdazero",
-    "tags": "sauveteur, ambulance, infirmier, porter secours, van, ouvert, urgence, ambulance, ambulance, ambulance, ambulance, ambulance, infirmier",
-    "syllabes": [
-        "in",
-        "fir",
-        "mier"
-    ],
-    "syllabes_texte": "in - fir - mier",
-    "image_path": "assets/images/metiers_lieux/infirmier.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "infirmier",
+  "theme": "metiers_lieux",
+  "pixabay_id": 1754324,
+  "author": "pcdazero",
+  "tags": "sauveteur, ambulance, infirmier, porter secours, van, ouvert, urgence, ambulance, ambulance, ambulance, ambulance, ambulance, infirmier",
+  "syllabes": [
+    "in",
+    "fir",
+    "mier"
+  ],
+  "syllabes_texte": "in-fir-mier",
+  "image_path": "assets/images/metiers_lieux/infirmier.jpg",
+  "level": 1,
+  "success_count": 0
 }

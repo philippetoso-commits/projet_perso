@@ -1,15 +1,15 @@
 {
-    "mot": "chaussette",
-    "theme": "vetements",
-    "pixabay_id": 4424190,
-    "author": "mac231",
-    "tags": "odd socks, chaussette, chaussettes différentes, décalage, incompatible, perdu, se ruer, impair, vêtements, s'habiller, mix-up, désordre, jambes, veaux, pieds, bleu chaussette, repéré chaussette, chaussette, chaussette, chaussette, chaussette, chaussette, s'habiller",
-    "syllabes": [
-        "chaus",
-        "sette"
-    ],
-    "syllabes_texte": "chaus - sette",
-    "image_path": "assets/images/vetements/chaussette.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "chaussette",
+  "theme": "vetements",
+  "pixabay_id": 4424190,
+  "author": "mac231",
+  "tags": "odd socks, chaussette, chaussettes différentes, décalage, incompatible, perdu, se ruer, impair, vêtements, s'habiller, mix-up, désordre, jambes, veaux, pieds, bleu chaussette, repéré chaussette, chaussette, chaussette, chaussette, chaussette, chaussette, s'habiller",
+  "syllabes": [
+    "chaus",
+    "sette"
+  ],
+  "syllabes_texte": "chaus-sette",
+  "image_path": "assets/images/vetements/chaussette.jpg",
+  "level": 1,
+  "success_count": 0
 }

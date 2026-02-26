@@ -1,14 +1,15 @@
 {
-    "mot": "colle",
-    "theme": "ecole",
-    "pixabay_id": 574016,
-    "author": "Counselling",
-    "tags": "bâton de colle, séminaire, bureau, prittstift, adhésif, la colle",
-    "syllabes": [
-        "colle"
-    ],
-    "syllabes_texte": "colle",
-    "image_path": "assets/images/ecole/colle.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "colle",
+  "theme": "ecole",
+  "pixabay_id": 574016,
+  "author": "Counselling",
+  "tags": "bâton de colle, séminaire, bureau, prittstift, adhésif, la colle",
+  "syllabes": [
+    "co",
+    "lle"
+  ],
+  "syllabes_texte": "co-lle",
+  "image_path": "assets/images/ecole/colle.jpg",
+  "level": 1,
+  "success_count": 0
 }

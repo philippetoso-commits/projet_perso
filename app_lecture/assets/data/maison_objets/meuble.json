@@ -1,14 +1,15 @@
 {
-    "mot": "meuble",
-    "theme": "maison_objets",
-    "pixabay_id": 7951845,
-    "author": "jhenning",
-    "tags": "chaises, un meuble, lignes, conférence",
-    "syllabes": [
-        "meuble"
-    ],
-    "syllabes_texte": "meuble",
-    "image_path": "assets/images/maison_objets/meuble.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "meuble",
+  "theme": "maison_objets",
+  "pixabay_id": 7951845,
+  "author": "jhenning",
+  "tags": "chaises, un meuble, lignes, conférence",
+  "syllabes": [
+    "meu",
+    "ble"
+  ],
+  "syllabes_texte": "meu-ble",
+  "image_path": "assets/images/maison_objets/meuble.jpg",
+  "level": 1,
+  "success_count": 0
 }

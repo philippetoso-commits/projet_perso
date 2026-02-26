@@ -1,16 +1,16 @@
 {
-    "mot": "trottinette",
-    "theme": "transport",
-    "pixabay_id": 7340440,
-    "author": "dimitrisvetsikas1969",
-    "tags": "trottinettes électriques, scooters électriques, transport, véhicules, rue, trottinette, trottinette, trottinette, trottinette, trottinette, trottinette",
-    "syllabes": [
-        "trot",
-        "ti",
-        "nette"
-    ],
-    "syllabes_texte": "trot - ti - nette",
-    "image_path": "assets/images/transport/trottinette.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "trottinette",
+  "theme": "transport",
+  "pixabay_id": 7340440,
+  "author": "dimitrisvetsikas1969",
+  "tags": "trottinettes électriques, scooters électriques, transport, véhicules, rue, trottinette, trottinette, trottinette, trottinette, trottinette, trottinette",
+  "syllabes": [
+    "trot",
+    "ti",
+    "nette"
+  ],
+  "syllabes_texte": "trot-ti-nette",
+  "image_path": "assets/images/transport/trottinette.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,16 +1,16 @@
 {
-    "mot": "parapluie",
-    "theme": "maison_objets",
-    "pixabay_id": 65380,
-    "author": "mikuratv",
-    "tags": "parapluie, parasol, parapluie japonais, parasol en papier, parapluie rouge, parapluie traditionnel, parapluie, parapluie, parapluie, parapluie, parapluie, parasol, parasol",
-    "syllabes": [
-        "pa",
-        "ra",
-        "pluie"
-    ],
-    "syllabes_texte": "pa - ra - pluie",
-    "image_path": "assets/images/maison_objets/parapluie.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "parapluie",
+  "theme": "maison_objets",
+  "pixabay_id": 65380,
+  "author": "mikuratv",
+  "tags": "parapluie, parasol, parapluie japonais, parasol en papier, parapluie rouge, parapluie traditionnel, parapluie, parapluie, parapluie, parapluie, parapluie, parasol, parasol",
+  "syllabes": [
+    "pa",
+    "ra",
+    "pluie"
+  ],
+  "syllabes_texte": "pa-ra-pluie",
+  "image_path": "assets/images/maison_objets/parapluie.jpg",
+  "level": 1,
+  "success_count": 0
 }

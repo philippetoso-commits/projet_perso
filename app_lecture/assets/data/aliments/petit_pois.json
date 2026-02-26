@@ -1,16 +1,15 @@
 {
-    "mot": "petit pois",
-    "theme": "aliments",
-    "pixabay_id": 547511,
-    "author": "congerdesign",
-    "tags": "repas, les carottes, petit pois, en bonne santé, naturellement, légumes surgelés, cuisiner, plaque, repas, repas, les carottes, les carottes, petit pois, petit pois, petit pois, légumes surgelés, légumes surgelés, légumes surgelés, légumes surgelés, légumes surgelés, cuisiner, plaque",
-    "syllabes": [
-        "pe",
-        "tit ",
-        "pois"
-    ],
-    "syllabes_texte": "pe - tit  - pois",
-    "image_path": "assets/images/aliments/petit_pois.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "petit pois",
+  "theme": "aliments",
+  "pixabay_id": 547511,
+  "author": "congerdesign",
+  "tags": "repas, les carottes, petit pois, en bonne santé, naturellement, légumes surgelés, cuisiner, plaque, repas, repas, les carottes, les carottes, petit pois, petit pois, petit pois, légumes surgelés, légumes surgelés, légumes surgelés, légumes surgelés, légumes surgelés, cuisiner, plaque",
+  "syllabes": [
+    "pe",
+    "tit pois"
+  ],
+  "syllabes_texte": "pe-tit pois",
+  "image_path": "assets/images/aliments/petit_pois.jpg",
+  "level": 1,
+  "success_count": 0
 }

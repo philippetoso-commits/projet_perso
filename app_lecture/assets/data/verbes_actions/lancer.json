@@ -1,15 +1,15 @@
 {
-    "mot": "lancer",
-    "theme": "verbes_actions",
-    "pixabay_id": 6781567,
-    "author": "Tove85",
-    "tags": "lancer, pierre, coloré, nuit, été, nature, archipel",
-    "syllabes": [
-        "lan",
-        "cer"
-    ],
-    "syllabes_texte": "lan - cer",
-    "image_path": "assets/images/verbes_actions/lancer.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "lancer",
+  "theme": "verbes_actions",
+  "pixabay_id": 6781567,
+  "author": "Tove85",
+  "tags": "lancer, pierre, coloré, nuit, été, nature, archipel",
+  "syllabes": [
+    "lan",
+    "cer"
+  ],
+  "syllabes_texte": "lan-cer",
+  "image_path": "assets/images/verbes_actions/lancer.jpg",
+  "level": 1,
+  "success_count": 0
 }

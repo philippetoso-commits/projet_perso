@@ -1,16 +1,17 @@
 {
-    "mot": "liasse",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 3565705,
-    "author": "HeungSoon",
-    "tags": "don, argent, appel, la finance, en espèces, l'investissement, propriété, économie, banque, paiement, marché, fonds, dès maintenant, prêts, stock, achats, république de corée, argent coréen, une liasse d'argent",
-    "syllabes": [
-        "liasse"
-    ],
-    "syllabes_texte": "liasse",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/liasse.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 952670,
-    "photographer": "Daniel Absi"
+  "mot": "liasse",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 3565705,
+  "author": "HeungSoon",
+  "tags": "don, argent, appel, la finance, en espèces, l'investissement, propriété, économie, banque, paiement, marché, fonds, dès maintenant, prêts, stock, achats, république de corée, argent coréen, une liasse d'argent",
+  "syllabes": [
+    "lia",
+    "sse"
+  ],
+  "syllabes_texte": "lia-sse",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/liasse.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 952670,
+  "photographer": "Daniel Absi"
 }

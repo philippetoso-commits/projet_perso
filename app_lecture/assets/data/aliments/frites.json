@@ -1,14 +1,15 @@
 {
-    "mot": "frites",
-    "theme": "aliments",
-    "pixabay_id": 1842294,
-    "author": "Pexels",
-    "tags": "bol, fries français, aliments, frites, pommes de terre frites, fast food, frit, friture, manger, sarriette, la photographie culinaire, frites, frites, frites, frites, frites",
-    "syllabes": [
-        "frites"
-    ],
-    "syllabes_texte": "frites",
-    "image_path": "assets/images/aliments/frites.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "frités",
+  "theme": "aliments",
+  "pixabay_id": 1842294,
+  "author": "Pexels",
+  "tags": "bol, fries français, aliments, frites, pommes de terre frites, fast food, frit, friture, manger, sarriette, la photographie culinaire, frites, frites, frites, frites, frites",
+  "syllabes": [
+    "fri",
+    "tés"
+  ],
+  "syllabes_texte": "fri-tés",
+  "image_path": "assets/images/aliments/frites.jpg",
+  "level": 1,
+  "success_count": 0
 }

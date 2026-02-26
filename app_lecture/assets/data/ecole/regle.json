@@ -1,14 +1,15 @@
 {
-    "mot": "regle",
-    "theme": "ecole",
-    "pixabay_id": 2643192,
-    "author": "paulclee",
-    "tags": "vie, des règles, livre, les règles de la vie, livre de règle, tome",
-    "syllabes": [
-        "regle"
-    ],
-    "syllabes_texte": "regle",
-    "image_path": "assets/images/ecole/regle.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "règle",
+  "theme": "ecole",
+  "pixabay_id": 2643192,
+  "author": "paulclee",
+  "tags": "vie, des règles, livre, les règles de la vie, livre de règle, tome",
+  "syllabes": [
+    "rè",
+    "gle"
+  ],
+  "syllabes_texte": "rè-gle",
+  "image_path": "assets/images/ecole/regle.jpg",
+  "level": 1,
+  "success_count": 0
 }

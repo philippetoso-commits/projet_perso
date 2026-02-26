@@ -1,15 +1,15 @@
 {
-    "mot": "radis",
-    "theme": "aliments",
-    "pixabay_id": 1870017,
-    "author": "Pexels",
-    "tags": "agriculture, un radis, aliments, légume frais, jardin, croissance, main, récolter, peu, nature, plantes, légume, agriculture, un radis, un radis, un radis, jardin, main, main, main, main, main, peu, légume",
-    "syllabes": [
-        "ra",
-        "dis"
-    ],
-    "syllabes_texte": "ra - dis",
-    "image_path": "assets/images/aliments/radis.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "radis",
+  "theme": "aliments",
+  "pixabay_id": 1870017,
+  "author": "Pexels",
+  "tags": "agriculture, un radis, aliments, légume frais, jardin, croissance, main, récolter, peu, nature, plantes, légume, agriculture, un radis, un radis, un radis, jardin, main, main, main, main, main, peu, légume",
+  "syllabes": [
+    "ra",
+    "dis"
+  ],
+  "syllabes_texte": "ra-dis",
+  "image_path": "assets/images/aliments/radis.jpg",
+  "level": 1,
+  "success_count": 0
 }

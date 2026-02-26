@@ -1,15 +1,16 @@
 {
-    "mot": "vinaigre",
-    "theme": "aliments",
-    "pixabay_id": 5713290,
-    "author": "fotoblend",
-    "tags": "feuilles, arbre à vinaigre, tombe, branche, arbre, plante, sumac lisse, rhus glabra, flore, la nature, fermer",
-    "syllabes": [
-        "vi",
-        "naigre"
-    ],
-    "syllabes_texte": "vi - naigre",
-    "image_path": "assets/images/aliments/vinaigre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "vinaigre",
+  "theme": "aliments",
+  "pixabay_id": 5713290,
+  "author": "fotoblend",
+  "tags": "feuilles, arbre à vinaigre, tombe, branche, arbre, plante, sumac lisse, rhus glabra, flore, la nature, fermer",
+  "syllabes": [
+    "vi",
+    "nai",
+    "gre"
+  ],
+  "syllabes_texte": "vi-nai-gre",
+  "image_path": "assets/images/aliments/vinaigre.jpg",
+  "level": 1,
+  "success_count": 0
 }

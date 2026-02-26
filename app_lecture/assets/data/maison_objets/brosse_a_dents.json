@@ -1,16 +1,17 @@
 {
-    "mot": "brosse a dents",
-    "theme": "maison_objets",
-    "pixabay_id": 3337085,
-    "author": "jennyfriedrichs",
-    "tags": "fille, les dents, brosser les dents, soigner les dents, dentisterie, bouche, brossage de dents, nettoyer, le sourire, hygiène dentaire, hygiène, brosse à dents, enfants, tête de brosse à dents, enfant, gens, a, portrait, mignonne, pension, assurance, assurance santé, dentiers",
-    "syllabes": [
-        "bros",
-        "se a ",
-        "dents"
-    ],
-    "syllabes_texte": "bros - se a  - dents",
-    "image_path": "assets/images/maison_objets/brosse_a_dents.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "brosse a dents",
+  "theme": "maison_objets",
+  "pixabay_id": 3337085,
+  "author": "jennyfriedrichs",
+  "tags": "fille, les dents, brosser les dents, soigner les dents, dentisterie, bouche, brossage de dents, nettoyer, le sourire, hygiène dentaire, hygiène, brosse à dents, enfants, tête de brosse à dents, enfant, gens, a, portrait, mignonne, pension, assurance, assurance santé, dentiers",
+  "syllabes": [
+    "bro",
+    "sse",
+    "a",
+    "dents"
+  ],
+  "syllabes_texte": "bro-sse-a-dents",
+  "image_path": "assets/images/maison_objets/brosse_a_dents.jpg",
+  "level": 1,
+  "success_count": 0
 }

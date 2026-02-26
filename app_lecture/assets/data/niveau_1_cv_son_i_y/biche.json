@@ -1,16 +1,17 @@
 {
-    "mot": "biche",
-    "theme": "niveau_1_cv_son_i_y",
-    "pixabay_id": 5508334,
-    "author": "NinaCzapska",
-    "tags": "biche, cerf, troupeau, nature, animaux, forêt, chasse, biche, biche, biche, biche, biche",
-    "syllabes": [
-        "biche"
-    ],
-    "syllabes_texte": "biche",
-    "image_path": "assets/images/niveau_1_cv_son_i_y/biche.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 13956659,
-    "photographer": "Braven Nguyen"
+  "mot": "biche",
+  "theme": "niveau_1_cv_son_i_y",
+  "pixabay_id": 5508334,
+  "author": "NinaCzapska",
+  "tags": "biche, cerf, troupeau, nature, animaux, forêt, chasse, biche, biche, biche, biche, biche",
+  "syllabes": [
+    "bi",
+    "che"
+  ],
+  "syllabes_texte": "bi-che",
+  "image_path": "assets/images/niveau_1_cv_son_i_y/biche.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 13956659,
+  "photographer": "Braven Nguyen"
 }

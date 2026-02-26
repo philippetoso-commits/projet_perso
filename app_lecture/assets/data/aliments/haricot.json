@@ -1,16 +1,16 @@
 {
-    "mot": "haricot",
-    "theme": "aliments",
-    "pixabay_id": 3707045,
-    "author": "Couleur",
-    "tags": "haricot, feuilles, plantes, tombe, haricot commun, nervures des feuilles, feuillage, automne, nature, rétro-éclairage, fermer",
-    "syllabes": [
-        "ha",
-        "ri",
-        "cot"
-    ],
-    "syllabes_texte": "ha - ri - cot",
-    "image_path": "assets/images/aliments/haricot.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "haricot",
+  "theme": "aliments",
+  "pixabay_id": 3707045,
+  "author": "Couleur",
+  "tags": "haricot, feuilles, plantes, tombe, haricot commun, nervures des feuilles, feuillage, automne, nature, rétro-éclairage, fermer",
+  "syllabes": [
+    "ha",
+    "ri",
+    "cot"
+  ],
+  "syllabes_texte": "ha-ri-cot",
+  "image_path": "assets/images/aliments/haricot.jpg",
+  "level": 1,
+  "success_count": 0
 }

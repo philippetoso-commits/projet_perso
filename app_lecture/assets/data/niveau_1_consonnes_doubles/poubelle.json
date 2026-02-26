@@ -1,17 +1,17 @@
 {
-    "mot": "poubelle",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 8003640,
-    "author": "sdg_Rai",
-    "tags": "route, poubelle, vietnam, hanoi, lac de l'épée, photographie de rue, noir et blanc",
-    "syllabes": [
-        "pou",
-        "belle"
-    ],
-    "syllabes_texte": "pou - belle",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/poubelle.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 2952809,
-    "photographer": "Lisa from Pexels"
+  "mot": "poubelle",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 8003640,
+  "author": "sdg_Rai",
+  "tags": "route, poubelle, vietnam, hanoi, lac de l'épée, photographie de rue, noir et blanc",
+  "syllabes": [
+    "pou",
+    "belle"
+  ],
+  "syllabes_texte": "pou-belle",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/poubelle.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 2952809,
+  "photographer": "Lisa from Pexels"
 }

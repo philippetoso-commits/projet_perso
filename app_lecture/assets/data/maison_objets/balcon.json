@@ -1,15 +1,15 @@
 {
-    "mot": "balcon",
-    "theme": "maison_objets",
-    "pixabay_id": 7396948,
-    "author": "friday2022",
-    "tags": "femme, bâtiments anciens, élément chinois, lanterne, balcon",
-    "syllabes": [
-        "bal",
-        "con"
-    ],
-    "syllabes_texte": "bal - con",
-    "image_path": "assets/images/maison_objets/balcon.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "balcon",
+  "theme": "maison_objets",
+  "pixabay_id": 7396948,
+  "author": "friday2022",
+  "tags": "femme, bâtiments anciens, élément chinois, lanterne, balcon",
+  "syllabes": [
+    "bal",
+    "con"
+  ],
+  "syllabes_texte": "bal-con",
+  "image_path": "assets/images/maison_objets/balcon.jpg",
+  "level": 1,
+  "success_count": 0
 }

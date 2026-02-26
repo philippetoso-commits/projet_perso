@@ -1,14 +1,15 @@
 {
-    "mot": "poule",
-    "theme": "animaux",
-    "pixabay_id": 1867521,
-    "author": "Pexels",
-    "tags": "poulet, poule, des œufs, la volaille, animal, grange, nature, oiseau, cultiver, bétail, la sauvagine, animaux de ferme, nid, imbrication, oeufs de poule",
-    "syllabes": [
-        "poule"
-    ],
-    "syllabes_texte": "poule",
-    "image_path": "assets/images/animaux/poule.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "poule",
+  "theme": "animaux",
+  "pixabay_id": 1867521,
+  "author": "Pexels",
+  "tags": "poulet, poule, des œufs, la volaille, animal, grange, nature, oiseau, cultiver, bétail, la sauvagine, animaux de ferme, nid, imbrication, oeufs de poule",
+  "syllabes": [
+    "pou",
+    "le"
+  ],
+  "syllabes_texte": "pou-le",
+  "image_path": "assets/images/animaux/poule.jpg",
+  "level": 1,
+  "success_count": 0
 }

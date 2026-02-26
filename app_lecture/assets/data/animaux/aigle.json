@@ -1,14 +1,15 @@
 {
-    "mot": "aigle",
-    "theme": "animaux",
-    "pixabay_id": 7555959,
-    "author": "sharkolot",
-    "tags": "aigle d'or, aigle, oiseau, nature, rapace, animal, faune, ornithologie, aigle, aigle, aigle, aigle, aigle, oiseau",
-    "syllabes": [
-        "aigle"
-    ],
-    "syllabes_texte": "aigle",
-    "image_path": "assets/images/animaux/aigle.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "aigle",
+  "theme": "animaux",
+  "pixabay_id": 7555959,
+  "author": "sharkolot",
+  "tags": "aigle d'or, aigle, oiseau, nature, rapace, animal, faune, ornithologie, aigle, aigle, aigle, aigle, aigle, oiseau",
+  "syllabes": [
+    "ai",
+    "gle"
+  ],
+  "syllabes_texte": "ai-gle",
+  "image_path": "assets/images/animaux/aigle.jpg",
+  "level": 1,
+  "success_count": 0
 }

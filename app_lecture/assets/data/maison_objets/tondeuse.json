@@ -1,15 +1,16 @@
 {
-    "mot": "tondeuse",
-    "theme": "maison_objets",
-    "pixabay_id": 384589,
-    "author": "ClickerHappy",
-    "tags": "tondeuse à gazon, gazon, jardin, cour avant, jardinage, châssis de tondeuse à gazon, pelouse, coupe, jardinier, équipement, nature, machine, arrière-cour, tondeuse, maintenance, cour",
-    "syllabes": [
-        "ton",
-        "deuse"
-    ],
-    "syllabes_texte": "ton - deuse",
-    "image_path": "assets/images/maison_objets/tondeuse.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "tondeuse",
+  "theme": "maison_objets",
+  "pixabay_id": 384589,
+  "author": "ClickerHappy",
+  "tags": "tondeuse à gazon, gazon, jardin, cour avant, jardinage, châssis de tondeuse à gazon, pelouse, coupe, jardinier, équipement, nature, machine, arrière-cour, tondeuse, maintenance, cour",
+  "syllabes": [
+    "ton",
+    "deu",
+    "se"
+  ],
+  "syllabes_texte": "ton-deu-se",
+  "image_path": "assets/images/maison_objets/tondeuse.jpg",
+  "level": 1,
+  "success_count": 0
 }

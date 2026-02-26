@@ -1,14 +1,15 @@
 {
-    "mot": "ecrire",
-    "theme": "verbes_actions",
-    "pixabay_id": 8622984,
-    "author": "Tama66",
-    "tags": "machine à écrire, écrire, vieille, ancien, auteur, écrivain, rétro, sagesse, papier",
-    "syllabes": [
-        "ecrire"
-    ],
-    "syllabes_texte": "ecrire",
-    "image_path": "assets/images/verbes_actions/ecrire.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "écrire",
+  "theme": "verbes_actions",
+  "pixabay_id": 8622984,
+  "author": "Tama66",
+  "tags": "machine à écrire, écrire, vieille, ancien, auteur, écrivain, rétro, sagesse, papier",
+  "syllabes": [
+    "é",
+    "crire"
+  ],
+  "syllabes_texte": "é-crire",
+  "image_path": "assets/images/verbes_actions/ecrire.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,17 +1,17 @@
 {
-    "mot": "roti",
-    "theme": "niveau_1_cv_son_o",
-    "pixabay_id": 6303131,
-    "author": "KavindaF",
-    "tags": "pol roti, aliments, assiette, asiatique, sri lankais, cuisine, roti de noix de coco, flatbread, pain, petit déjeuner, lunu miris, repas, traditionnel, délicieux, mise à plat, vue de dessus",
-    "syllabes": [
-        "ro",
-        "ti"
-    ],
-    "syllabes_texte": "ro - ti",
-    "image_path": "assets/images/niveau_1_cv_son_o/roti.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 4820730,
-    "photographer": "cottonbro studio"
+  "mot": "rôti",
+  "theme": "niveau_1_cv_son_o",
+  "pixabay_id": 6303131,
+  "author": "KavindaF",
+  "tags": "pol roti, aliments, assiette, asiatique, sri lankais, cuisine, roti de noix de coco, flatbread, pain, petit déjeuner, lunu miris, repas, traditionnel, délicieux, mise à plat, vue de dessus",
+  "syllabes": [
+    "rô",
+    "ti"
+  ],
+  "syllabes_texte": "rô-ti",
+  "image_path": "assets/images/niveau_1_cv_son_o/roti.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 4820730,
+  "photographer": "cottonbro studio"
 }

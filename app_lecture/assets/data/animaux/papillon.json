@@ -1,15 +1,16 @@
 {
-    "mot": "papillon",
-    "theme": "animaux",
-    "pixabay_id": 8563213,
-    "author": "Gab-Rysia",
-    "tags": "papillon, insecte, papillon panaché de rouge, macro, papillon de nuit, nature",
-    "syllabes": [
-        "pa",
-        "pillon"
-    ],
-    "syllabes_texte": "pa - pillon",
-    "image_path": "assets/images/animaux/papillon.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "papillon",
+  "theme": "animaux",
+  "pixabay_id": 8563213,
+  "author": "Gab-Rysia",
+  "tags": "papillon, insecte, papillon panaché de rouge, macro, papillon de nuit, nature",
+  "syllabes": [
+    "pa",
+    "pi",
+    "llon"
+  ],
+  "syllabes_texte": "pa-pi-llon",
+  "image_path": "assets/images/animaux/papillon.jpg",
+  "level": 1,
+  "success_count": 0
 }

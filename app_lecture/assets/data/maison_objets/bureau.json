@@ -1,15 +1,15 @@
 {
-    "mot": "bureau",
-    "theme": "maison_objets",
-    "pixabay_id": 730681,
-    "author": "MagicDesk",
-    "tags": "bureau, salon, exécutif, entreprise, lieu de travail, un meuble, table, intérieurs de bureau, design d'intérieur, décoration d'intérieur, mobilier de bureau, bureau, bureau, bureau, bureau, bureau, entreprise",
-    "syllabes": [
-        "bu",
-        "reau"
-    ],
-    "syllabes_texte": "bu - reau",
-    "image_path": "assets/images/maison_objets/bureau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "bureau",
+  "theme": "maison_objets",
+  "pixabay_id": 730681,
+  "author": "MagicDesk",
+  "tags": "bureau, salon, exécutif, entreprise, lieu de travail, un meuble, table, intérieurs de bureau, design d'intérieur, décoration d'intérieur, mobilier de bureau, bureau, bureau, bureau, bureau, bureau, entreprise",
+  "syllabes": [
+    "bur",
+    "eau"
+  ],
+  "syllabes_texte": "bur-eau",
+  "image_path": "assets/images/maison_objets/bureau.jpg",
+  "level": 1,
+  "success_count": 0
 }

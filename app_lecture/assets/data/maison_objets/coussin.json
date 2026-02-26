@@ -1,15 +1,15 @@
 {
-    "mot": "coussin",
-    "theme": "maison_objets",
-    "pixabay_id": 4250085,
-    "author": "almapapi",
-    "tags": "livres, cozy, coussin, plantes, livres sur la photographie, nature, conception, domicile, décoration, balcon, nature morte",
-    "syllabes": [
-        "cous",
-        "sin"
-    ],
-    "syllabes_texte": "cous - sin",
-    "image_path": "assets/images/maison_objets/coussin.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "coussin",
+  "theme": "maison_objets",
+  "pixabay_id": 4250085,
+  "author": "almapapi",
+  "tags": "livres, cozy, coussin, plantes, livres sur la photographie, nature, conception, domicile, décoration, balcon, nature morte",
+  "syllabes": [
+    "cou",
+    "ssin"
+  ],
+  "syllabes_texte": "cou-ssin",
+  "image_path": "assets/images/maison_objets/coussin.jpg",
+  "level": 1,
+  "success_count": 0
 }

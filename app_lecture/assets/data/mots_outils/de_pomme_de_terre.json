@@ -1,14 +1,14 @@
 {
-    "mot": "Pomme de terre",
-    "syllabes": [
-        "pom",
-        "me",
-        "de",
-        "ter",
-        "re"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/aliments/pomme_de_terre.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "pomme de terré",
+  "syllabes": [
+    "pom",
+    "me",
+    "de",
+    "ter",
+    "re"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/aliments/pomme_de_terre.jpg",
+  "level": 4,
+  "success_count": 0
 }

@@ -1,15 +1,17 @@
 {
-    "mot": "taille-crayon",
-    "theme": "ecole",
-    "pixabay_id": 5055481,
-    "author": "HOerwin56",
-    "tags": "crayon, taille-crayon, taille crayon, bureau, école",
-    "syllabes": [
-        "taille",
-        "crayon"
-    ],
-    "syllabes_texte": "taille - crayon",
-    "image_path": "assets/images/ecole/taille-crayon.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "taille-crayon",
+  "theme": "ecole",
+  "pixabay_id": 5055481,
+  "author": "HOerwin56",
+  "tags": "crayon, taille-crayon, taille crayon, bureau, école",
+  "syllabes": [
+    "tail",
+    "le",
+    "cray",
+    "on"
+  ],
+  "syllabes_texte": "tail-le-cray-on",
+  "image_path": "assets/images/ecole/taille-crayon.jpg",
+  "level": 1,
+  "success_count": 0
 }

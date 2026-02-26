@@ -1,11 +1,11 @@
 {
-    "mot": "Je mange",
-    "syllabes": [
-        "Je",
-        "mange"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/verbes_actions/manger.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "je mangé",
+  "syllabes": [
+    "Je",
+    "mange"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/verbes_actions/manger.jpg",
+  "level": 4,
+  "success_count": 0
 }

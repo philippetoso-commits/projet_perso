@@ -1,14 +1,15 @@
 {
-    "mot": "fraise",
-    "theme": "aliments",
-    "pixabay_id": 3501491,
-    "author": "Couleur",
-    "tags": "fraise, fraise sauvage, la nature, baie, fruit, fraisier, rouge, vitamines, frais, mignonne, l'été, feuilles, fraise, fraisier, fraisier, fraisier, fraisier, fraisier",
-    "syllabes": [
-        "fraise"
-    ],
-    "syllabes_texte": "fraise",
-    "image_path": "assets/images/aliments/fraise.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "fraise",
+  "theme": "aliments",
+  "pixabay_id": 3501491,
+  "author": "Couleur",
+  "tags": "fraise, fraise sauvage, la nature, baie, fruit, fraisier, rouge, vitamines, frais, mignonne, l'été, feuilles, fraise, fraisier, fraisier, fraisier, fraisier, fraisier",
+  "syllabes": [
+    "frai",
+    "se"
+  ],
+  "syllabes_texte": "frai-se",
+  "image_path": "assets/images/aliments/fraise.jpg",
+  "level": 1,
+  "success_count": 0
 }

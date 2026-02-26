@@ -1,14 +1,16 @@
 {
-    "mot": "ecole",
-    "theme": "ecole",
-    "pixabay_id": 3639603,
-    "author": "Sunriseforever",
-    "tags": "université, étudiants, étudiant, l'enseignement, éducation, l'école, jupe en cage, académie, ecole, diplôme, imeuble, diplômé",
-    "syllabes": [
-        "ecole"
-    ],
-    "syllabes_texte": "ecole",
-    "image_path": "assets/images/ecole/ecole.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "école",
+  "theme": "ecole",
+  "pixabay_id": 3639603,
+  "author": "Sunriseforever",
+  "tags": "université, étudiants, étudiant, l'enseignement, éducation, l'école, jupe en cage, académie, ecole, diplôme, imeuble, diplômé",
+  "syllabes": [
+    "é",
+    "co",
+    "le"
+  ],
+  "syllabes_texte": "é-co-le",
+  "image_path": "assets/images/ecole/ecole.jpg",
+  "level": 1,
+  "success_count": 0
 }

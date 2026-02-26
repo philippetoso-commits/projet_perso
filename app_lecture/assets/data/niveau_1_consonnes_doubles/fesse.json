@@ -1,16 +1,17 @@
 {
-    "mot": "fesse",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 1518445,
-    "author": "jaroas",
-    "tags": "tish, tosh, fesses",
-    "syllabes": [
-        "fesse"
-    ],
-    "syllabes_texte": "fesse",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/fesse.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 26841033,
-    "photographer": "Ruxanda Photography"
+  "mot": "fesse",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 1518445,
+  "author": "jaroas",
+  "tags": "tish, tosh, fesses",
+  "syllabes": [
+    "fe",
+    "sse"
+  ],
+  "syllabes_texte": "fe-sse",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/fesse.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 26841033,
+  "photographer": "Ruxanda Photography"
 }

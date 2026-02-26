@@ -1,15 +1,15 @@
 {
-    "mot": "cantine",
-    "theme": "ecole",
-    "pixabay_id": 1609795,
-    "author": "photosforyou",
-    "tags": "café, cantine, les tables, le restaurant, un meuble, bar, cantine, cantine, cantine, cantine, cantine",
-    "syllabes": [
-        "can",
-        "tine"
-    ],
-    "syllabes_texte": "can - tine",
-    "image_path": "assets/images/ecole/cantine.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "cantine",
+  "theme": "ecole",
+  "pixabay_id": 1609795,
+  "author": "photosforyou",
+  "tags": "café, cantine, les tables, le restaurant, un meuble, bar, cantine, cantine, cantine, cantine, cantine",
+  "syllabes": [
+    "can",
+    "tine"
+  ],
+  "syllabes_texte": "can-tine",
+  "image_path": "assets/images/ecole/cantine.jpg",
+  "level": 1,
+  "success_count": 0
 }

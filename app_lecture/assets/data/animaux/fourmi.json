@@ -1,15 +1,15 @@
 {
-    "mot": "fourmi",
-    "theme": "animaux",
-    "pixabay_id": 7114721,
-    "author": "aijouphotography",
-    "tags": "fourmi, insecte, feuilles, vert, forêt, nature",
-    "syllabes": [
-        "four",
-        "mi"
-    ],
-    "syllabes_texte": "four - mi",
-    "image_path": "assets/images/animaux/fourmi.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "fourmi",
+  "theme": "animaux",
+  "pixabay_id": 7114721,
+  "author": "aijouphotography",
+  "tags": "fourmi, insecte, feuilles, vert, forêt, nature",
+  "syllabes": [
+    "fou",
+    "rmi"
+  ],
+  "syllabes_texte": "fou-rmi",
+  "image_path": "assets/images/animaux/fourmi.jpg",
+  "level": 1,
+  "success_count": 0
 }

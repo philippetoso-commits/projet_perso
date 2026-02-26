@@ -1,15 +1,15 @@
 {
-    "mot": "sentir",
-    "theme": "verbes_actions",
-    "pixabay_id": 5274821,
-    "author": "Antonio_Cansino",
-    "tags": "canelle, la cannelle, épices, sentir, cuisine, ingrédients, pâtisserie, alimentaire, en bonne santé, assaisonnement, saison, puissance, canelle, canelle, canelle, canelle, canelle, la cannelle, épices, épices, épices, cuisine, cuisine, cuisine, pâtisserie, puissance, puissance, puissance",
-    "syllabes": [
-        "sen",
-        "tir"
-    ],
-    "syllabes_texte": "sen - tir",
-    "image_path": "assets/images/verbes_actions/sentir.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "sentir",
+  "theme": "verbes_actions",
+  "pixabay_id": 5274821,
+  "author": "Antonio_Cansino",
+  "tags": "canelle, la cannelle, épices, sentir, cuisine, ingrédients, pâtisserie, alimentaire, en bonne santé, assaisonnement, saison, puissance, canelle, canelle, canelle, canelle, canelle, la cannelle, épices, épices, épices, cuisine, cuisine, cuisine, pâtisserie, puissance, puissance, puissance",
+  "syllabes": [
+    "sen",
+    "tir"
+  ],
+  "syllabes_texte": "sen-tir",
+  "image_path": "assets/images/verbes_actions/sentir.jpg",
+  "level": 1,
+  "success_count": 0
 }

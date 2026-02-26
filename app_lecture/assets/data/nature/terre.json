@@ -1,14 +1,15 @@
 {
-    "mot": "terre",
-    "theme": "nature",
-    "pixabay_id": 5315602,
-    "author": "Lynniet17",
-    "tags": "jardin, mains de travail, saleté, mise à la terre, terre mère, les plantes, nature, plantation, journée de la terre",
-    "syllabes": [
-        "terre"
-    ],
-    "syllabes_texte": "terre",
-    "image_path": "assets/images/nature/terre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "terré",
+  "theme": "nature",
+  "pixabay_id": 5315602,
+  "author": "Lynniet17",
+  "tags": "jardin, mains de travail, saleté, mise à la terre, terre mère, les plantes, nature, plantation, journée de la terre",
+  "syllabes": [
+    "te",
+    "rré"
+  ],
+  "syllabes_texte": "te-rré",
+  "image_path": "assets/images/nature/terre.jpg",
+  "level": 1,
+  "success_count": 0
 }

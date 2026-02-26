@@ -1,15 +1,15 @@
 {
-    "mot": "baleine",
-    "theme": "animaux",
-    "pixabay_id": 8274342,
-    "author": "makabera",
-    "tags": "baleine, baleine à bosse, islande, animal, nature, faune",
-    "syllabes": [
-        "ba",
-        "leine"
-    ],
-    "syllabes_texte": "ba - leine",
-    "image_path": "assets/images/animaux/baleine.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "baleine",
+  "theme": "animaux",
+  "pixabay_id": 8274342,
+  "author": "makabera",
+  "tags": "baleine, baleine à bosse, islande, animal, nature, faune",
+  "syllabes": [
+    "ba",
+    "leine"
+  ],
+  "syllabes_texte": "ba-leine",
+  "image_path": "assets/images/animaux/baleine.jpg",
+  "level": 1,
+  "success_count": 0
 }

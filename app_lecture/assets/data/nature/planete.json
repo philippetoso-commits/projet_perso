@@ -1,15 +1,16 @@
 {
-    "mot": "planete",
-    "theme": "nature",
-    "pixabay_id": 2145899,
-    "author": "celiaphoto",
-    "tags": "pleine lune, planete, paysage, planete, planete, planete, planete, planete",
-    "syllabes": [
-        "pla",
-        "nete"
-    ],
-    "syllabes_texte": "pla - nete",
-    "image_path": "assets/images/nature/planete.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "planète",
+  "theme": "nature",
+  "pixabay_id": 2145899,
+  "author": "celiaphoto",
+  "tags": "pleine lune, planete, paysage, planete, planete, planete, planete, planete",
+  "syllabes": [
+    "pla",
+    "nè",
+    "te"
+  ],
+  "syllabes_texte": "pla-nè-te",
+  "image_path": "assets/images/nature/planete.jpg",
+  "level": 1,
+  "success_count": 0
 }

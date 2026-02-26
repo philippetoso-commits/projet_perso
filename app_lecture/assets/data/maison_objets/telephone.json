@@ -1,16 +1,16 @@
 {
-    "mot": "telephone",
-    "theme": "maison_objets",
-    "pixabay_id": 7977101,
-    "author": "Michael_Kastelic",
-    "tags": "femme, métro, l'architecture, des pistes, telephone d'urgence, chaise, berlin, noir et blanc",
-    "syllabes": [
-        "te",
-        "le",
-        "phone"
-    ],
-    "syllabes_texte": "te - le - phone",
-    "image_path": "assets/images/maison_objets/telephone.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "téléphone",
+  "theme": "maison_objets",
+  "pixabay_id": 7977101,
+  "author": "Michael_Kastelic",
+  "tags": "femme, métro, l'architecture, des pistes, telephone d'urgence, chaise, berlin, noir et blanc",
+  "syllabes": [
+    "té",
+    "lé",
+    "phone"
+  ],
+  "syllabes_texte": "té-lé-phone",
+  "image_path": "assets/images/maison_objets/telephone.jpg",
+  "level": 1,
+  "success_count": 0
 }

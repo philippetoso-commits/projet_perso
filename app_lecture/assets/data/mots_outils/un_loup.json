@@ -1,11 +1,12 @@
 {
-    "mot": "Un loup",
-    "syllabes": [
-        "Un",
-        "loup"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/animaux/loup.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "un loup",
+  "syllabes": [
+    "un",
+    "loup"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/animaux/loup.jpg",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "un-loup"
 }

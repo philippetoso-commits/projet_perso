@@ -1,16 +1,15 @@
 {
-    "mot": "perroquet",
-    "theme": "animaux",
-    "pixabay_id": 8368951,
-    "author": "ambquinn",
-    "tags": "perroquet, perruche, perruche moine, moine perroquet, perroquet quaker, psittacidés, nature, vrai perroquet, oiseau, aviaire, ornithologie, animal",
-    "syllabes": [
-        "per",
-        "ro",
-        "quet"
-    ],
-    "syllabes_texte": "per - ro - quet",
-    "image_path": "assets/images/animaux/perroquet.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "perroquet",
+  "theme": "animaux",
+  "pixabay_id": 8368951,
+  "author": "ambquinn",
+  "tags": "perroquet, perruche, perruche moine, moine perroquet, perroquet quaker, psittacidés, nature, vrai perroquet, oiseau, aviaire, ornithologie, animal",
+  "syllabes": [
+    "per",
+    "roquet"
+  ],
+  "syllabes_texte": "per-roquet",
+  "image_path": "assets/images/animaux/perroquet.jpg",
+  "level": 1,
+  "success_count": 0
 }

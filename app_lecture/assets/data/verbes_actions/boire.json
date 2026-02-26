@@ -1,14 +1,15 @@
 {
-    "mot": "boire",
-    "theme": "verbes_actions",
-    "pixabay_id": 7066308,
-    "author": "ArabicBrand",
-    "tags": "café, haricots, esspresso, boire, aromatique",
-    "syllabes": [
-        "boire"
-    ],
-    "syllabes_texte": "boire",
-    "image_path": "assets/images/verbes_actions/boire.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "boire",
+  "theme": "verbes_actions",
+  "pixabay_id": 7066308,
+  "author": "ArabicBrand",
+  "tags": "café, haricots, esspresso, boire, aromatique",
+  "syllabes": [
+    "boi",
+    "re"
+  ],
+  "syllabes_texte": "boi-re",
+  "image_path": "assets/images/verbes_actions/boire.jpg",
+  "level": 1,
+  "success_count": 0
 }

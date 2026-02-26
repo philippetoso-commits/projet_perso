@@ -1,16 +1,17 @@
 {
-    "mot": "botte",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 3194557,
-    "author": "MabelAmber",
-    "tags": "lierre, plantes, vigne, léche-botte, feuillage, feuilles, escalade, grimpeur, nature, croissance, lierre, lierre, lierre, lierre, lierre, vigne",
-    "syllabes": [
-        "botte"
-    ],
-    "syllabes_texte": "botte",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/botte.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 1467574,
-    "photographer": "Craig Adderley"
+  "mot": "botte",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 3194557,
+  "author": "MabelAmber",
+  "tags": "lierre, plantes, vigne, léche-botte, feuillage, feuilles, escalade, grimpeur, nature, croissance, lierre, lierre, lierre, lierre, lierre, vigne",
+  "syllabes": [
+    "bo",
+    "tte"
+  ],
+  "syllabes_texte": "bo-tte",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/botte.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 1467574,
+  "photographer": "Craig Adderley"
 }

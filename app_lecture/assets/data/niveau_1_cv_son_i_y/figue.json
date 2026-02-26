@@ -1,16 +1,17 @@
 {
-    "mot": "figue",
-    "theme": "niveau_1_cv_son_i_y",
-    "pixabay_id": 1620590,
-    "author": "Couleur",
-    "tags": "figues, lâche rouge, des fruits, sucré, figue, coupe transversale, moitiés, moitiés de figues, produire, biologique, en bonne santé, mûr, figues mûres, frais, figues fraîches, figues, figue, figue, figue, figue, figue",
-    "syllabes": [
-        "figue"
-    ],
-    "syllabes_texte": "figue",
-    "image_path": "assets/images/niveau_1_cv_son_i_y/figue.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 12488382,
-    "photographer": "Lidya Kohen"
+  "mot": "figue",
+  "theme": "niveau_1_cv_son_i_y",
+  "pixabay_id": 1620590,
+  "author": "Couleur",
+  "tags": "figues, lâche rouge, des fruits, sucré, figue, coupe transversale, moitiés, moitiés de figues, produire, biologique, en bonne santé, mûr, figues mûres, frais, figues fraîches, figues, figue, figue, figue, figue, figue",
+  "syllabes": [
+    "fi",
+    "gue"
+  ],
+  "syllabes_texte": "fi-gue",
+  "image_path": "assets/images/niveau_1_cv_son_i_y/figue.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 12488382,
+  "photographer": "Lidya Kohen"
 }

@@ -1,11 +1,13 @@
 {
-    "mot": "Une pomme",
-    "syllabes": [
-        "Une",
-        "pomme"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/aliments/pomme.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "une pomme",
+  "syllabes": [
+    "une",
+    "pom",
+    "me"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/aliments/pomme.jpg",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "une-pom-me"
 }

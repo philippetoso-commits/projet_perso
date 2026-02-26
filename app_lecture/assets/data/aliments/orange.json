@@ -1,14 +1,15 @@
 {
-    "mot": "orange",
-    "theme": "aliments",
-    "pixabay_id": 3063414,
-    "author": "kareni",
-    "tags": "fleur, plantes, rose, nature, une rose, jardin, orange, macro, fond d'écran fleur, magnifique, pétales, rose fond d'écran, orange nature, flower background, fleur d'oranger, rose orange, belles fleurs, orange beauté, jardin orange, plante orange, orange fond d'écran, orange jardinage, plantes orange, orange naturel",
-    "syllabes": [
-        "orange"
-    ],
-    "syllabes_texte": "orange",
-    "image_path": "assets/images/aliments/orange.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "orange",
+  "theme": "aliments",
+  "pixabay_id": 3063414,
+  "author": "kareni",
+  "tags": "fleur, plantes, rose, nature, une rose, jardin, orange, macro, fond d'écran fleur, magnifique, pétales, rose fond d'écran, orange nature, flower background, fleur d'oranger, rose orange, belles fleurs, orange beauté, jardin orange, plante orange, orange fond d'écran, orange jardinage, plantes orange, orange naturel",
+  "syllabes": [
+    "o",
+    "range"
+  ],
+  "syllabes_texte": "o-range",
+  "image_path": "assets/images/aliments/orange.jpg",
+  "level": 1,
+  "success_count": 0
 }

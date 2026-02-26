@@ -1,15 +1,15 @@
 {
-    "mot": "pousser",
-    "theme": "verbes_actions",
-    "pixabay_id": 2903812,
-    "author": "Firmanamff",
-    "tags": "kitty, pousser, cat, animal de compagnie, chaton, nature, mignonne, blanche, animal",
-    "syllabes": [
-        "pous",
-        "ser"
-    ],
-    "syllabes_texte": "pous - ser",
-    "image_path": "assets/images/verbes_actions/pousser.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pousser",
+  "theme": "verbes_actions",
+  "pixabay_id": 2903812,
+  "author": "Firmanamff",
+  "tags": "kitty, pousser, cat, animal de compagnie, chaton, nature, mignonne, blanche, animal",
+  "syllabes": [
+    "pou",
+    "sser"
+  ],
+  "syllabes_texte": "pou-sser",
+  "image_path": "assets/images/verbes_actions/pousser.jpg",
+  "level": 1,
+  "success_count": 0
 }

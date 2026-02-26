@@ -1,15 +1,15 @@
 {
-    "mot": "dauphin",
-    "theme": "animaux",
-    "pixabay_id": 7495772,
-    "author": "PeterG63",
-    "tags": "dauphin, nature, mer, éclaboussure, réflexion, ailette, atlantique",
-    "syllabes": [
-        "dau",
-        "phin"
-    ],
-    "syllabes_texte": "dau - phin",
-    "image_path": "assets/images/animaux/dauphin.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "dauphin",
+  "theme": "animaux",
+  "pixabay_id": 7495772,
+  "author": "PeterG63",
+  "tags": "dauphin, nature, mer, éclaboussure, réflexion, ailette, atlantique",
+  "syllabes": [
+    "dau",
+    "phin"
+  ],
+  "syllabes_texte": "dau-phin",
+  "image_path": "assets/images/animaux/dauphin.jpg",
+  "level": 1,
+  "success_count": 0
 }

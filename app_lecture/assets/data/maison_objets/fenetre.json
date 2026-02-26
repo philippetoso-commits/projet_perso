@@ -1,15 +1,16 @@
 {
-    "mot": "fenetre",
-    "theme": "maison_objets",
-    "pixabay_id": 1892053,
-    "author": "chpierard",
-    "tags": "fenetre, fenêtres, jouets, poupée, balançoire, jouet, démodé",
-    "syllabes": [
-        "fe",
-        "netre"
-    ],
-    "syllabes_texte": "fe - netre",
-    "image_path": "assets/images/maison_objets/fenetre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "fenêtre",
+  "theme": "maison_objets",
+  "pixabay_id": 1892053,
+  "author": "chpierard",
+  "tags": "fenetre, fenêtres, jouets, poupée, balançoire, jouet, démodé",
+  "syllabes": [
+    "fe",
+    "nê",
+    "tre"
+  ],
+  "syllabes_texte": "fe-nê-tre",
+  "image_path": "assets/images/maison_objets/fenetre.jpg",
+  "level": 1,
+  "success_count": 0
 }

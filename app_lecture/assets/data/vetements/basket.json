@@ -1,15 +1,15 @@
 {
-    "mot": "basket",
-    "theme": "vetements",
-    "pixabay_id": 108622,
-    "author": "12019",
-    "tags": "basketball, en jouant, silhouette, bague de basket, balle, jeu, des sports, joueurs, équipe, basketball, basketball, basketball, basketball, basketball, équipe",
-    "syllabes": [
-        "bas",
-        "ket"
-    ],
-    "syllabes_texte": "bas - ket",
-    "image_path": "assets/images/vetements/basket.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "basket",
+  "theme": "vetements",
+  "pixabay_id": 108622,
+  "author": "12019",
+  "tags": "basketball, en jouant, silhouette, bague de basket, balle, jeu, des sports, joueurs, équipe, basketball, basketball, basketball, basketball, basketball, équipe",
+  "syllabes": [
+    "bas",
+    "ket"
+  ],
+  "syllabes_texte": "bas-ket",
+  "image_path": "assets/images/vetements/basket.jpg",
+  "level": 1,
+  "success_count": 0
 }

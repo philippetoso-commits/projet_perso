@@ -1,12 +1,13 @@
 {
-    "mot": "Dans le bus",
-    "syllabes": [
-        "Dans",
-        "le",
-        "bus"
-    ],
-    "theme": "mots_outils",
-    "image_path": "assets/images/transport/bus.jpg",
-    "level": 4,
-    "success_count": 0
+  "mot": "dans le bus",
+  "syllabes": [
+    "dans",
+    "le",
+    "bus"
+  ],
+  "theme": "mots_outils",
+  "image_path": "assets/images/transport/bus.jpg",
+  "level": 4,
+  "success_count": 0,
+  "syllabes_texte": "dans-le-bus"
 }

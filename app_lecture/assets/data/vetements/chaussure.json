@@ -1,15 +1,15 @@
 {
-    "mot": "chaussure",
-    "theme": "vetements",
-    "pixabay_id": 6701631,
-    "author": "cosmistic",
-    "tags": "les chaussures, chaussure, mode, talons hauts, chaussure, chaussure, chaussure, chaussure, chaussure",
-    "syllabes": [
-        "chaus",
-        "sure"
-    ],
-    "syllabes_texte": "chaus - sure",
-    "image_path": "assets/images/vetements/chaussure.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "chaussure",
+  "theme": "vetements",
+  "pixabay_id": 6701631,
+  "author": "cosmistic",
+  "tags": "les chaussures, chaussure, mode, talons hauts, chaussure, chaussure, chaussure, chaussure, chaussure",
+  "syllabes": [
+    "chaus",
+    "sure"
+  ],
+  "syllabes_texte": "chaus-sure",
+  "image_path": "assets/images/vetements/chaussure.jpg",
+  "level": 1,
+  "success_count": 0
 }

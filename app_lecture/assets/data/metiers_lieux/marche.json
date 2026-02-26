@@ -1,14 +1,15 @@
 {
-    "mot": "marche",
-    "theme": "metiers_lieux",
-    "pixabay_id": 5751722,
-    "author": "ranerd",
-    "tags": "créatif, blanche, homme, l'architecture, façade, moderne, résumé, ouvrages d'art, texture, marcher, en marchant, homme qui marche, architecture contemporaine, architecture moderne",
-    "syllabes": [
-        "marche"
-    ],
-    "syllabes_texte": "marche",
-    "image_path": "assets/images/metiers_lieux/marche.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "marché",
+  "theme": "metiers_lieux",
+  "pixabay_id": 5751722,
+  "author": "ranerd",
+  "tags": "créatif, blanche, homme, l'architecture, façade, moderne, résumé, ouvrages d'art, texture, marcher, en marchant, homme qui marche, architecture contemporaine, architecture moderne",
+  "syllabes": [
+    "mar",
+    "ché"
+  ],
+  "syllabes_texte": "mar-ché",
+  "image_path": "assets/images/metiers_lieux/marche.jpg",
+  "level": 1,
+  "success_count": 0
 }

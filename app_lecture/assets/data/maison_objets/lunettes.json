@@ -1,15 +1,15 @@
 {
-    "mot": "lunettes",
-    "theme": "maison_objets",
-    "pixabay_id": 472027,
-    "author": "Studio_Iris",
-    "tags": "lunettes, lunettes de soleil, lunettes de lecture, accessoire, concentrer, monochrome, noir et blanc, lunettes, lunettes, lunettes, lunettes, lunettes",
-    "syllabes": [
-        "lu",
-        "nettes"
-    ],
-    "syllabes_texte": "lu - nettes",
-    "image_path": "assets/images/maison_objets/lunettes.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "lunettes",
+  "theme": "maison_objets",
+  "pixabay_id": 472027,
+  "author": "Studio_Iris",
+  "tags": "lunettes, lunettes de soleil, lunettes de lecture, accessoire, concentrer, monochrome, noir et blanc, lunettes, lunettes, lunettes, lunettes, lunettes",
+  "syllabes": [
+    "lun",
+    "ettes"
+  ],
+  "syllabes_texte": "lun-ettes",
+  "image_path": "assets/images/maison_objets/lunettes.jpg",
+  "level": 1,
+  "success_count": 0
 }

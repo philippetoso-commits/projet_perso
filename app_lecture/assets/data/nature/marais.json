@@ -1,15 +1,15 @@
 {
-    "mot": "marais",
-    "theme": "nature",
-    "pixabay_id": 60153,
-    "author": "JamesDeMers",
-    "tags": "cheval, animal, pâturage, cheval sauvage, nature, mammifère, équidé, poney des marais, marais",
-    "syllabes": [
-        "ma",
-        "rais"
-    ],
-    "syllabes_texte": "ma - rais",
-    "image_path": "assets/images/nature/marais.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "marais",
+  "theme": "nature",
+  "pixabay_id": 60153,
+  "author": "JamesDeMers",
+  "tags": "cheval, animal, pâturage, cheval sauvage, nature, mammifère, équidé, poney des marais, marais",
+  "syllabes": [
+    "mar",
+    "ais"
+  ],
+  "syllabes_texte": "mar-ais",
+  "image_path": "assets/images/nature/marais.jpg",
+  "level": 1,
+  "success_count": 0
 }

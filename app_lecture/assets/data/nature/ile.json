@@ -1,14 +1,15 @@
 {
-    "mot": "ile",
-    "theme": "nature",
-    "pixabay_id": 5400973,
-    "author": "wal_172619",
-    "tags": "musée, temple, ancien, garde de sécurité, colonnes, architecture, imeuble, historique, vieille, berlin, ile des musées, récit",
-    "syllabes": [
-        "ile"
-    ],
-    "syllabes_texte": "ile",
-    "image_path": "assets/images/nature/ile.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "ile",
+  "theme": "nature",
+  "pixabay_id": 5400973,
+  "author": "wal_172619",
+  "tags": "musée, temple, ancien, garde de sécurité, colonnes, architecture, imeuble, historique, vieille, berlin, ile des musées, récit",
+  "syllabes": [
+    "i",
+    "le"
+  ],
+  "syllabes_texte": "i-le",
+  "image_path": "assets/images/nature/ile.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,14 +1,15 @@
 {
-    "mot": "maitre",
-    "theme": "metiers_lieux",
-    "pixabay_id": 3171665,
-    "author": "barskefranck",
-    "tags": "arbre, parc, en plein air, nature, maison, maitre, soleil",
-    "syllabes": [
-        "maitre"
-    ],
-    "syllabes_texte": "maitre",
-    "image_path": "assets/images/metiers_lieux/maitre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "maître",
+  "theme": "metiers_lieux",
+  "pixabay_id": 3171665,
+  "author": "barskefranck",
+  "tags": "arbre, parc, en plein air, nature, maison, maitre, soleil",
+  "syllabes": [
+    "maî",
+    "tre"
+  ],
+  "syllabes_texte": "maî-tre",
+  "image_path": "assets/images/metiers_lieux/maitre.jpg",
+  "level": 1,
+  "success_count": 0
 }

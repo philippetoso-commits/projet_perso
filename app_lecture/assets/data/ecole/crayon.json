@@ -1,14 +1,15 @@
 {
-    "mot": "crayon",
-    "theme": "ecole",
-    "pixabay_id": 104739,
-    "author": "husnil2409",
-    "tags": "déchets, copeaux, crayons de couleur, copeaux de crayon, gaspillage",
-    "syllabes": [
-        "crayon"
-    ],
-    "syllabes_texte": "crayon",
-    "image_path": "assets/images/ecole/crayon.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "crayon",
+  "theme": "ecole",
+  "pixabay_id": 104739,
+  "author": "husnil2409",
+  "tags": "déchets, copeaux, crayons de couleur, copeaux de crayon, gaspillage",
+  "syllabes": [
+    "cra",
+    "yon"
+  ],
+  "syllabes_texte": "cra-yon",
+  "image_path": "assets/images/ecole/crayon.jpg",
+  "level": 1,
+  "success_count": 0
 }

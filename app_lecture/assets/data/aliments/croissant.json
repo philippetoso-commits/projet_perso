@@ -1,15 +1,15 @@
 {
-    "mot": "croissant",
-    "theme": "aliments",
-    "pixabay_id": 6562091,
-    "author": "9nails",
-    "tags": "croissant, pain, pâtisserie, petit déjeuner, framboise, assiette, baie, croissant, croissant, croissant, croissant, croissant",
-    "syllabes": [
-        "crois",
-        "sant"
-    ],
-    "syllabes_texte": "crois - sant",
-    "image_path": "assets/images/aliments/croissant.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "croissant",
+  "theme": "aliments",
+  "pixabay_id": 6562091,
+  "author": "9nails",
+  "tags": "croissant, pain, pâtisserie, petit déjeuner, framboise, assiette, baie, croissant, croissant, croissant, croissant, croissant",
+  "syllabes": [
+    "croiss",
+    "ant"
+  ],
+  "syllabes_texte": "croiss-ant",
+  "image_path": "assets/images/aliments/croissant.jpg",
+  "level": 1,
+  "success_count": 0
 }

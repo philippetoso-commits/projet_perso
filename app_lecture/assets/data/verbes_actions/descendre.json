@@ -1,15 +1,15 @@
 {
-    "mot": "descendre",
-    "theme": "verbes_actions",
-    "pixabay_id": 7377469,
-    "author": "franklinterrydarck",
-    "tags": "mariage, la mariée, descendre l'allée",
-    "syllabes": [
-        "des",
-        "cendre"
-    ],
-    "syllabes_texte": "des - cendre",
-    "image_path": "assets/images/verbes_actions/descendre.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "descendre",
+  "theme": "verbes_actions",
+  "pixabay_id": 7377469,
+  "author": "franklinterrydarck",
+  "tags": "mariage, la mariée, descendre l'allée",
+  "syllabes": [
+    "des",
+    "cendre"
+  ],
+  "syllabes_texte": "des-cendre",
+  "image_path": "assets/images/verbes_actions/descendre.jpg",
+  "level": 1,
+  "success_count": 0
 }

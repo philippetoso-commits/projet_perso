@@ -1,15 +1,15 @@
 {
-    "mot": "noisette",
-    "theme": "aliments",
-    "pixabay_id": 1574367,
-    "author": "Myriams-Fotos",
-    "tags": "noisettes, noisetier commun, corylus avellana, buisson de noisette, fruits verts, famille bouleau, noisette, nature, plante, feuille de noisette, branche, une succursale, vert",
-    "syllabes": [
-        "noi",
-        "sette"
-    ],
-    "syllabes_texte": "noi - sette",
-    "image_path": "assets/images/aliments/noisette.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "noisette",
+  "theme": "aliments",
+  "pixabay_id": 1574367,
+  "author": "Myriams-Fotos",
+  "tags": "noisettes, noisetier commun, corylus avellana, buisson de noisette, fruits verts, famille bouleau, noisette, nature, plante, feuille de noisette, branche, une succursale, vert",
+  "syllabes": [
+    "nois",
+    "ette"
+  ],
+  "syllabes_texte": "nois-ette",
+  "image_path": "assets/images/aliments/noisette.jpg",
+  "level": 1,
+  "success_count": 0
 }

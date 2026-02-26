@@ -1,17 +1,16 @@
 {
-    "mot": "fer a repasser",
-    "theme": "maison_objets",
-    "pixabay_id": 550622,
-    "author": "ptdh",
-    "tags": "la forge, artisanat, chaud, former, fer à repasser, forgeron, forge, lueur, a volé, artisanat, artisanat, artisanat, artisanat, forgeron, forgeron, forgeron, forgeron, forge, forge, forge, forge, forge",
-    "syllabes": [
-        "fer a ",
-        "re",
-        "pas",
-        "ser"
-    ],
-    "syllabes_texte": "fer a  - re - pas - ser",
-    "image_path": "assets/images/maison_objets/fer_a_repasser.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "fer a repasser",
+  "theme": "maison_objets",
+  "pixabay_id": 550622,
+  "author": "ptdh",
+  "tags": "la forge, artisanat, chaud, former, fer à repasser, forgeron, forge, lueur, a volé, artisanat, artisanat, artisanat, artisanat, forgeron, forgeron, forgeron, forgeron, forge, forge, forge, forge, forge",
+  "syllabes": [
+    "fer a re",
+    "pa",
+    "sser"
+  ],
+  "syllabes_texte": "fer a re-pa-sser",
+  "image_path": "assets/images/maison_objets/fer_a_repasser.jpg",
+  "level": 1,
+  "success_count": 0
 }

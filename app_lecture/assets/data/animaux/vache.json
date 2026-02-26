@@ -1,14 +1,15 @@
 {
-    "mot": "vache",
-    "theme": "animaux",
-    "pixabay_id": 5608144,
-    "author": "AveCalvar",
-    "tags": "vache, bovins, bétail, visage de vache, profil de vache, portrait de vache, ruminant, l'élevage d'animaux, cornes, mammifère, vache brune, monde animal, vache, vache, vache, vache, vache",
-    "syllabes": [
-        "vache"
-    ],
-    "syllabes_texte": "vache",
-    "image_path": "assets/images/animaux/vache.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "vache",
+  "theme": "animaux",
+  "pixabay_id": 5608144,
+  "author": "AveCalvar",
+  "tags": "vache, bovins, bétail, visage de vache, profil de vache, portrait de vache, ruminant, l'élevage d'animaux, cornes, mammifère, vache brune, monde animal, vache, vache, vache, vache, vache",
+  "syllabes": [
+    "va",
+    "che"
+  ],
+  "syllabes_texte": "va-che",
+  "image_path": "assets/images/animaux/vache.jpg",
+  "level": 1,
+  "success_count": 0
 }

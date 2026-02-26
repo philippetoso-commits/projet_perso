@@ -1,15 +1,15 @@
 {
-    "mot": "pantoufle",
-    "theme": "vetements",
-    "pixabay_id": 704705,
-    "author": "reimoon0",
-    "tags": "pantoufle, chaussures d'intérieur, salon, pantoufle, pantoufle, pantoufle, pantoufle, pantoufle",
-    "syllabes": [
-        "pan",
-        "toufle"
-    ],
-    "syllabes_texte": "pan - toufle",
-    "image_path": "assets/images/vetements/pantoufle.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pantoufle",
+  "theme": "vetements",
+  "pixabay_id": 704705,
+  "author": "reimoon0",
+  "tags": "pantoufle, chaussures d'intérieur, salon, pantoufle, pantoufle, pantoufle, pantoufle, pantoufle",
+  "syllabes": [
+    "pan",
+    "toufle"
+  ],
+  "syllabes_texte": "pan-toufle",
+  "image_path": "assets/images/vetements/pantoufle.jpg",
+  "level": 1,
+  "success_count": 0
 }

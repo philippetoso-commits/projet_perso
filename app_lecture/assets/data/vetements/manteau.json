@@ -1,15 +1,15 @@
 {
-    "mot": "manteau",
-    "theme": "vetements",
-    "pixabay_id": 7883774,
-    "author": "luongdejavu",
-    "tags": "femme, manteau, caméra, photographe, jeune, portrait, caméra, caméra, caméra, caméra, caméra, portrait",
-    "syllabes": [
-        "man",
-        "teau"
-    ],
-    "syllabes_texte": "man - teau",
-    "image_path": "assets/images/vetements/manteau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "manteau",
+  "theme": "vetements",
+  "pixabay_id": 7883774,
+  "author": "luongdejavu",
+  "tags": "femme, manteau, caméra, photographe, jeune, portrait, caméra, caméra, caméra, caméra, caméra, portrait",
+  "syllabes": [
+    "man",
+    "teau"
+  ],
+  "syllabes_texte": "man-teau",
+  "image_path": "assets/images/vetements/manteau.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,15 +1,16 @@
 {
-    "mot": "salade",
-    "theme": "aliments",
-    "pixabay_id": 5904093,
-    "author": "galyafanaseva",
-    "tags": "salade, salade grecque, feta, aliments, assiette, tomate, en bonne santé, des légumes, olives, végétarien, fromage, méditerranéen, salade, salade, salade, salade, salade, salade grecque",
-    "syllabes": [
-        "sa",
-        "lade"
-    ],
-    "syllabes_texte": "sa - lade",
-    "image_path": "assets/images/aliments/salade.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "salade",
+  "theme": "aliments",
+  "pixabay_id": 5904093,
+  "author": "galyafanaseva",
+  "tags": "salade, salade grecque, feta, aliments, assiette, tomate, en bonne santé, des légumes, olives, végétarien, fromage, méditerranéen, salade, salade, salade, salade, salade, salade grecque",
+  "syllabes": [
+    "sa",
+    "la",
+    "de"
+  ],
+  "syllabes_texte": "sa-la-de",
+  "image_path": "assets/images/aliments/salade.jpg",
+  "level": 1,
+  "success_count": 0
 }

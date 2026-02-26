@@ -1,16 +1,16 @@
 {
-    "mot": "hopital",
-    "theme": "metiers_lieux",
-    "pixabay_id": 6562941,
-    "author": "ahundt",
-    "tags": "sanatorium, bâtiment abandonné, l'architecture, hôpital, hopital psychiatrique, institution psychiatrique",
-    "syllabes": [
-        "ho",
-        "pi",
-        "tal"
-    ],
-    "syllabes_texte": "ho - pi - tal",
-    "image_path": "assets/images/metiers_lieux/hopital.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "hôpital",
+  "theme": "metiers_lieux",
+  "pixabay_id": 6562941,
+  "author": "ahundt",
+  "tags": "sanatorium, bâtiment abandonné, l'architecture, hôpital, hopital psychiatrique, institution psychiatrique",
+  "syllabes": [
+    "hô",
+    "pi",
+    "tal"
+  ],
+  "syllabes_texte": "hô-pi-tal",
+  "image_path": "assets/images/metiers_lieux/hopital.jpg",
+  "level": 1,
+  "success_count": 0
 }

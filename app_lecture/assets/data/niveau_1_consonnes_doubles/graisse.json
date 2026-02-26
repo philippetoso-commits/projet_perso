@@ -1,16 +1,17 @@
 {
-    "mot": "graisse",
-    "theme": "niveau_1_consonnes_doubles",
-    "pixabay_id": 3172869,
-    "author": "jackmac34",
-    "tags": "cirage, brosses, graisse, entretien, nettoyage, cirage, cirage, cirage, cirage, cirage, entretien",
-    "syllabes": [
-        "graisse"
-    ],
-    "syllabes_texte": "graisse",
-    "image_path": "assets/images/niveau_1_consonnes_doubles/graisse.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 7298040,
-    "photographer": "麗娜 顏"
+  "mot": "graisse",
+  "theme": "niveau_1_consonnes_doubles",
+  "pixabay_id": 3172869,
+  "author": "jackmac34",
+  "tags": "cirage, brosses, graisse, entretien, nettoyage, cirage, cirage, cirage, cirage, cirage, entretien",
+  "syllabes": [
+    "grai",
+    "sse"
+  ],
+  "syllabes_texte": "grai-sse",
+  "image_path": "assets/images/niveau_1_consonnes_doubles/graisse.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 7298040,
+  "photographer": "麗娜 顏"
 }

@@ -1,16 +1,17 @@
 {
-    "mot": "portefeuille",
-    "theme": "maison_objets",
-    "pixabay_id": 4802469,
-    "author": "Myriams-Fotos",
-    "tags": "fermeture éclair, portefeuille, crampe, petites dents, glisser, connexion, damengeldbörse, connectcompetition, portefeuille, portefeuille, portefeuille, portefeuille, portefeuille",
-    "syllabes": [
-        "por",
-        "te",
-        "feuille"
-    ],
-    "syllabes_texte": "por - te - feuille",
-    "image_path": "assets/images/maison_objets/portefeuille.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "portefeuille",
+  "theme": "maison_objets",
+  "pixabay_id": 4802469,
+  "author": "Myriams-Fotos",
+  "tags": "fermeture éclair, portefeuille, crampe, petites dents, glisser, connexion, damengeldbörse, connectcompetition, portefeuille, portefeuille, portefeuille, portefeuille, portefeuille",
+  "syllabes": [
+    "por",
+    "te",
+    "feui",
+    "lle"
+  ],
+  "syllabes_texte": "por-te-feui-lle",
+  "image_path": "assets/images/maison_objets/portefeuille.jpg",
+  "level": 1,
+  "success_count": 0
 }

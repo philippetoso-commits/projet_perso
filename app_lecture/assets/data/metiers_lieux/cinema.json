@@ -1,16 +1,16 @@
 {
-    "mot": "cinema",
-    "theme": "metiers_lieux",
-    "pixabay_id": 2586565,
-    "author": "8385",
-    "tags": "urne, choix, élection fédérale, la démocratie, château, cadenas, serrure en u, vote, urnengang, scrutin, électeur, politique, raccord, boucle, métal, gouvernement populaire, de campagne, 3d, arrière-plan transparent, cinema4d, urne, urne, urne, cadenas, vote, vote, vote, vote, vote",
-    "syllabes": [
-        "ci",
-        "ne",
-        "ma"
-    ],
-    "syllabes_texte": "ci - ne - ma",
-    "image_path": "assets/images/metiers_lieux/cinema.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "cinéma",
+  "theme": "metiers_lieux",
+  "pixabay_id": 2586565,
+  "author": "8385",
+  "tags": "urne, choix, élection fédérale, la démocratie, château, cadenas, serrure en u, vote, urnengang, scrutin, électeur, politique, raccord, boucle, métal, gouvernement populaire, de campagne, 3d, arrière-plan transparent, cinema4d, urne, urne, urne, cadenas, vote, vote, vote, vote, vote",
+  "syllabes": [
+    "ci",
+    "né",
+    "ma"
+  ],
+  "syllabes_texte": "ci-né-ma",
+  "image_path": "assets/images/metiers_lieux/cinema.jpg",
+  "level": 1,
+  "success_count": 0
 }

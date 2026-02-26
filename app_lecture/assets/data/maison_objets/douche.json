@@ -1,14 +1,15 @@
 {
-    "mot": "douche",
-    "theme": "maison_objets",
-    "pixabay_id": 7107142,
-    "author": "JillWellington",
-    "tags": "cœurs, bonbons, desserts, traite, valentin, douche de mariage, douche nuptiale, vue de dessus, oréos enrobés de chocolat, des pâtisseries, biscuits",
-    "syllabes": [
-        "douche"
-    ],
-    "syllabes_texte": "douche",
-    "image_path": "assets/images/maison_objets/douche.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "douche",
+  "theme": "maison_objets",
+  "pixabay_id": 7107142,
+  "author": "JillWellington",
+  "tags": "cœurs, bonbons, desserts, traite, valentin, douche de mariage, douche nuptiale, vue de dessus, oréos enrobés de chocolat, des pâtisseries, biscuits",
+  "syllabes": [
+    "dou",
+    "che"
+  ],
+  "syllabes_texte": "dou-che",
+  "image_path": "assets/images/maison_objets/douche.jpg",
+  "level": 1,
+  "success_count": 0
 }

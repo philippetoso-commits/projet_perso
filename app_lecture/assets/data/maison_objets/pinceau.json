@@ -1,15 +1,15 @@
 {
-    "mot": "pinceau",
-    "theme": "maison_objets",
-    "pixabay_id": 1868562,
-    "author": "Pexels",
-    "tags": "mains, peinture, brosser, la peinture, aquarelle, peinture à l'aquarelle, pinceau, artiste, toile, art, papier, arts, peintre, artistique, créatif, créativité, peinture, peinture, peinture, peinture, peinture, aquarelle, aquarelle, artiste, art, peintre, peintre, peintre, peintre",
-    "syllabes": [
-        "pin",
-        "ceau"
-    ],
-    "syllabes_texte": "pin - ceau",
-    "image_path": "assets/images/maison_objets/pinceau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pinceau",
+  "theme": "maison_objets",
+  "pixabay_id": 1868562,
+  "author": "Pexels",
+  "tags": "mains, peinture, brosser, la peinture, aquarelle, peinture à l'aquarelle, pinceau, artiste, toile, art, papier, arts, peintre, artistique, créatif, créativité, peinture, peinture, peinture, peinture, peinture, aquarelle, aquarelle, artiste, art, peintre, peintre, peintre, peintre",
+  "syllabes": [
+    "pin",
+    "ceau"
+  ],
+  "syllabes_texte": "pin-ceau",
+  "image_path": "assets/images/maison_objets/pinceau.jpg",
+  "level": 1,
+  "success_count": 0
 }

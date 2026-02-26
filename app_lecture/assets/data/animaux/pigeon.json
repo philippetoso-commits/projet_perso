@@ -1,15 +1,15 @@
 {
-    "mot": "pigeon",
-    "theme": "animaux",
-    "pixabay_id": 174818,
-    "author": "schneeknirschen",
-    "tags": "pigeon, oiseau, animal, crested pigeon, plumage, faune, région sauvage, nature, séance, pigeon, pigeon, pigeon, pigeon, pigeon",
-    "syllabes": [
-        "pi",
-        "geon"
-    ],
-    "syllabes_texte": "pi - geon",
-    "image_path": "assets/images/animaux/pigeon.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "pigeon",
+  "theme": "animaux",
+  "pixabay_id": 174818,
+  "author": "schneeknirschen",
+  "tags": "pigeon, oiseau, animal, crested pigeon, plumage, faune, région sauvage, nature, séance, pigeon, pigeon, pigeon, pigeon, pigeon",
+  "syllabes": [
+    "pi",
+    "geon"
+  ],
+  "syllabes_texte": "pi-geon",
+  "image_path": "assets/images/animaux/pigeon.jpg",
+  "level": 1,
+  "success_count": 0
 }

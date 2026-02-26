@@ -1,14 +1,15 @@
 {
-    "mot": "gomme",
-    "theme": "ecole",
-    "pixabay_id": 8405110,
-    "author": "Nennieinszweidrei",
-    "tags": "liquidambar, arbre étoile de mer, fruit de l'arbre à gomme douce, composé de fruits, fruit du gommeux, fruits en capsule, la nature, fermer, composé de graines",
-    "syllabes": [
-        "gomme"
-    ],
-    "syllabes_texte": "gomme",
-    "image_path": "assets/images/ecole/gomme.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "gomme",
+  "theme": "ecole",
+  "pixabay_id": 8405110,
+  "author": "Nennieinszweidrei",
+  "tags": "liquidambar, arbre étoile de mer, fruit de l'arbre à gomme douce, composé de fruits, fruit du gommeux, fruits en capsule, la nature, fermer, composé de graines",
+  "syllabes": [
+    "gom",
+    "me"
+  ],
+  "syllabes_texte": "gom-me",
+  "image_path": "assets/images/ecole/gomme.jpg",
+  "level": 1,
+  "success_count": 0
 }

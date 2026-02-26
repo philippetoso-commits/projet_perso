@@ -1,15 +1,16 @@
 {
-    "mot": "meduse",
-    "theme": "animaux",
-    "pixabay_id": 4914197,
-    "author": "carolannbussieres",
-    "tags": "méduse, méduses, meduse, sous-marin, nature, gélatineux, medusa, créature, mer, bleu, transparent, turquoise, aquarium",
-    "syllabes": [
-        "me",
-        "duse"
-    ],
-    "syllabes_texte": "me - duse",
-    "image_path": "assets/images/animaux/meduse.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "méduse",
+  "theme": "animaux",
+  "pixabay_id": 4914197,
+  "author": "carolannbussieres",
+  "tags": "méduse, méduses, meduse, sous-marin, nature, gélatineux, medusa, créature, mer, bleu, transparent, turquoise, aquarium",
+  "syllabes": [
+    "mé",
+    "du",
+    "se"
+  ],
+  "syllabes_texte": "mé-du-se",
+  "image_path": "assets/images/animaux/meduse.jpg",
+  "level": 1,
+  "success_count": 0
 }

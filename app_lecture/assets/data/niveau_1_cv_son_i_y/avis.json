@@ -1,16 +1,17 @@
 {
-    "mot": "avis",
-    "theme": "niveau_1_cv_son_i_y",
-    "pixabay_id": 364178,
-    "author": "geralt",
-    "tags": "écrire, conseil, main, apprendre, un avis, formation, compétences, carrière, connaissances, peut, école, savoir, remise des diplômes, étude, étudiant, apprendre, apprendre, apprendre, apprendre, apprendre",
-    "syllabes": [
-        "avis"
-    ],
-    "syllabes_texte": "avis",
-    "image_path": "assets/images/niveau_1_cv_son_i_y/avis.jpg",
-    "level": 1,
-    "success_count": 0,
-    "pexels_id": 4070984,
-    "photographer": "Erik Mclean"
+  "mot": "avis",
+  "theme": "niveau_1_cv_son_i_y",
+  "pixabay_id": 364178,
+  "author": "geralt",
+  "tags": "écrire, conseil, main, apprendre, un avis, formation, compétences, carrière, connaissances, peut, école, savoir, remise des diplômes, étude, étudiant, apprendre, apprendre, apprendre, apprendre, apprendre",
+  "syllabes": [
+    "a",
+    "vis"
+  ],
+  "syllabes_texte": "a-vis",
+  "image_path": "assets/images/niveau_1_cv_son_i_y/avis.jpg",
+  "level": 1,
+  "success_count": 0,
+  "pexels_id": 4070984,
+  "photographer": "Erik Mclean"
 }

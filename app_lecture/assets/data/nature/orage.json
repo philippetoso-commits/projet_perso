@@ -1,14 +1,16 @@
 {
-    "mot": "orage",
-    "theme": "nature",
-    "pixabay_id": 5416914,
-    "author": "Bru-nO",
-    "tags": "nuages, ciel, les nuages ​​d'orage, nature, orage, menaçant, humeur",
-    "syllabes": [
-        "orage"
-    ],
-    "syllabes_texte": "orage",
-    "image_path": "assets/images/nature/orage.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "orage",
+  "theme": "nature",
+  "pixabay_id": 5416914,
+  "author": "Bru-nO",
+  "tags": "nuages, ciel, les nuages ​​d'orage, nature, orage, menaçant, humeur",
+  "syllabes": [
+    "o",
+    "ra",
+    "ge"
+  ],
+  "syllabes_texte": "o-ra-ge",
+  "image_path": "assets/images/nature/orage.jpg",
+  "level": 1,
+  "success_count": 0
 }

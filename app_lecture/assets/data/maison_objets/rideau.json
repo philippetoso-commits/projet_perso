@@ -1,15 +1,15 @@
 {
-    "mot": "rideau",
-    "theme": "maison_objets",
-    "pixabay_id": 5383045,
-    "author": "kucukgulberkan",
-    "tags": "cat, animal de compagnie, la fenêtre, noir et blanc, animal, nature, rebord de fenêtre, rideau",
-    "syllabes": [
-        "ri",
-        "deau"
-    ],
-    "syllabes_texte": "ri - deau",
-    "image_path": "assets/images/maison_objets/rideau.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "rideau",
+  "theme": "maison_objets",
+  "pixabay_id": 5383045,
+  "author": "kucukgulberkan",
+  "tags": "cat, animal de compagnie, la fenêtre, noir et blanc, animal, nature, rebord de fenêtre, rideau",
+  "syllabes": [
+    "rid",
+    "eau"
+  ],
+  "syllabes_texte": "rid-eau",
+  "image_path": "assets/images/maison_objets/rideau.jpg",
+  "level": 1,
+  "success_count": 0
 }

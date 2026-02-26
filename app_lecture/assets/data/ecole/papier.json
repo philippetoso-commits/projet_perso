@@ -1,15 +1,15 @@
 {
-    "mot": "papier",
-    "theme": "ecole",
-    "pixabay_id": 1392749,
-    "author": "fill",
-    "tags": "papier, déchiqueteuse, flocons, recyclage, couper, papier déchiqueté, déchiquetage, bande de papier, déchiqueté, disposition, document shredder, politique de confidentialité, vieux papier, écrasé, l'industrie du papier, des ordures, papier, papier, recyclage, recyclage, recyclage, recyclage, recyclage",
-    "syllabes": [
-        "pa",
-        "pier"
-    ],
-    "syllabes_texte": "pa - pier",
-    "image_path": "assets/images/ecole/papier.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "papier",
+  "theme": "ecole",
+  "pixabay_id": 1392749,
+  "author": "fill",
+  "tags": "papier, déchiqueteuse, flocons, recyclage, couper, papier déchiqueté, déchiquetage, bande de papier, déchiqueté, disposition, document shredder, politique de confidentialité, vieux papier, écrasé, l'industrie du papier, des ordures, papier, papier, recyclage, recyclage, recyclage, recyclage, recyclage",
+  "syllabes": [
+    "pa",
+    "pier"
+  ],
+  "syllabes_texte": "pa-pier",
+  "image_path": "assets/images/ecole/papier.jpg",
+  "level": 1,
+  "success_count": 0
 }

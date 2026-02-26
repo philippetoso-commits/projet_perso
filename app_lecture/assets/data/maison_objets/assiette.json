@@ -1,15 +1,16 @@
 {
-    "mot": "assiette",
-    "theme": "maison_objets",
-    "pixabay_id": 569072,
-    "author": "JESHOOTS-com",
-    "tags": "penne, pâtes, assiette, assiette de pâtes, aliments, repas, cuisine italienne, italien, plat de pâtes, penne, penne, penne, penne, penne, pâtes, pâtes, pâtes",
-    "syllabes": [
-        "as",
-        "siette"
-    ],
-    "syllabes_texte": "as - siette",
-    "image_path": "assets/images/maison_objets/assiette.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "assiette",
+  "theme": "maison_objets",
+  "pixabay_id": 569072,
+  "author": "JESHOOTS-com",
+  "tags": "penne, pâtes, assiette, assiette de pâtes, aliments, repas, cuisine italienne, italien, plat de pâtes, penne, penne, penne, penne, penne, pâtes, pâtes, pâtes",
+  "syllabes": [
+    "a",
+    "ssie",
+    "tte"
+  ],
+  "syllabes_texte": "a-ssie-tte",
+  "image_path": "assets/images/maison_objets/assiette.jpg",
+  "level": 1,
+  "success_count": 0
 }

@@ -1,15 +1,15 @@
 {
-    "mot": "chemise",
-    "theme": "vetements",
-    "pixabay_id": 524022,
-    "author": "stevepb",
-    "tags": "chemise pour hommes, la chemise, tenue, vêtements, intelligent, brassard, manche, collier, coton, mode, textile, vêtement, bande, en tissu, chiffon, matériel, modèle, formel, bouton",
-    "syllabes": [
-        "che",
-        "mise"
-    ],
-    "syllabes_texte": "che - mise",
-    "image_path": "assets/images/vetements/chemise.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "chemise",
+  "theme": "vetements",
+  "pixabay_id": 524022,
+  "author": "stevepb",
+  "tags": "chemise pour hommes, la chemise, tenue, vêtements, intelligent, brassard, manche, collier, coton, mode, textile, vêtement, bande, en tissu, chiffon, matériel, modèle, formel, bouton",
+  "syllabes": [
+    "chem",
+    "ise"
+  ],
+  "syllabes_texte": "chem-ise",
+  "image_path": "assets/images/vetements/chemise.jpg",
+  "level": 1,
+  "success_count": 0
 }

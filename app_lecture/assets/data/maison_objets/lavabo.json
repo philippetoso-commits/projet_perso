@@ -1,16 +1,16 @@
 {
-    "mot": "lavabo",
-    "theme": "maison_objets",
-    "pixabay_id": 1851566,
-    "author": "Pexels",
-    "tags": "salle de bains, nettoyer, robinet, à l'intérieur, évier, en acier inoxydable, dessus de vanité, chrome, lavabo, eau du robinet, robinet, robinet, robinet, robinet, évier, lavabo, lavabo, lavabo, lavabo, lavabo",
-    "syllabes": [
-        "la",
-        "va",
-        "bo"
-    ],
-    "syllabes_texte": "la - va - bo",
-    "image_path": "assets/images/maison_objets/lavabo.jpg",
-    "level": 1,
-    "success_count": 0
+  "mot": "lavabo",
+  "theme": "maison_objets",
+  "pixabay_id": 1851566,
+  "author": "Pexels",
+  "tags": "salle de bains, nettoyer, robinet, à l'intérieur, évier, en acier inoxydable, dessus de vanité, chrome, lavabo, eau du robinet, robinet, robinet, robinet, robinet, évier, lavabo, lavabo, lavabo, lavabo, lavabo",
+  "syllabes": [
+    "la",
+    "va",
+    "bo"
+  ],
+  "syllabes_texte": "la-va-bo",
+  "image_path": "assets/images/maison_objets/lavabo.jpg",
+  "level": 1,
+  "success_count": 0
 }
